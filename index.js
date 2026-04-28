@@ -1,8 +1,10 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
+// Scriptable 코드의 유틸리티 함수 완벽 재현
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
 (async () => {
-  // 환경 변수에서 계정 정보 가져오기 (GitHub Secrets 연동)
   const USER_ID = process.env.USER_ID;
   const USER_PASS = process.env.USER_PASS;
   const GRADE = process.env.GRADE || 'M3'; 
@@ -17,27 +19,38 @@ const fs = require('fs');
   });
   const page = await browser.newPage();
 
+  // 1. 완벽한 아이폰(iOS Safari) 환경으로 위장
+  await page.setUserAgent('Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1');
+  await page.setViewport({ width: 390, height: 844, isMobile: true });
+
   try {
     console.log(`LRC 접속 중... (${targetUrl})`);
-    await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout:60000 });
+    
+    // 2. 신호 대기 포기: 10초만 시도하고 끊은 뒤, 강제로 2초 sleep (Scriptable 로직)
+    await page.goto(targetUrl, { timeout: 10000 }).catch(() => console.log('접속 지연 무시 (Scriptable 방식 적용)'));
+    await sleep(2000);
 
     // 로그인 필요 여부 확인
     const isLoginPage = await page.$('input[name="student_code"]') !== null;
 
     if (isLoginPage) {
       console.log('로그인 수행 중...');
-      await page.type('input[name="student_code"]', USER_ID);
-      await page.type('input[name="student_pass"]', USER_PASS);
-      await page.evaluate(() => document.getElementById('st').checked = true);
-
-      // ActionLogin() 실행 후 페이지 네비게이션 대기
-      await Promise.all([
-        page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 60000 }),
-        page.evaluate(() => ActionLogin())
-      ]);
       
-      // 로그인 성공 후 시간표 페이지로 정확히 재진입
-      await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
+      // Scriptable의 webview.evaluateJavaScript 로직과 동일
+      await page.evaluate((id, pw) => {
+        document.querySelector('input[name="student_code"]').value = id;
+        document.querySelector('input[name="student_pass"]').value = pw;
+        document.getElementById('st').checked = true;
+        ActionLogin();
+      }, USER_ID, USER_PASS);
+
+      // 로그인 완료까지 3초 강제 대기
+      await sleep(3000);
+      
+      console.log('시간표 페이지로 재진입...');
+      // 다시 URL 로드하고 2초 강제 대기 (Scriptable 로직)
+      await page.goto(targetUrl, { timeout: 10000 }).catch(() => {});
+      await sleep(2000);
     }
 
     console.log('시간표 데이터 파싱 중...');
@@ -85,13 +98,16 @@ const fs = require('fs');
       return { data: grid, lastUpdated: new Date().toISOString() };
     });
 
-    // 추출한 데이터를 JSON 파일로 저장
-    fs.writeFileSync('schedule.json', JSON.stringify(scheduleData, null, 2));
-    console.log('✅ schedule.json 저장 완료!');
+    if (scheduleData.error) {
+      console.error('❌ 파싱 실패:', scheduleData.error);
+    } else {
+      fs.writeFileSync('schedule.json', JSON.stringify(scheduleData, null, 2));
+      console.log('✅ schedule.json 저장 완료!');
+    }
 
   } catch (error) {
     console.error('❌ 크롤링 에러:', error);
-    process.exit(1); // 에러 발생 시 Action 실패 처리
+    process.exit(1);
   } finally {
     await browser.close();
   }
