@@ -9,7 +9,6 @@ const fs = require('fs');
   const today = new Date();
   const dateString = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
   
-  // 1. 처음엔 메인 홈페이지로 접속합니다 (병규님 아이디어 적용)
   const mainUrl = 'https://lrc.skkumed.ac.kr';
   const targetUrl = `https://lrc.skkumed.ac.kr/schdule_time.asp?grade=${GRADE}&rdate=${dateString}`;
 
@@ -19,41 +18,37 @@ const fs = require('fs');
   });
   const page = await browser.newPage();
 
-  // 봇 감지 우회용 User-Agent
   await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
 
   try {
     console.log(`LRC 메인 페이지 접속 중... (${mainUrl})`);
     
-    // 타임아웃 60초, domcontentloaded 기준으로 여유있게 대기
-    await page.goto(mainUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    // 1. 신호 대신, 페이지 이동 명령만 내리고 백그라운드로 넘깁니다 (waitUntil 생략)
+    page.goto(mainUrl).catch(() => {});
 
-    // 로그인 필요 여부 확인 (메인 페이지에 로그인 폼이 있다고 가정)
-    const isLoginPage = await page.$('input[name="student_code"]') !== null;
+    // 2. 화면에 로그인 입력칸이 나타날 때까지만 딱 기다립니다. (최대 30초)
+    console.log('로그인 폼 대기 중...');
+    await page.waitForSelector('input[name="student_code"]', { timeout: 30000 });
 
-    if (isLoginPage) {
-      console.log('메인 페이지에서 로그인 수행 중...');
-      
-      await page.type('input[name="student_code"]', USER_ID);
-      await page.type('input[name="student_pass"]', USER_PASS);
-      await page.evaluate(() => document.getElementById('st').checked = true);
+    console.log('로그인 폼 발견! 로그인 수행 중...');
+    await page.type('input[name="student_code"]', USER_ID);
+    await page.type('input[name="student_pass"]', USER_PASS);
+    await page.evaluate(() => document.getElementById('st').checked = true);
 
-      // 로그인 버튼 클릭(ActionLogin) 후 페이지가 완전히 넘어갈 때까지 대기
-      await Promise.all([
-        page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 60000 }),
-        page.evaluate(() => ActionLogin())
-      ]);
-      
-      console.log('로그인 성공! 시간표 페이지로 이동합니다...');
-      // 2. 로그인 성공 후에 비로소 시간표 페이지로 이동
-      await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
-    } else {
-       // 만약 이미 로그인이 되어있는 상태라면 바로 시간표로 이동
-       console.log('이미 로그인 상태입니다. 시간표 페이지로 바로 이동합니다.');
-       await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
-    }
+    // 3. 로그인 버튼 클릭 후, 바로 다음 페이지로 이동 명령을 내립니다.
+    await page.evaluate(() => ActionLogin());
+    
+    // 강제로 약간의 로그인 처리 시간을 줍니다.
+    await new Promise(r => setTimeout(r, 2000));
 
-    console.log('시간표 데이터 파싱 중...');
+    console.log('시간표 페이지로 이동 중...');
+    page.goto(targetUrl).catch(() => {});
+
+    // 4. 여기가 핵심입니다. 로딩 신호 무시하고 시간표 테이블(table.table)이 화면에 뜰 때까지만 기다립니다.
+    console.log('시간표 데이터 표(Table) 대기 중...');
+    await page.waitForSelector('table.table', { timeout: 30000 });
+
+    console.log('시간표 발견! 파싱 시작...');
     const scheduleData = await page.evaluate(() => {
       var rows = document.querySelectorAll('table.table tr');
       if (!rows || rows.length === 0) return { error: "테이블 없음" };
