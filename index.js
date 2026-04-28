@@ -19,7 +19,7 @@ const fs = require('fs');
 
   try {
     console.log(`LRC 접속 중... (${targetUrl})`);
-    await page.goto(targetUrl, { waitUntil: 'networkidle2' });
+    await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout:60000 });
 
     // 로그인 필요 여부 확인
     const isLoginPage = await page.$('input[name="student_code"]') !== null;
@@ -32,12 +32,12 @@ const fs = require('fs');
 
       // ActionLogin() 실행 후 페이지 네비게이션 대기
       await Promise.all([
-        page.waitForNavigation({ waitUntil: 'networkidle2' }),
+        page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 60000 }),
         page.evaluate(() => ActionLogin())
       ]);
       
       // 로그인 성공 후 시간표 페이지로 정확히 재진입
-      await page.goto(targetUrl, { waitUntil: 'networkidle2' });
+      await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
     }
 
     console.log('시간표 데이터 파싱 중...');
