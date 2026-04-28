@@ -20,6 +20,9 @@ jobs:
       - name: 패키지 설치
         run: npm install
 
+      - name: Puppeteer용 크롬 브라우저 설치
+        run: npx puppeteer browsers install chrome
+
       - name: 크롤링 스크립트 실행
         env:
           USER_ID: ${{ secrets.USER_ID }}
