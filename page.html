@@ -1,0 +1,1146 @@
+<!DOCTYPE html><html lang="ko"><head>
+<title>Learning Resource Center | 성균관대학교 의과대학 | 52.159.227.198 </title>
+<meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+<meta http-equiv="Content-Script-Type" content="text/javascript">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+
+<link rel="stylesheet" type="text/css" href="css/cms.css">
+<link rel="stylesheet" type="text/css" href="css/owl.css">
+<link rel="stylesheet" type="text/css" href="css/m_gnb.css">
+<link rel="stylesheet" type="text/css" href="css/user.css?ver=1.1">
+
+
+<style type="text/css">
+body,td,th {
+	font-family: "Noto Sans KR", sans-serif;
+}
+</style>
+
+
+<!-- pop -->
+<style type="text/css">
+#popp27 { position: absolute;display:block;  position: absolute; top:20%; left:20%; background-color:#f5f5f5; z-index:15;padding:10px;line-height:30px;font-size:15px;}
+#popp27 .cont {width:100%; height:auto;}
+#popp27 .close {width:calc(100% - 0px); height:30px; background:#f5f5f5; line-height:30px; padding-left:0px; font-size:13px;}
+#popp27 .close #close {float:right; margin-right:10px; cursor:pointer;}
+
+
+#popp28 {display:block; position: absolute; width:400px; height:480px;top:20%; left:60%;background:#fff; z-index:15000;}
+#popp28 .cont {width:400px; height:480px;}
+#popp28 .close {width:400px; height:30px; background:#f3f3f3; line-height:30px; padding-left:0px; font-size:13px;}
+#popp28 .close #close {float:right; margin-right:10px; cursor:pointer;}
+
+#mask {width: 100%; height: 100%; position: fixed; background: rgba(0,0,0,0.7) repeat; top: 0; left: 0;  z-index: 999;}
+
+
+@media screen and (max-width:1080px) {
+ #popp28 {display:block; position: absolute; width:400px; height:480px;top:20%; left:60%;background:#fff; z-index:15000;}
+}
+
+@media screen and (max-width:860px) {
+ #popp28 {display:none; position: absolute; width:100px; height:100px;top:20%; left:60%;background:#fff; z-index:15000;}
+}
+
+@media screen and (max-width:640px) {
+ #popp28 {display:none; position: absolute; width:100px; height:100px;top:20%; left:60%;background:#fff; z-index:15000;}
+}
+
+@media screen and (max-width:480px) {
+ #popp28 {display:none; position: absolute; width:100px; height:100px;top:20%; left:1%;background:#fff; z-index:15000;}
+}
+</style>
+
+<script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-XGRFDF2L9S&amp;cx=c&amp;_slc=1"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+<script type="text/javascript" src="js/jquery-ui-1.11.4.min.js"></script>
+<script type="text/javascript" src="js/owl.js"></script>
+<script type="text/javascript" src="js/cms.js"></script><style type="text/css"></style>
+<script type="text/javascript" src="js/user.js"></script>
+<script type="text/javascript" src="js/main_lnk.js"></script>
+<script type="text/javascript" src="js/visual.js"></script>
+<script type="text/javascript" src="js/m_mn.js"></script>
+<script>
+
+$(window).resize(function (){
+  // width값을 가져오기
+  var width_size = window.outerWidth;
+  
+});
+
+
+function hidePop(name)
+{
+   document.getElementById(name).style.display='none';
+   //setCookie(name,"none", 1) ;
+}
+
+function closePop(name)
+{
+   document.getElementById(name).style.display='none';
+}
+
+function showPop(name)
+{
+   document.getElementById(name).style.display='block';
+   
+}
+  
+  
+function getCookie(name) { 
+  var Found = false 
+  var start, end 
+  var i = 0 
+  while(i <= document.cookie.length) { 
+    start = i 
+    end = start + name.length 
+ 
+    if(document.cookie.substring(start, end) == name) { 
+      Found = true 
+      break 
+    } 
+    i++ 
+  } 
+ 
+  if(Found == true) { 
+    start = end + 1 
+    end = document.cookie.indexOf(";", start) 
+      if(end < start) 
+        end = document.cookie.length 
+    return document.cookie.substring(start, end) 
+  } 
+  return "" 
+}
+ 
+function setCookie( name, value, expiredays ) 
+{ 
+  var todayDate = new Date(); 
+  todayDate.setDate( todayDate.getDate() + expiredays ); 
+  document.cookie = name + "=" + escape( value ) + "; path=/; expires=" +     todayDate.toGMTString() + ";" 
+} 
+function closeWin(name)
+{
+    setCookie(name, "HIDE" , 1);         // 부모창에서 지정한 쿠키네임과 일치 해야 합니다.
+    closePop(name);
+}
+
+function OpenTam(xurl){
+window.open(xurl, 'bz', 'scrollbars=yes,resizable=yes,copyhistory=no,width=650,height=800,left=1,top=1')
+}	
+
+//OpenTam('/pop_up/stop_homepage.asp');
+//window.open('https://lrc.skkumed.ac.kr/pop_up/lrc_pop211103.html', 'me3', 'scrollbars=yes,resizable=yes,copyhistory=no,width=430,height=600,left=20,top=1');
+</script>
+<style type="text/css" media="print">.dropShadow{visibility:hidden;}</style></head>
+<body id="item_body" class="pc">
+
+
+<!-- <div id="popp27">
+ <div class="cont">
+  <img src="" alt="openlab" usemap="#Map" border="0" style="width: 600px;">
+  <div class="close">
+  <form method="post" action="" name="pop_form"> 
+   <span id="check">
+   <label for="chkday"><A href="javascript:closeWin('popp27')"><strong>오늘 하루동안 보지 않기</strong></a></label>
+   </span>
+   <span id="close"><A href="javascript:closePop('popp27')"><strong>닫기</strong></a></span>
+  </form>
+ </div> 
+ </div>
+</div> -->
+
+<!-- 
+<div id="popp27">
+ <div class="cont">
+  
+  <img src="./images/260209_poster.png" alt="" usemap="#Map" border="0" style="width: 600px;">
+  
+ </div>
+ <div class="close">
+  <form method="post" action="" name="pop_form"> 
+    <span id="check">
+    <label for="chkday"><A href="javascript:closeWin('popp27')"><strong>오늘 하루동안 보지 않기</strong></a></label>
+    </span>
+    <span id="close"><A href="javascript:closePop('popp27')"><strong>닫기</strong></a></span>
+   </form>
+ </div>
+</div> -->
+
+
+
+<!-- 스트레스 -->
+<header>
+<div class="top-gnb-wrap">
+<div class="top-header-wrap">
+    <div class="top-header-box">
+        <div class="top-right-header-box">
+           <ul class="header-link-box" style="padding-right:10px">
+		   
+			<li><a href="/index.asp" title="HOME">HOME</a></li>
+            <li><a href="https://lrc.skkumed.ac.kr/student_login.asp" title="로그인">로그인</a></li>
+            
+				
+          </ul>
+        </div>
+    </div>
+</div> 
+<!--head_logo-->
+<div class="bottom-header-wrap">
+    <div class="bottom-header-box">
+        <div class="bottom-top-header-box">
+            <a href="#" class="btn_menu" title="메뉴 열기"><img src="images/btn_m_menu.gif" alt="메뉴"></a>
+            <a class="logo" href="index.asp" title="성균관대학교 의과대학 바로가기"> 
+              <h1><span style="color:#2ea449"><img src="images/main_skku-som.jpg" alt="성균관대학교">의과대학_L.R.C</span></h1>                   
+            </a>    
+        </div>
+<!--head_logo//-->
+        <div class="bottom-bottom-header-box">
+        <!-- gnb -->
+        <div class="gnb">
+    <ul class="gnb-ul">
+        <li>
+            <a href="schdule_time.asp">강의시간표</a>
+            <ul class="sub-mn">
+                <li>
+                    <a href="/schdule_time.asp?grade=M1">M1</a>
+                </li>
+                <li>
+                    <a href="/schdule_time.asp?grade=M2">M2</a>
+                </li>
+                <li>
+                    <a href="/schdule_time.asp?grade=M3">M3</a>
+                </li>
+                <li>
+                    <a href="/schdule_time.asp?grade=M4">M4</a>
+                </li>
+                <li>
+                    <a href="/schdule_time.asp?grade=M5">M5</a>
+                </li>
+                <li>
+                    <a href="/schdule_time.asp?grade=M6">M6</a>
+                </li>
+            </ul>
+        </li>
+
+        <li>
+            <a href="#">공지사항</a>
+            <ul class="sub-mn">
+                <li>
+                    <a href="/lrc_notice.asp">공지사항</a>
+                </li>
+                <li>
+                    <a href="/lrc_st_notice.asp">학생공지사항</a>
+                </li>
+                <!-- <li>
+                    <a href="/lrc_notice_year.asp">교육과정일정표</a>
+                </li> -->
+            </ul>
+        </li>
+
+        <!-- 이진주 선생님 요청 24.07.02 -->
+        <li> 
+            <a href="#">교육과정</a>
+            <ul class="sub-mn">
+                <li>
+                    <a href="/lrc_notice_year.asp">교육과정일정표</a>
+                </li>
+                <li>
+                    <a href="/lrc_course_rule.asp">교육과정 규정</a>
+                </li>
+                <li>
+                    <a href="/lrc_course_guide.asp">교육과정 운영지침</a>
+                </li>
+            </ul>
+        </li>
+
+        <li>
+            <a href="#">학습자원</a>
+            <ul class="sub-mn">
+                <li>
+                    <a href="/lrc_course.asp">강의자료</a>
+                </li>
+                <li>
+                    <a href="/lrc_last_year_course.asp">지난해강의</a>
+                </li>
+                <li>
+                    <a href="/lrc_case_course.asp">PBL결과제출</a>
+                </li>
+                <li>
+                    <a href="https://lrc.skkumed.ac.kr/lrc_ekg_lecture.asp">심전도판독강의</a>
+                </li>
+                <li>
+                    <a href="/lrc_case_pbl_guide.asp">PBL 학습지침서</a>
+                </li>
+            </ul>
+        </li>
+
+        <li>
+            <a href="#">학습관리</a>
+            <ul class="sub-mn">
+                <li><a href="/meq/meq_list.asp">M.E.Q</a></li>
+                <li><a href="/cl/cl_list.asp">의무기록</a></li>
+                <li><a href="/cl/cl_case_ppt_list.asp">증례발표</a></li>
+				<li><a href="/cl/reflection_note_list.asp">자기성찰노트</a></li>
+                <li><a href="/cl/cl_check_dept_list.asp">체크리스트</a></li>
+                <li><a href="/cl/pbl_eval_list.asp">동료평가</a></li>
+                <li><a href="/meq/quiz_list.asp">Quiz</a></li>
+                <li><a href="/elective/elective.asp">Elective</a></li>
+                <li><a href="/cl/tutor_eval_list.asp">Tutor Comment</a></li>
+				<li><a href="/cl/cpx_eval_list.asp">환자와의사 평가결과</a></li>
+                <li><a href="/edu/edu_list.asp">우.사.교</a></li>
+                <li><a href="/quest/quest_st_chapter_list.asp">학생설문</a></li>
+                <li><a href="/cl/kang_list.asp">외래/병동계획(강북)</a></li>
+                <li><a href="/cl/chang_list.asp">외래/병동계획(창원)</a></li>
+                <li><a href="/quest/deep_st_chapter_list.asp">심화실습사전등록</a></li>
+                <!-- <li><a href="/quest/mbti_st_chapter_list.asp">전공적성검사</a></li> -->
+            </ul>
+        </li>
+
+        <li>
+            <a href="#">학생활동</a>
+            <ul class="sub-mn">
+                <li><a href="https://lrc.skkumed.ac.kr/forum/student_forum.asp?chapter=1">제1회 成醫 학술제</a></li>
+                <li><a href="https://lrc.skkumed.ac.kr/forum/student_elective.asp">ELECTIVE 온라인 전시회</a></li>
+                <li><a href="https://lrc.skkumed.ac.kr/forum/student_exhibition_view.asp">임상실습 전시회</a></li>
+                <li><a href="https://lrc.skkumed.ac.kr/forum/student_academic.asp">성의학술제 동료평가</a></li>
+            </ul>
+        </li>
+		
+        <li>
+            <a href="https://epbl.skkumed.ac.kr/" target="_blank">임상실습지침서</a>
+        </li>
+		
+        <li>
+            <a href="https://lrc.skkumed.ac.kr/student_view.asp" target="_blank">성적공시</a>
+        </li>
+		
+		
+        <!-- 23.12.01 방민정 선생님 요청 (메뉴 제거) -->
+        <!-- <li><a href="https://lrc.skkumed.ac.kr/consult/" >학생상담</a></li> -->
+
+    </ul>
+</div>   
+        <!-- //gnb -->
+        </div>
+    </div>
+</div>
+<nav class="slideMenu">
+    <div class="m_gnb">
+    <a href="#a" class="slide_close" title="닫기"><span class="hide">닫기</span></a>	
+	<ul class="dep1">			
+        <li>
+          <a href="schdule_time.asp">강의시간표</a> 					
+            <ul class="dep2">							
+               <li><a href="/schdule_time.asp?grade=M1">M1</a></li>
+			   <li><a href="/schdule_time.asp?grade=M2">M2</a></li>
+			   <li><a href="/schdule_time.asp?grade=M3">M3</a></li>
+               <li><a href="/schdule_time.asp?grade=M4">M4</a></li>
+               <li><a href="/schdule_time.asp?grade=M5">M5</a></li>
+               <li><a href="/schdule_time.asp?grade=M6">M6</a></li>		
+            </ul>				
+        </li>	
+	
+		
+        <li>
+          <a href="lrc_notice.asp">공지사항</a> 				
+            <ul class="dep2">							
+              <li><a href="lrc_notice.asp">공지사항</a></li>
+			  <li><a href="lrc_st_notice.asp">학생공지사항</a></li>
+			  <li><a href="/lrc_notice_year.asp">교육과정일정표</a></li>
+            </ul>					
+        </li>
+      
+		
+		<li>
+	          <a href="#">학습자원</a> 				
+				<ul class="dep2">						
+                 <li><a href="/lrc_course.asp">강의자료</a></li>
+				 <li><a href="/lrc_last_year_course.asp">지난해강의</a></li>
+				 <li><a href="/lrc_case_course.asp">PBL결과제출</a></li>
+				 <li><a href="http://lrc.skkumed.ac.kr/lrc_ekg_lecture.asp">심전도판독강의</a></li>
+                </ul>			
+		    </li>
+			
+			
+		<li>
+          <a href="/consult/">학습관리</a> 				
+            <ul class="dep2">							
+              <li><a href="/meq/meq_list.asp">M.E.Q</a></li>
+			  <li><a href="/cl/cl_list.asp">의무기록</a></li>
+			  <li><a href="/cl/cl_case_ppt_list.asp">증례발표</a></li>
+			  <li><a href="/cl/reflection_note_list.asp">자기성찰노트</a></li>
+			  <li><a href="/cl/cl_check_dept_list.asp">체크리스트</a></li>
+			  <li><a href="/cl/pbl_eval_list.asp">동료평가</a></li>
+			  <li><a href="/meq/quiz_list.asp">Quiz</a></li>
+			  <li><a href="/elective/elective.asp">Elective</a></li>
+			  <li><a href="/cl/tutor_eval_list.asp">Tutor Comment</a></li>
+			  <li><a href="/cl/cpx_eval_list.asp">환자와의사 평가결과</a></li>
+			  <li><a href="/edu/edu_list.asp">우.사.교</a></li>
+			  <li><a href="/quest/quest_st_chapter_list.asp">학생설문</a></li>
+			  <li><a href="/cl/kang_list.asp">외래/병동계획(강북)</a></li>
+			  <li><a href="/quest/deep_st_chapter_list.asp">심화실습사전등록</a></li>
+			  <!--
+			  <li><a href="/quest/mbti_st_chapter_list.asp">전공적성검사</a></li>
+			  -->
+            </ul>					
+        </li>
+		
+		
+		<li>
+          <a href="#">학생활동</a> 				
+            <ul class="dep2">							
+              <li><a href="http://lrc.skkumed.ac.kr/forum/student_forum.asp?chapter=1">제1회 成醫 학술제</a></li>
+			  <li><a href="http://lrc.skkumed.ac.kr/forum/student_elective.asp">ELECTIVE 온라인 전시회</a></li>
+			  <li><a href="http://lrc.skkumed.ac.kr/forum/student_exhibition_view.asp">임상실습 전시회</a></li>
+			  <li><a href="http://lrc.skkumed.ac.kr/forum/student_academic.asp">성의학술제 동료평가</a></li>
+            </ul>					
+        </li>			
+		
+		
+		
+		<li>
+          <a href="#">임상실습지침서</a> 				
+            <ul class="dep2">							
+              <li><a href="https://epbl.skkumed.ac.kr/">임상실습지침서</a></li>
+            </ul>					
+        </li>
+		
+
+        
+		
+		
+		
+		<li>
+          <a href="#">성적공시</a> 				
+            <ul class="dep2">							
+              <li><a href="https://lrc.skkumed.ac.kr/student_view.asp">성적공시</a></li>
+            </ul>					
+        </li>
+        
+        <!-- 23.12.01 방민정선생님 요청(메뉴 제거) -->
+		<!-- <li>
+          <a href="/consult/">학생상담</a> 				
+            <ul class="dep2">
+              <li><a href="/consult/">학생상담</a></li>
+            </ul>					
+        </li> -->
+		
+		
+	</ul>
+    </div>    
+</nav>   
+<div class="m-gnb-bg">&nbsp;</div>
+</div>
+</header>
+
+<div class="container">
+<div class="main-visual-box carousel-wrap">
+    <div class="main-visual-carousel owl-carousel owl-theme owl-loaded owl-drag">
+    
+
+    
+    
+	
+	
+	
+	
+	
+	<!--
+    <div class="item">
+        <div class="main-visual-img-box">
+            <img src="images/main03.jpg" alt="Main Img" /> 
+            <div class="main-bg-box">
+                <div class="main-visual-txt-box">
+                    <div class="dt">             
+                       	<p>
+						<strong>Open Space, Creative Mind</strong><span style="font-size:20px;"> &nbsp;열린 공간에서 창의적 아이디어와 따뜻한 마음을 갖춘 의사 양성</span>                       			
+                       	</p>
+                    </div>
+                </div>        
+            </div>        
+        </div>
+    </div>
+	
+	-->
+	
+	
+    <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2560px, 0px, 0px); transition: all; width: 7680px;"><div class="owl-item cloned" style="width: 1280px;"><div class="item">
+        <div class="main-visual-img-box">
+            <img src="images/lrc_main.jpg" alt="Main Img"> 
+            <div class="main-bg-box">
+                <!-- <div class="main-visual-txt-box">
+                    <div class="dt">     
+                           <p>
+                           <strong>Pride in Top</strong><span style="font-size:20px;"> &nbsp;탁월한 연구와 혁신적 교육으로 트렌드를 선도하는 의과대학</span>
+                           </p>
+                       <p>
+                       <a href="http://skb.skku.edu/" target="_blank" title="Read More" style="color: #fff;"></a>
+                       </p>
+                    </div>
+                </div>         -->
+            </div>        
+        </div>
+    </div></div><div class="owl-item cloned" style="width: 1280px;"><div class="item">
+        <div class="main-visual-img-box">
+            <!--<img src="images/main0907.jpg" alt="Main Img" />-->
+			<img src="images/lrc_porfolio.jpg" alt="Main Img">
+            <div class="main-bg-box">
+			     <div class="main-visual-txt-box">
+				    <div class="dt">             
+                       	<p>
+						    
+                                
+                                    바로가기
+                                    
+                                
+                                                   			    
+                       	</p>
+                    </div>
+                </div>
+				
+            </div>        
+        </div>
+    </div></div><div class="owl-item active" style="width: 1280px;"><div class="item">
+        <div class="main-visual-img-box">
+            <img src="images/lrc_main.jpg" alt="Main Img"> 
+            <div class="main-bg-box">
+                <!-- <div class="main-visual-txt-box">
+                    <div class="dt">     
+                           <p>
+                           <strong>Pride in Top</strong><span style="font-size:20px;"> &nbsp;탁월한 연구와 혁신적 교육으로 트렌드를 선도하는 의과대학</span>
+                           </p>
+                       <p>
+                       <a href="http://skb.skku.edu/" target="_blank" title="Read More" style="color: #fff;"></a>
+                       </p>
+                    </div>
+                </div>         -->
+            </div>        
+        </div>
+    </div></div><div class="owl-item" style="width: 1280px;"><div class="item">
+        <div class="main-visual-img-box">
+            <!--<img src="images/main0907.jpg" alt="Main Img" />-->
+			<img src="images/lrc_porfolio.jpg" alt="Main Img">
+            <div class="main-bg-box">
+			     <div class="main-visual-txt-box">
+				    <div class="dt">             
+                       	<p>
+						    
+                                
+                                    바로가기
+                                    
+                                
+                                                   			    
+                       	</p>
+                    </div>
+                </div>
+				
+            </div>        
+        </div>
+    </div></div><div class="owl-item cloned" style="width: 1280px;"><div class="item">
+        <div class="main-visual-img-box">
+            <img src="images/lrc_main.jpg" alt="Main Img"> 
+            <div class="main-bg-box">
+                <!-- <div class="main-visual-txt-box">
+                    <div class="dt">     
+                           <p>
+                           <strong>Pride in Top</strong><span style="font-size:20px;"> &nbsp;탁월한 연구와 혁신적 교육으로 트렌드를 선도하는 의과대학</span>
+                           </p>
+                       <p>
+                       <a href="http://skb.skku.edu/" target="_blank" title="Read More" style="color: #fff;"></a>
+                       </p>
+                    </div>
+                </div>         -->
+            </div>        
+        </div>
+    </div></div><div class="owl-item cloned" style="width: 1280px;"><div class="item">
+        <div class="main-visual-img-box">
+            <!--<img src="images/main0907.jpg" alt="Main Img" />-->
+			<img src="images/lrc_porfolio.jpg" alt="Main Img">
+            <div class="main-bg-box">
+			     <div class="main-visual-txt-box">
+				    <div class="dt">             
+                       	<p>
+						    
+                                
+                                    바로가기
+                                    
+                                
+                                                   			    
+                       	</p>
+                    </div>
+                </div>
+				
+            </div>        
+        </div>
+    </div></div></div></div><div class="owl-nav disabled"><div class="owl-prev">prev</div><div class="owl-next">next</div></div><div class="owl-dots"><div class="owl-dot active"><span></span></div><div class="owl-dot"><span></span></div></div></div>
+    <!-- 슬라이드 -->
+    <div class="control-wrap">
+      <a class="prev" href="#"><span class="hide">prev</span></a>
+      <a class="next" href="#"><span class="hide">next</span></a>
+    </div>
+    <a href="#a" title="정지" class="main-visual-ctrl carousel-stop" style="left: 668px;">
+      <img src="images/btn_main_visual_stop.png" alt="정지">
+      <img src="images/btn_main_visual_play.png" alt="재생">
+    </a>
+</div>
+
+<div class="main-content-wrap01" id="jwxe_main_content">
+   <div class="main-mini-wrap01">
+    <div class="main-mini-box mini-type01 main-mini-box01">
+        <h2 class="main-title">공지사항</h2>
+        <div class="mini-board-outer">
+          <ul class="mini-board-tab">
+			<li>
+                <a href="lrc_notice.asp" title="공지사항 " class="mini-board-tab-title">공지사항</a>
+                <div class="mini-board-content mini-board-content02">
+	          	<div class="item">
+	                 <ul>
+		             			 
+		              <li>
+		              <a class="" href="./lrc_notice_w.asp?bcode=nt&amp;number=4672">
+					   
+                         <span style="color:orange;font-size:12px;font-weight:normal">NEW</span>
+                      의사 국가시험 실기시험 문제복원 행위 예방 협조 요청 및 공익				  
+					 
+		              </a>
+		              <span>2026-04-28</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_notice_w.asp?bcode=nt&amp;number=4671">
+					   
+                         <span style="color:orange;font-size:12px;font-weight:normal">NEW</span>
+                      2026년 제 42기 혜춘장학생 선발 안내				  
+					 
+		              </a>
+		              <span>2026-04-23</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_notice_w.asp?bcode=nt&amp;number=4670">
+					   2026년도 제91회 의사 국가시험 필기시험 컴퓨터시험(CBT				  
+					 
+		              </a>
+		              <span>2026-04-17</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_notice_w.asp?bcode=nt&amp;number=4669">
+					   Elsevier 학습관리 플랫폼( Osmosis) 2차 사용 				  
+					 
+		              </a>
+		              <span>2026-04-16</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_notice_w.asp?bcode=nt&amp;number=4668">
+					   [서초생활관] 서초 생활관 에어컨 필터 청소 안내문				  
+					 
+		              </a>
+		              <span>2026-04-13</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_notice_w.asp?bcode=nt&amp;number=4667">
+					   [서초생활관] 4월 정기 방역소독 안내문				  
+					 
+		              </a>
+		              <span>2026-04-06</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_notice_w.asp?bcode=nt&amp;number=4666">
+					   2026학년도 의과대학 글로벌 트랙 장학 프로그램 2차 신청서				  
+					 
+		              </a>
+		              <span>2026-04-03</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_notice_w.asp?bcode=nt&amp;number=4665">
+					   Elsevier 학습관리 플랫폼( Osmosis) 1차 사용 				  
+					 
+		              </a>
+		              <span>2026-03-20</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_notice_w.asp?bcode=nt&amp;number=4664">
+					   2026학년도 1학기 수강철회 안내				  
+					 
+		              </a>
+		              <span>2026-03-18</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_notice_w.asp?bcode=nt&amp;number=4663">
+					   2026학년도 의과대학 글로벌 트랙 장학 프로그램 1차 신청서				  
+					 
+		              </a>
+		              <span>2026-03-13</span>
+		              </li>
+	                  
+                      </ul>
+		            </div>
+                </div>
+                <a href="lrc_notice.asp?bcode=nt" title="Read More" class="mini-board-tab-more"><img src="images/btn_more.png" alt="read more"></a>
+            </li>
+			
+			
+			  <li class="active">
+                <a href="lrc_st_notice.asp?bcode=notice2" title="학생공지사항 " class="mini-board-tab-title">학생공지사항</a>
+                <div class="mini-board-content mini-board-content02">
+	          	<div class="item">
+	                 <ul>
+		             			 
+		              <li>
+		              <a class="" href="./lrc_st_notice_w.asp?bcode=notice2&amp;number=170">
+					   
+                         <span style="color:orange;font-size:12px;font-weight:normal">NEW</span>
+                      2025년 2학기 M5 임상실습시험 안내					 
+		              </a>
+		              <span>2026-04-23</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_st_notice_w.asp?bcode=notice2&amp;number=169">
+					   
+                         <span style="color:orange;font-size:12px;font-weight:normal">NEW</span>
+                      2026년 제 1차 임상의학종합평가 안내					 
+		              </a>
+		              <span>2026-04-23</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_st_notice_w.asp?bcode=notice2&amp;number=168">
+					   Elsevier 학습관리 플랫폼(Osmosis) 2차 사용 설					 
+		              </a>
+		              <span>2026-04-16</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_st_notice_w.asp?bcode=notice2&amp;number=167">
+					   [M5 학생연구] 학회참관 보고서 양식					 
+		              </a>
+		              <span>2026-04-16</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_st_notice_w.asp?bcode=notice2&amp;number=166">
+					   26학년도 M2(24·25학번) 학생 대상 온라인 설명회 진행					 
+		              </a>
+		              <span>2026-04-09</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_st_notice_w.asp?bcode=notice2&amp;number=165">
+					   [M4] 필수학생연구 교육과정 안내 사항					 
+		              </a>
+		              <span>2026-04-07</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_st_notice_w.asp?bcode=notice2&amp;number=164">
+					   삼성창원병원 내과 실습 계획 사전 입력 안내(~3/27 금 까					 
+		              </a>
+		              <span>2026-03-23</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_st_notice_w.asp?bcode=notice2&amp;number=163">
+					   Elsevier 학습관리 플랫폼( Osmosis) 1차 사용 					 
+		              </a>
+		              <span>2026-03-20</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_st_notice_w.asp?bcode=notice2&amp;number=162">
+					   강북삼성병원 내과 외래 실습 계획 사전 입력 안내					 
+		              </a>
+		              <span>2026-03-18</span>
+		              </li>
+	                  			 
+		              <li>
+		              <a class="" href="./lrc_st_notice_w.asp?bcode=notice2&amp;number=161">
+					   2026학년도 1학기 기숙사(봉룡학사) 통금해제 신청 관련 안					 
+		              </a>
+		              <span>2026-03-10</span>
+		              </li>
+	                  
+                      </ul>
+		            </div>
+                </div>
+                <a href="lrc_st_notice.asp?bcode=notice2" title="Read More" class="mini-board-tab-more"><img src="images/btn_more.png" alt="read more"></a>
+            </li>
+        </ul>
+        <a href="#a" name="mini-control01" title="정지" class="mini-board-stop-btn carousel-stop" id="mini-control01"> <img src="images/btn_carousel_stop.gif" alt="정지"> <img src="images/btn_carousel_play.gif" alt="재생"> </a>
+	   </div>
+    </div>
+        <div class="main-mini-box mini-type01 main-mini-box05"><!-- main-mini-box 높이 결정 -->
+        <h2 class="main-title">강의시간표_<small>~2026-05-04</small></h2>		
+        <div class="mini-board-outer">
+          <ul class="mini-board-tab">
+            <li class="active">
+                <a href="schdule_time.asp?grade=M3" title="M3 시간표" class="mini-board-tab-title">M3</a>
+                <div class="mini-board-content mini-board-content01">        
+                 <div class="item">
+	          	<ul>
+				
+				  <li>
+                     <a class="">종양의 역학_<small>이재석</small></a>
+                     <span>2026-04-29 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">종양생물학_<small>김석형</small></a>
+                     <span>2026-04-29 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">Herpesvirus (2)_<small>정지욱</small></a>
+                     <span>2026-04-29 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">Herpesvirus (1)_<small>정지욱</small></a>
+                     <span>2026-04-29 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">Adenovirus_<small>정지욱</small></a>
+                     <span>2026-04-29 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">Picornavirus_<small>정지욱</small></a>
+                     <span>2026-04-30 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">Poxvirus_<small>정지욱</small></a>
+                     <span>2026-04-30 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">항우울제_<small>최정윤</small></a>
+                     <span>2026-04-30 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">정신병 약물_<small>최정윤</small></a>
+                     <span>2026-04-30 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">항불안제 및 수면제_<small>최정윤</small></a>
+                     <span>2026-04-30 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">Auditory &amp; vesti_<small>김현진</small></a>
+                     <span>2026-04-30 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">역학연구에서의 관련도 지표와 _<small>신명희</small></a>
+                     <span>2026-05-04 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">역학연구에서의 관련도 지표와 _<small>신명희</small></a>
+                     <span>2026-05-04 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">(실습) 질의응답/ 과제8 풀_<small>신명희</small></a>
+                     <span>2026-05-04 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">B세포의 항체 생산_<small>김태진</small></a>
+                     <span>2026-05-04 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">B세포 활성화_<small>김태진</small></a>
+                     <span>2026-05-04 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">B세포 기능_<small>김태진</small></a>
+                     <span>2026-05-04 </span>
+                  </li>		
+                  						
+			  </ul>
+		</div>	
+        </div>
+          <a href="schdule_time.asp?grade=M4" title="Read More" class="mini-board-tab-more">
+		  <img src="images/btn_more.png" alt="read more"></a>
+        </li>
+        
+		 <li>
+         <a href="schdule_time.asp?grade=M4" title="M4 시간표" class="mini-board-tab-title">M4</a>
+         <div class="mini-board-content mini-board-content02">  
+		    <div class="item">
+	        <ul>
+			    
+				  <li>
+                     <a class="">허혈성 장질환, 대장게실_<small>김은란</small></a>
+                     <span>2026-04-29 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">Mini case: 안면부종(_<small>김어진</small></a>
+                     <span>2026-04-29 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">Tutorial 2_<small>외부강사</small></a>
+                     <span>2026-04-29 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">화이트코트 세레머니_<small>외부강사</small></a>
+                     <span>2026-04-29 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">Tutorial3 PBL Ca_<small>외부강사</small></a>
+                     <span>2026-04-30 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">case mapping_<small>외부강사</small></a>
+                     <span>2026-04-30 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">유방에 뭐가 만져져요, 유방이_<small>유종한</small></a>
+                     <span>2026-04-30 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">콜로키아_<small>구동회</small></a>
+                     <span>2026-04-30 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">항암제(아이캠퍼스 온라인)_<small>임성희</small></a>
+                     <span>2026-05-01 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">종양면역(아이캠퍼스 온라인)_<small>임성희</small></a>
+                     <span>2026-05-01 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">혈액종양학 실습(아이캠퍼스 온_<small>박연희</small></a>
+                     <span>2026-05-01 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">분자세포실험 논문 읽기_<small>박웅양</small></a>
+                     <span>2026-05-04 </span>
+                  </li>		
+                  
+				  <li>
+                     <a class="">IRB 심의용 연구계획서의 요_<small>허우성</small></a>
+                     <span>2026-05-04 </span>
+                  </li>		
+                  
+			</ul>
+		   </div>
+          </div>
+           <a href="schdule_time.asp" title="Read More" class="mini-board-tab-more"><img src="images/btn_more.png" alt="read more"></a>
+         </li>
+		   
+		 <li>
+         <a href="schdule_time.asp?grade=M5" title="M5 시간표" class="mini-board-tab-title">M5</a>
+         <div class="mini-board-content mini-board-content02">  
+		    <div class="item">
+	        <ul>
+			     
+			</ul>
+		   </div>
+          </div>
+           <a href="schdule_time.asp" title="Read More" class="mini-board-tab-more"><img src="images/btn_more.png" alt="read more"></a>
+          </li>
+		   
+		 <li>
+         <a href="schdule_time.asp?grade=M6" title="M6 시간표" class="mini-board-tab-title">M6</a>
+         <div class="mini-board-content mini-board-content02">  
+		    <div class="item">
+	        <ul>
+			      
+			</ul>
+		   </div>
+          </div>
+           <a href="schdule_time.asp" title="Read More" class="mini-board-tab-more"><img src="images/btn_more.png" alt="read more"></a>
+           </li>
+        </ul>
+          <a href="#a" name="mini-control01" title="정지" class="mini-board-stop-btn carousel-stop" id="mini-control"> <img src="images/btn_carousel_stop.gif" alt="정지"> <img src="images/btn_carousel_play.gif" alt="재생"></a></div>
+    </div>    
+</div>
+</div>
+
+<!--
+<div class="main-content-wrap02">
+<div class="main-mini-wrap02">
+  <div class="main-mini-box main-mini-box03">
+    <h2 class="main-title">SKKU-SOM Headlines</h2>
+    <div class="mini-board-outer">
+      <div class="mini-board-content mini-board-content03 carousel-wrap">
+        <div class="owl-carousel owl-theme">
+          <div class="item"> <a href="headline02.asp#new" title="skku-sompeople">
+            <p style="text-align:center; color:#55a005; font-size:22px; font-weight:400;">NEWS</p>
+            <img src="images/head_news02.jpg" alt="의과대학 임상교육장 이전 기념식 개최" /> </a>
+            <p> <a href="headline02.asp#new" title="skku-sompeople">P&FM ESCI 등재</a> </p>
+          </div>
+          <div class="item"> <a href="headline02.asp#people" title="skku-somnews">
+            <p style="text-align:center; color:#e47211; font-size:22px; font-weight:400;">PEOPLE</p>
+            <img src="images/head_people01.jpg" alt="이경수 신임 의무부총장 취임 인사" /> </a>
+            <p> <a href="#">새로운 임상교육장을 오픈하며</a> </p>
+          </div>
+          <div class="item"> <a href="headline02.asp#edu" title="skku-someducation">    
+            <p style="text-align:center; color:#00457e; font-size:22px; font-weight:400;">EDUCATION</p>
+            <img src="images/head_edu02.jpg" alt="Elective Program 발표회 개최" /> </a>
+            <p> <a href="headline02.asp#edu" title="skku-somnews">2019년 1학기 PBL 동료평가 시상식</a> </p>
+          </div>
+          <div class="item"> <a href="headline02.asp#st" title="skku-somstudent">
+            <p style="text-align:center; color:#ff0404; font-size:22px; font-weight:400;">STUDENTS</p>
+            <img src="images/head_st02.jpg" alt="2018 학생 체육대회 개최" /> </a>
+            <p>  <a href="headline02.asp#st" title="skku-somstudent">하계방학 존스홉킨스 참가후기</a> </p>
+          </div>
+        </div>        
+      </div>
+      </div>
+  </div>
+</div>
+</div>
+	-->
+<script>
+
+function OpenGrade(url){
+   url=window.open(url, 'newWin', "width=1100,height=800,scrollbars=yes,resizable=yes, status=1,top=0, left=0");
+}
+
+function EvtUrl(xurl)
+{
+   document.lnk.action=xurl.value;
+   document.lnk.submit();
+}
+</script>
+
+<form name="lnk" method="post" target="eeee">
+<div class="main-lnk-wrap">
+<div class="main-lnk-box">
+      <ul class="lnk-ul">
+	  
+	    
+		  
+		  <li style="width: 14.2083%;">
+              <a href="http://www.skkumed.ac.kr" target="b" title="학습관리" style="color:#31301e">의과대학</a>
+		  </li>
+		  
+		  
+		  
+          <li style="width: 24.3333%;">
+              <a href="http://lrc.skkumed.ac.kr/schdule_time.asp" title="학부시간표" style="color:#31301e">학부시간표</a></li>
+         
+		 <li style="width: 25.6667%;">
+            <a href="http://www.skkumed.ac.kr/course2_bio_lecture.asp" target="aa" title="대학원시간표" style="color:#31301e">대학원시간표</a>
+		 </li>
+			
+          <!-- <li>
+              <a href="http://lrc.skkumed.ac.kr/student_view.asp" title="성적공시"  style="color:#31301e">성적공시</a>
+		 </li> -->
+			  
+          
+
+		  <li style="width: 21.5833%;">
+              <a href="https://tmdr.skkumed.ac.kr/" target="_blank" title="TMDR" style="color:#31301e">TMDR</a>
+		  </li>
+		 
+          
+          <li style="width: 14.2083%;"><a href="https://helper.skku.edu/helper/index.do" target="d" title="인권센터" style="color:#31301e">인권센터</a></li>
+      </ul>
+	  
+
+
+
+      <!-- 25.01.13주석 -->
+	  <!-- <ul style="margin-top:10px;">
+	  <li>
+            <select name="ano" onchange="javascript:EvtUrl(this)" style="border:1px solid #666;border-radius:3px;color:#31301e;width:140px;height:25px;font-size:14px;">
+			<option value="">e-Anatomy 선택</option>
+			<option value="http://e-histology.or.kr/">E-histology</option>
+			<option value="http://e-neuroanatomy.or.kr/">E-neuroanatomy</option>
+			<option value="http://e-anatomy.or.kr/">E-anatomy</option>
+			</select>
+		  </li>
+		  
+	  </ul> -->
+	  
+</div>
+</div>
+</form>  	
+</div>
+
+<script>
+ //-- 구굴통계 2022.08.04
+ 
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+ 
+  ga('create', 'UA-4815848-8', 'auto');
+  ga('send', 'pageview');
+</script>
+
+<footer>
+<div class="foot-wrap">
+	<div class="foot-bottom-wrap">
+		<div class="foot-bottom-box">
+			<p>Learning Resource Center</p>
+			<ul class="footer-lnk">
+			    <li><a href="https://www.skku.edu" target="d" title="성균관대학교">성균관대학교</a></li>
+				<li><a href="https://www.samsunghospital.com" target="a" title="삼성서울병원">삼성서울병원</a></li>
+				<li><a href="https://www.mededu.or.kr/" target="b" title="의과대학이러닝컨소시엄">의과대학이러닝컨소시엄</a></li>
+			</ul>
+			<address>
+				<ul class="footer-contact">
+					<li>16419 경기도 수원시 장안구 서부로 2066  성균관대학교 의과대학 Tel : 031-299-6021~7 Fax : 031-299-6029</li>
+					<!-- 
+                    <li>06355 서울시 강남구 일원로 115 삼성생명 일원역빌딩 의과대학 임상교육장 B동9층 Tel : 02-2148-9911~6 Fax : 02-2148-9919 </li>
+					-->
+					<li>COPYRIGHT ⓒ 2018 SUNGKYUNKWAN UNIVERSITY SCHOOL OF MEDICINE</li>
+				</ul>
+				<ul class="footer-law">
+					<li><a class="txt-blue" href="https://www.skku.edu/main_renew2/etc/private.do" target="e" title="개인정보처리방침 바로가기">개인정보처리방침</a></li>
+					<li><a href="https://www.skku.edu/skku/etc/netizen.do" target="f" title="네티즌윤리규약 바로가기">네티즌윤리규약</a></li>
+					<li><a href="#" onclick="window.open('https://www.skku.edu/skku/etc/pop_email.do', '', 'width=470, height=510, left=300, top=200');" title="이메일무단수집거부 바로가기">이메일무단수집거부</a></li>
+				</ul>
+			</address>
+			<a class="scroll-top-btn" href="#" title="상단으로 이동"><img alt="top" src="https://lrc.skkumed.ac.kr/images/btn_scroll_top.gif"></a></div>
+	</div>
+</div>
+</footer>  
+
+<script>
+
+var isHide=getCookie("popp27");
+    isHide=isHide.replace("=","");
+
+if(isHide=="HIDE")
+   {
+     hidePop('popp27');
+   }else{
+     showPop('popp27');
+}
+</script>
+<noscript><p>이 사이트는 자바스크립트를 지원하지 않으면 정상적으로 보이지 않을수 있습니다.</p></noscript>
+
+
+</body></html>
