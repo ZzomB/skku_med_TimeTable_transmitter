@@ -33,6 +33,6 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # 저장할 파일 목록에 스크린샷과 html을 추가합니다
-          git add schedule.json screenshot.png page.html
+          # json을 빼고 사진과 html만 올립니다
+          git add screenshot.png page.html
           git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Update files" && git push)
