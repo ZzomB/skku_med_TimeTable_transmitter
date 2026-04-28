@@ -29,10 +29,9 @@ jobs:
           USER_PASS: ${{ secrets.USER_PASS }}
         run: node index.js
 
-      - name: 변경된 파일 커밋 및 푸시
+      - name: 변경사항 커밋 및 푸시
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          # json을 빼고 사진과 html만 올립니다
-          git add screenshot.png page.html
-          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: Update files" && git push)
+          git add schedule.json screenshot.png page.html
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update schedule" && git push)
