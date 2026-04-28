@@ -1,9 +1,6 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 
-// Scriptable 코드의 유틸리티 함수 완벽 재현
-const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
-
 (async () => {
   const USER_ID = process.env.USER_ID;
   const USER_PASS = process.env.USER_PASS;
@@ -11,6 +8,9 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
   const today = new Date();
   const dateString = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+  
+  // 1. 처음엔 메인 홈페이지로 접속합니다 (병규님 아이디어 적용)
+  const mainUrl = 'https://lrc.skkumed.ac.kr';
   const targetUrl = `https://lrc.skkumed.ac.kr/schdule_time.asp?grade=${GRADE}&rdate=${dateString}`;
 
   const browser = await puppeteer.launch({
@@ -19,38 +19,38 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
   });
   const page = await browser.newPage();
 
-  // 1. 완벽한 아이폰(iOS Safari) 환경으로 위장
-  await page.setUserAgent('Mozilla/5.0 (iPhone; CPU iPhone OS 16_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.1');
-  await page.setViewport({ width: 390, height: 844, isMobile: true });
+  // 봇 감지 우회용 User-Agent
+  await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
 
   try {
-    console.log(`LRC 접속 중... (${targetUrl})`);
+    console.log(`LRC 메인 페이지 접속 중... (${mainUrl})`);
     
-    // 2. 신호 대기 포기: 10초만 시도하고 끊은 뒤, 강제로 2초 sleep (Scriptable 로직)
-    await page.goto(targetUrl, { timeout: 10000 }).catch(() => console.log('접속 지연 무시 (Scriptable 방식 적용)'));
-    await sleep(2000);
+    // 타임아웃 60초, domcontentloaded 기준으로 여유있게 대기
+    await page.goto(mainUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
 
-    // 로그인 필요 여부 확인
+    // 로그인 필요 여부 확인 (메인 페이지에 로그인 폼이 있다고 가정)
     const isLoginPage = await page.$('input[name="student_code"]') !== null;
 
     if (isLoginPage) {
-      console.log('로그인 수행 중...');
+      console.log('메인 페이지에서 로그인 수행 중...');
       
-      // Scriptable의 webview.evaluateJavaScript 로직과 동일
-      await page.evaluate((id, pw) => {
-        document.querySelector('input[name="student_code"]').value = id;
-        document.querySelector('input[name="student_pass"]').value = pw;
-        document.getElementById('st').checked = true;
-        ActionLogin();
-      }, USER_ID, USER_PASS);
+      await page.type('input[name="student_code"]', USER_ID);
+      await page.type('input[name="student_pass"]', USER_PASS);
+      await page.evaluate(() => document.getElementById('st').checked = true);
 
-      // 로그인 완료까지 3초 강제 대기
-      await sleep(3000);
+      // 로그인 버튼 클릭(ActionLogin) 후 페이지가 완전히 넘어갈 때까지 대기
+      await Promise.all([
+        page.waitForNavigation({ waitUntil: 'domcontentloaded', timeout: 60000 }),
+        page.evaluate(() => ActionLogin())
+      ]);
       
-      console.log('시간표 페이지로 재진입...');
-      // 다시 URL 로드하고 2초 강제 대기 (Scriptable 로직)
-      await page.goto(targetUrl, { timeout: 10000 }).catch(() => {});
-      await sleep(2000);
+      console.log('로그인 성공! 시간표 페이지로 이동합니다...');
+      // 2. 로그인 성공 후에 비로소 시간표 페이지로 이동
+      await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
+    } else {
+       // 만약 이미 로그인이 되어있는 상태라면 바로 시간표로 이동
+       console.log('이미 로그인 상태입니다. 시간표 페이지로 바로 이동합니다.');
+       await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
     }
 
     console.log('시간표 데이터 파싱 중...');
