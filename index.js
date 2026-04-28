@@ -19,6 +19,13 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
   });
   const page = await browser.newPage();
 
+  // ★ 핵심 해결책: alert('로그인이 필요합니다') 등의 팝업이 뜨면 자동으로 "확인" 버튼을 눌러줍니다.
+  // 이 코드가 없으면 Puppeteer가 경고창에 막혀 무한정 대기(프리즈)하게 됩니다.
+  page.on('dialog', async dialog => {
+    console.log(`[알림창 닫힘] ${dialog.message()}`);
+    await dialog.accept();
+  });
+
   // 일반 브라우저처럼 보이게 설정
   await page.setViewport({ width: 1280, height: 1000 });
   await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
