@@ -9,7 +9,7 @@ const fs = require('fs');
   const today = new Date();
   const dateString = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
   
-  const mainUrl = 'https://lrc.skkumed.ac.kr';
+  // 처음부터 바로 시간표 링크로 직행 (병규님 아이디어)
   const targetUrl = `https://lrc.skkumed.ac.kr/schdule_time.asp?grade=${GRADE}&rdate=${dateString}`;
 
   const browser = await puppeteer.launch({
@@ -18,37 +18,44 @@ const fs = require('fs');
   });
   const page = await browser.newPage();
 
+  // 윈도우 크롬 브라우저로 위장
   await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36');
 
   try {
-    console.log(`LRC 메인 페이지 접속 중... (${mainUrl})`);
+    console.log(`LRC 시간표 페이지 직접 접속 시도... (${targetUrl})`);
     
-    // 1. 신호 대신, 페이지 이동 명령만 내리고 백그라운드로 넘깁니다 (waitUntil 생략)
-    page.goto(mainUrl).catch(() => {});
-
-    // 2. 화면에 로그인 입력칸이 나타날 때까지만 딱 기다립니다. (최대 30초)
-    console.log('로그인 폼 대기 중...');
-    await page.waitForSelector('input[name="student_code"]', { timeout: 30000 });
-
-    console.log('로그인 폼 발견! 로그인 수행 중...');
-    await page.type('input[name="student_code"]', USER_ID);
-    await page.type('input[name="student_pass"]', USER_PASS);
-    await page.evaluate(() => document.getElementById('st').checked = true);
-
-    // 3. 로그인 버튼 클릭 후, 바로 다음 페이지로 이동 명령을 내립니다.
-    await page.evaluate(() => ActionLogin());
-    
-    // 강제로 약간의 로그인 처리 시간을 줍니다.
-    await new Promise(r => setTimeout(r, 2000));
-
-    console.log('시간표 페이지로 이동 중...');
+    // 무한 로딩 방지: 페이지 로딩 완료 신호를 기다리지 않고 냅다 던짐
     page.goto(targetUrl).catch(() => {});
 
-    // 4. 여기가 핵심입니다. 로딩 신호 무시하고 시간표 테이블(table.table)이 화면에 뜰 때까지만 기다립니다.
-    console.log('시간표 데이터 표(Table) 대기 중...');
-    await page.waitForSelector('table.table', { timeout: 30000 });
+    // 핵심: '로그인 창' 이나 '시간표 표' 둘 중 하나가 화면에 뜰 때까지만 기다림
+    console.log('화면 요소 대기 중...');
+    await page.waitForSelector('input[name="student_code"], table.table', { timeout: 30000 });
 
-    console.log('시간표 발견! 파싱 시작...');
+    // 화면에 뜬 것이 로그인 폼인지 확인
+    const isLoginPage = await page.$('input[name="student_code"]') !== null;
+
+    if (isLoginPage) {
+      console.log('로그인 폼 발견! 로그인을 수행합니다...');
+      await page.type('input[name="student_code"]', USER_ID);
+      await page.type('input[name="student_pass"]', USER_PASS);
+      await page.evaluate(() => document.getElementById('st').checked = true);
+
+      // 로그인 스크립트 실행
+      await page.evaluate(() => ActionLogin());
+      
+      // 서버에서 로그인 처리할 시간 3초 부여
+      await new Promise(r => setTimeout(r, 3000));
+      
+      console.log('시간표 페이지로 확실하게 재진입...');
+      page.goto(targetUrl).catch(() => {});
+      
+      // 이번엔 진짜 시간표 표가 뜰 때까지 대기
+      await page.waitForSelector('table.table', { timeout: 30000 });
+    } else {
+      console.log('로그인 패스! 이미 시간표가 보입니다.');
+    }
+
+    console.log('시간표 발견! 데이터 파싱 시작...');
     const scheduleData = await page.evaluate(() => {
       var rows = document.querySelectorAll('table.table tr');
       if (!rows || rows.length === 0) return { error: "테이블 없음" };
