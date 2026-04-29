@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T11:12:50.566Z",
+  "lastUpdated": "2026-04-29T11:22:37.036Z",
   "weeks": [
     {
       "weekOffset": -8,
@@ -9,31 +9,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.2\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.3\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.4\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.5\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.6\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -41,31 +47,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n통계학의 의미와 의학연구에서의 의의 (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "한명준 교수",
+            "content": "감염체의 이해\n\nClassification and identification of bacteria (60분)\n한명준 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -73,31 +85,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "기초시기역량평가",
             "prof": "김현진 교수",
+            "content": "기초시기역량평가\n\n(시험)기초시기역량평가1차 (120분)\n김현진 교수",
             "type": "class"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n확률론 : 조건부 확률, 진단법, 베이즈 규칙 (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "한명준 교수",
+            "content": "감염체의 이해\n\nBacterial morphology and cell wall structure (1) (60분)\n한명준 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -105,31 +123,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "기초시기역량평가",
             "prof": "김현진 교수",
+            "content": "기초시기역량평가\n\n(시험)기초시기역량평가1차 (120분)\n김현진 교수",
             "type": "class"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n이산확률분포 : 이항분포 (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "한명준 교수",
+            "content": "감염체의 이해\n\nBacterial morphology and cell wall structure (2) (60분)\n한명준 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -137,31 +161,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -169,31 +199,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "이기영 교수",
+            "content": "인체의 방어 기전\n\n면역반응의 특성 및 개요 (60분)\n이기영 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "장기택 교수",
+            "content": "질병의 병리기전\n\n병리학을 위한 조직학(1) (60분)\n장기택 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "최정윤 교수",
+            "content": "약리의 이해\n\n약리학소개 및 약력학I (60분)\n최정윤 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -201,31 +237,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "이기영 교수",
+            "content": "인체의 방어 기전\n\n면역계의 세포 조직 (60분)\n이기영 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "장기택 교수",
+            "content": "질병의 병리기전\n\n병리학을 위한 조직학(2) (60분)\n장기택 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "최정윤 교수",
+            "content": "약리의 이해\n\n약력학 II (60분)\n최정윤 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nMeninges, ventricular system, blood supply (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -233,31 +275,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "이기영 교수",
+            "content": "인체의 방어 기전\n\n백혈구 순환 (60분)\n이기영 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "장기택 교수",
+            "content": "질병의 병리기전\n\n병원 병리과 (60분)\n장기택 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "한명준 교수",
+            "content": "감염체의 이해\n\nRole of bacteria in disease (60분)\n한명준 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nMeninges, ventricular system, blood supply (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -265,31 +313,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "감염체의 이해",
             "prof": "한명준 교수",
+            "content": "감염체의 이해\n\nDefense mechanism in host (60분)\n한명준 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -303,31 +357,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.9\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.10\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.11\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.12\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.13\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -335,31 +395,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "이기영 교수",
+            "content": "인체의 방어 기전\n\n자연면역 성분 (60분)\n이기영 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "신동우 교수",
+            "content": "감염체의 이해\n\nCommensal and phathogenic microflora in humans (60분)\n신동우 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "최정윤 교수",
+            "content": "약리의 이해\n\n약동학 III (60분)\n최정윤 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -367,31 +433,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "이기영 교수",
+            "content": "인체의 방어 기전\n\n자연면역의 기능 (60분)\n이기영 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "신동우 교수",
+            "content": "감염체의 이해\n\nMetabolism and genetics of bacteria (1) (60분)\n신동우 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nReticular formation, limbic system (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "외부강사 교수",
+            "content": "약리의 이해\n\n증례토의 (약동학) (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -399,31 +471,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "이기영 교수",
+            "content": "인체의 방어 기전\n\n감염과 자연면역 (60분)\n이기영 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "신동우 교수",
+            "content": "감염체의 이해\n\nMetabolism and genetics of bacteria (2) (60분)\n신동우 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nReticular formation, limbic system (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "외부강사 교수",
+            "content": "약리의 이해\n\n증례토의 (약동학) (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -431,31 +509,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -463,31 +547,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n이산확률분포 : 포아송분포 (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "최정윤 교수",
+            "content": "약리의 이해\n\n약동학 II (60분)\n최정윤 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "김동훈 교수",
+            "content": "질병의 병리기전\n\n급성 염증 (120분)\n김동훈 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -495,31 +585,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n연속확률분포 (정규분포) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "최정윤 교수",
+            "content": "약리의 이해\n\n약동학 III (60분)\n최정윤 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "김동훈 교수",
+            "content": "질병의 병리기전\n\n급성 염증 (120분)\n김동훈 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nCerebrum and Cerebral Cortex (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -527,31 +623,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n표본확률분포 및 중심극한정리 [실습] 과제1 풀이 (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nThalamus, Hypothalamus, Basal ganglia (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "권기영 교수",
+            "content": "질병의 병리기전\n\n세포손상과 세포사 (60분)\n권기영 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nCerebrum and Cerebral Cortex (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "고관수 교수",
+            "content": "감염체의 이해\n\nSterilization (60분)\n고관수 교수",
             "type": "class"
           }
         ],
@@ -559,31 +661,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "감염체의 이해",
             "prof": "고관수 교수",
+            "content": "감염체의 이해\n\nBacterial diagnosis (60분)\n고관수 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nThalamus, Hypothalamus, Basal ganglia (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -597,31 +705,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.16\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.17\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.18\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.19\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.20\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -629,31 +743,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "감염체의 이해",
             "prof": "고관수 교수",
+            "content": "감염체의 이해\n\nGram-positive cocci (1) (60분)\n고관수 교수",
             "type": "class"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "김태진 교수",
+            "content": "인체의 방어 기전\n\n항체 종류 구조 (60분)\n김태진 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이윤송 교수",
+            "content": "약리의 이해\n\n항콜린성 약물 (60분)\n이윤송 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -661,31 +781,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nSpinal cord (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "고관수 교수",
+            "content": "감염체의 이해\n\nGram-positive cocci (2) (60분)\n고관수 교수",
             "type": "class"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "김태진 교수",
+            "content": "인체의 방어 기전\n\n항원 항체 반응 (60분)\n김태진 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이윤송 교수",
+            "content": "약리의 이해\n\n아드레날린성 약물 (60분)\n이윤송 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -693,31 +819,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nSpinal cord (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "고관수 교수",
+            "content": "감염체의 이해\n\nGram-positive rods (1) (60분)\n고관수 교수",
             "type": "class"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "김태진 교수",
+            "content": "인체의 방어 기전\n\nB세포와 항원수용체 (60분)\n김태진 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -725,31 +857,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -757,31 +895,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n모수추정 (신뢰구간) - 평균 및 분율 (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이윤송 교수",
+            "content": "약리의 이해\n\n자율신경계일반 (60분)\n이윤송 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "김현수 교수",
+            "content": "질병의 병리기전\n\n만성 염증 (120분)\n김현수 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "고관수 교수",
+            "content": "감염체의 이해\n\nGram-positive rods (2) (60분)\n고관수 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -789,31 +933,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n가설검정의 원리 : 단일표본인 경우 (단측, 양측, p값, 이산변수) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이윤송 교수",
+            "content": "약리의 이해\n\n콜린성 약물I (60분)\n이윤송 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "김현수 교수",
+            "content": "질병의 병리기전\n\n만성 염증 (120분)\n김현수 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "신동우 교수",
+            "content": "감염체의 이해\n\nEnterobacteriaceae (1) (60분)\n신동우 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nBrainstem (120분)\n오창석 교수",
             "type": "class"
           }
         ],
@@ -821,31 +971,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "약리의 이해",
             "prof": "이윤송 교수",
+            "content": "약리의 이해\n\n콜린성 약물 II (60분)\n이윤송 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "김현수 교수",
+            "content": "질병의 병리기전\n\n수복과 재생 (60분)\n김현수 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nBrainstem (120분)\n오창석 교수",
             "type": "class"
           }
         ],
@@ -853,31 +1009,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -891,31 +1053,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.23\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.24\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.25\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.26\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.27\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -923,31 +1091,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "임세진 교수",
+            "content": "인체의 방어 기전\n\n항원제시 (60분)\n임세진 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "신동우 교수",
+            "content": "감염체의 이해\n\nEnterobacteriaceae (2) (60분)\n신동우 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이연종 교수",
+            "content": "약리의 이해\n\n이뇨제 (60분)\n이연종 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -955,31 +1129,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "임세진 교수",
+            "content": "인체의 방어 기전\n\nMHC-I (60분)\n임세진 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "신동우 교수",
+            "content": "감염체의 이해\n\nGram-negative bacteria (60분)\n신동우 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nCranial nerve (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이윤송 교수",
+            "content": "약리의 이해\n\n항고혈압 약물 I (60분)\n이윤송 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -987,31 +1167,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "임세진 교수",
+            "content": "인체의 방어 기전\n\nMHC-II (60분)\n임세진 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "신동우 교수",
+            "content": "감염체의 이해\n\nNon-fermentive bacteria (60분)\n신동우 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nCranial nerve (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이윤송 교수",
+            "content": "약리의 이해\n\n항고혈압 약물 II (60분)\n이윤송 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1019,31 +1205,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "외부강사 교수",
+            "content": "인체의 방어 기전\n\n과목형성평가1 (60분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1051,31 +1243,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n가설검정 : 두 개의 표본인 경우 (짝지은, 혹은 독립적 t-test) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이윤송 교수",
+            "content": "약리의 이해\n\n항아드레날린성 약물 I (60분)\n이윤송 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "안수민 교수",
+            "content": "질병의 병리기전\n\n순환 장애 (180분)\n안수민 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "신동우 교수",
+            "content": "감염체의 이해\n\nAnaerobic bacteria (60분)\n신동우 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1083,31 +1281,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습) 질의응답/과제2 풀이 SAS실습: SAS환경 익히기 (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이윤송 교수",
+            "content": "약리의 이해\n\n항아드레날린성 약물 II (60분)\n이윤송 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "안수민 교수",
+            "content": "질병의 병리기전\n\n순환 장애 (180분)\n안수민 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "신동우 교수",
+            "content": "감염체의 이해\n\nMycobacterium (60분)\n신동우 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nCerebellum (120분)\n오창석 교수",
             "type": "class"
           }
         ],
@@ -1115,31 +1319,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습)가설검정 : 두 개의 표본인 경우 (짝지은, 혹은 독립적 t-test) (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습)질의응답/ 과제3 풀이 (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "안수민 교수",
+            "content": "질병의 병리기전\n\n순환 장애 (180분)\n안수민 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nCerebellum (120분)\n오창석 교수",
             "type": "class"
           }
         ],
@@ -1147,31 +1357,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습)가설검정 : 두 개의 표본인 경우 (짝지은, 혹은 독립적 t-test) (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습)질의응답/ 과제3 풀이 (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "안수민 교수",
+            "content": "질병의 병리기전\n\n(실습)순환 장애 (60분)\n안수민 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -1185,31 +1401,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.30\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "3.31\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.1\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.2\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.3\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -1217,31 +1439,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "이기영 교수",
+            "content": "인체의 방어 기전\n\n면역수용체 종류 기능 (60분)\n이기영 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "한명준 교수",
+            "content": "감염체의 이해\n\nCurved and spiral-shaped Gram-negative rods (1) (60분)\n한명준 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "원태형 교수",
+            "content": "약리의 이해\n\n심부전 치료 약물 I (60분)\n원태형 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1249,31 +1477,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "이기영 교수",
+            "content": "인체의 방어 기전\n\n면역수용체의 신호전달 (60분)\n이기영 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "한명준 교수",
+            "content": "감염체의 이해\n\nCurved and spiral-shaped Gram-negative rods (2) (60분)\n한명준 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nMRI of Brain1 (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "원태형 교수",
+            "content": "약리의 이해\n\n심부전 치료 약물 II (60분)\n원태형 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1281,31 +1515,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "이기영 교수",
+            "content": "인체의 방어 기전\n\n사이토카인 (60분)\n이기영 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "한명준 교수",
+            "content": "감염체의 이해\n\nMycoplasma and obligate intracellular bacteria (1) (60분)\n한명준 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nMRI of Brain1 (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1313,31 +1553,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1345,31 +1591,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n가설검정 : 세 개 이상의 표본인 경우 (ANOVA) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "원태형 교수",
+            "content": "약리의 이해\n\n항협심증 약물 I (60분)\n원태형 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "채승완 교수",
+            "content": "질병의 병리기전\n\n환경 및 영양질환 (120분)\n채승완 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "한명준 교수",
+            "content": "감염체의 이해\n\nMycoplasma and obligate intracellular bacteria (2) (60분)\n한명준 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1377,31 +1629,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n다중비교 (LSD, 본페로니보정, 선형대조) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "원태형 교수",
+            "content": "약리의 이해\n\n항협심증 약물 II (60분)\n원태형 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "채승완 교수",
+            "content": "질병의 병리기전\n\n환경 및 영양질환 (120분)\n채승완 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "한명준 교수",
+            "content": "감염체의 이해\n\nPrions (60분)\n한명준 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nMRI of Brain2 (120분)\n오창석 교수",
             "type": "class"
           }
         ],
@@ -1409,31 +1667,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습)질의응답 / 과제4 풀이 SAS 실습: paired t-test, t-test (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "채승완 교수",
+            "content": "질병의 병리기전\n\n(실습)환경 및 영양질환 (120분)\n채승완 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\nMRI of Brain2 (120분)\n오창석 교수",
             "type": "class"
           }
         ],
@@ -1441,31 +1705,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습)질의응답 / 과제4 풀이 SAS 실습: paired t-test, t-test (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "채승완 교수",
+            "content": "질병의 병리기전\n\n(실습)환경 및 영양질환 (120분)\n채승완 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -1479,31 +1749,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.6\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.7\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.8\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.9\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.10\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -1511,31 +1787,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "임세진 교수",
+            "content": "인체의 방어 기전\n\nT세포발달 1 (60분)\n임세진 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "고관수 교수",
+            "content": "감염체의 이해\n\nHospital-acquired infection (60분)\n고관수 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "외부강사 교수",
+            "content": "신경계구조\n\n임상강의 1 (Outflow of Brain CSF) (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이연종 교수",
+            "content": "약리의 이해\n\n내인성 조직 호르몬 (60분)\n이연종 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1543,31 +1825,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "임세진 교수",
+            "content": "인체의 방어 기전\n\nT세포발달 2 (60분)\n임세진 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "고관수 교수",
+            "content": "감염체의 이해\n\n세균학 실습 (1) (60분)\n고관수 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "외부강사 교수",
+            "content": "신경계구조\n\n임상강의 1 (Outflow of Brain CSF) (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이연종 교수",
+            "content": "약리의 이해\n\n지방성 autacoids (60분)\n이연종 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1575,31 +1863,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "임세진 교수",
+            "content": "인체의 방어 기전\n\n항원수용체 재조합 (60분)\n임세진 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "고관수 교수",
+            "content": "감염체의 이해\n\n세균학 실습 (2) (60분)\n고관수 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1607,31 +1901,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1639,31 +1939,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n증례토의/ 증례발표 (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이연종 교수",
+            "content": "약리의 이해\n\n항부정맥 약물 I (60분)\n이연종 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "외부강사 교수",
+            "content": "질병의 병리기전\n\n유전질환 (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "박재현 교수",
+            "content": "신경계구조\n\n임상강의 2 (Localization in neurology) (120분)\n박재현 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1671,31 +1977,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\nSAS 트러블 슈팅 (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이연종 교수",
+            "content": "약리의 이해\n\n항부정맥 약물 II (60분)\n이연종 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "외부강사 교수",
+            "content": "질병의 병리기전\n\n유전질환 (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "박재현 교수",
+            "content": "신경계구조\n\n임상강의 2 (Localization in neurology) (120분)\n박재현 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1703,31 +2015,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습) SAS 실습: ANOVA (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "김정선 교수",
+            "content": "질병의 병리기전\n\n소아 및 영아질환 (120분)\n김정선 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "고관수 교수",
+            "content": "감염체의 이해\n\nFungi (1) (60분)\n고관수 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1735,31 +2053,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습) SAS 실습: ANOVA (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "김정선 교수",
+            "content": "질병의 병리기전\n\n소아 및 영아질환 (120분)\n김정선 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "고관수 교수",
+            "content": "감염체의 이해\n\nFungi (2) (60분)\n고관수 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -1773,31 +2097,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.13\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.14\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.15\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.16\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.17\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -1805,31 +2135,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "류희주 교수",
+            "content": "인체의 방어 기전\n\nT세포활성화 (60분)\n류희주 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "고관수 교수",
+            "content": "감염체의 이해\n\nAntimicrobial agents and resistance (60분)\n고관수 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nViral classification and structure (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nViral pathogenesis (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1837,31 +2173,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "류희주 교수",
+            "content": "인체의 방어 기전\n\nT세포활성화기전 (60분)\n류희주 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "고관수 교수",
+            "content": "감염체의 이해\n\n세균학 실습 (3) (60분)\n고관수 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nViral replication (1) (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nDiagnosis of viral disease (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1869,31 +2211,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "류희주 교수",
+            "content": "인체의 방어 기전\n\nT세포 면역조절 (60분)\n류희주 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "고관수 교수",
+            "content": "감염체의 이해\n\n세균학 실습 (4) (60분)\n고관수 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nViral replication (2) (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1901,31 +2249,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1933,31 +2287,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n비모수적 분석 방법 (윌콕슨 부호화순위, 윌콕슨 순위합 검정) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이연종 교수",
+            "content": "약리의 이해\n\n천식 및 호흡기질환 치료제 (60분)\n이연종 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "외부강사 교수",
+            "content": "질병의 병리기전\n\n(실습)소아 및 유전질환 (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\n(실습)실습 1 (240분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -1965,31 +2325,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n비모수적 분석 방법 (크루스컬왈리스, 다중비교) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "원태형 교수",
+            "content": "약리의 이해\n\n비스테로이드성 항염증 약물 I (60분)\n원태형 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "외부강사 교수",
+            "content": "질병의 병리기전\n\n(실습)소아 및 유전질환 (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\n(실습)실습 1 (240분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\n(실습)실습2 (240분)\n오창석 교수",
             "type": "class"
           }
         ],
@@ -1997,31 +2363,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습) 질의응답 / 과제6 풀이 SAS 실습: 비모수적 분석 (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "원태형 교수",
+            "content": "약리의 이해\n\n비스테로이드성 항염증 약물 II (60분)\n원태형 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\n(실습)실습 1 (240분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\n(실습)실습2 (240분)\n오창석 교수",
             "type": "class"
           }
         ],
@@ -2029,31 +2401,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습) 질의응답 / 과제6 풀이 SAS 실습: 비모수적 분석 (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\n(실습)실습 1 (240분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\n(실습)실습2 (240분)\n오창석 교수",
             "type": "class"
           }
         ]
@@ -2067,31 +2445,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.20\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.21\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.22\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.23\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.24\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -2099,31 +2483,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2131,31 +2521,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "외부강사 교수",
+            "content": "인체의 방어 기전\n\n(시험)중간시험 (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "신동우 교수",
+            "content": "감염체의 이해\n\n(시험)1차 시험 - 세균학 (120분)\n신동우 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "외부강사 교수",
+            "content": "약리의 이해\n\n(시험)중간시험 (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\n(시험)중간시험 (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "외부강사 교수",
+            "content": "질병의 병리기전\n\n(시험)중간시험 (120분)\n외부강사 교수",
             "type": "class"
           }
         ],
@@ -2163,31 +2559,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "외부강사 교수",
+            "content": "인체의 방어 기전\n\n(시험)중간시험 (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "신동우 교수",
+            "content": "감염체의 이해\n\n(시험)1차 시험 - 세균학 (120분)\n신동우 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "외부강사 교수",
+            "content": "약리의 이해\n\n(시험)중간시험 (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\n(시험)중간시험 (120분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "외부강사 교수",
+            "content": "질병의 병리기전\n\n(시험)중간시험 (120분)\n외부강사 교수",
             "type": "class"
           }
         ],
@@ -2195,31 +2597,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2227,31 +2635,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "신경계구조",
             "prof": "오창석 교수",
+            "content": "신경계구조\n\n(시험)MRI시험 (60분)\n오창석 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2259,31 +2673,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(시험)중간시험 (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2291,31 +2711,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(시험)중간시험 (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2323,31 +2749,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -2361,31 +2793,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.27\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.28\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.29\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "4.30\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.1\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -2393,31 +2831,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "류희주 교수",
+            "content": "인체의 방어 기전\n\nT세포 분화 및 polarization (60분)\n류희주 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nAntiviral agents (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nAdenovirus (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "최정윤 교수",
+            "content": "약리의 이해\n\n항불안제 및 수면제 (60분)\n최정윤 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2425,31 +2869,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "류희주 교수",
+            "content": "인체의 방어 기전\n\nCD4+ T세포 분화 (60분)\n류희주 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nParvovirus (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nHerpesvirus (1) (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "최정윤 교수",
+            "content": "약리의 이해\n\n정신병 약물 (60분)\n최정윤 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2457,31 +2907,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "류희주 교수",
+            "content": "인체의 방어 기전\n\nCD8+ T세포 분화 (60분)\n류희주 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nPolyomavirus and Papillomavirus (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nHerpesvirus (2) (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "최정윤 교수",
+            "content": "약리의 이해\n\n항우울제 (60분)\n최정윤 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2489,31 +2945,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2521,31 +2983,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n가설검정 : 범주형 자료인 경우 (분율검정, 카이자승 검정) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "신주호 교수",
+            "content": "약리의 이해\n\n국소마취제 (60분)\n신주호 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "김석형 교수",
+            "content": "질병의 병리기전\n\n종양생물학 (120분)\n김석형 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nPoxvirus (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2553,31 +3021,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n가설검정 : 범주형 자료인 경우 (직접확률, R*C table) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "원태형 교수",
+            "content": "약리의 이해\n\n항경련 약물 (60분)\n원태형 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "김석형 교수",
+            "content": "질병의 병리기전\n\n종양생물학 (120분)\n김석형 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nPicornavirus (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2585,31 +3059,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습) 질의응답/ 과제7 풀이 (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "김현진 교수",
+            "content": "신경과학\n\nChemical senses (120분)\n김현진 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "이재석 교수",
+            "content": "질병의 병리기전\n\n종양의 역학 (120분)\n이재석 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "김현진 교수",
+            "content": "신경과학\n\nAuditory & vestibular system (120분)\n김현진 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2617,31 +3097,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습) 질의응답/ 과제7 풀이 (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "김현진 교수",
+            "content": "신경과학\n\nChemical senses (120분)\n김현진 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "이재석 교수",
+            "content": "질병의 병리기전\n\n종양의 역학 (120분)\n이재석 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "김현진 교수",
+            "content": "신경과학\n\nAuditory & vestibular system (120분)\n김현진 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -2655,31 +3141,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.4\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.5\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.6\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.7\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.8\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -2687,31 +3179,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "김태진 교수",
+            "content": "인체의 방어 기전\n\nB세포 기능 (60분)\n김태진 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "외부강사 교수",
+            "content": "신경과학\n\nEye (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2719,31 +3217,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "김태진 교수",
+            "content": "인체의 방어 기전\n\nB세포 활성화 (60분)\n김태진 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "외부강사 교수",
+            "content": "신경과학\n\nEye (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "원태형 교수",
+            "content": "약리의 이해\n\n아편계 진통제 (60분)\n원태형 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2751,31 +3255,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "김태진 교수",
+            "content": "인체의 방어 기전\n\nB세포의 항체 생산 (60분)\n김태진 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "원태형 교수",
+            "content": "약리의 이해\n\n전신마취제 (60분)\n원태형 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2783,31 +3293,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2815,31 +3331,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n역학연구에서의 관련도 지표와 신뢰구간 (OR) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "이현욱 교수",
+            "content": "질병의 병리기전\n\n화학적/방사선/미생물발암 (60분)\n이현욱 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nCoronavirus (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2847,31 +3369,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n역학연구에서의 관련도 지표와 신뢰구간 (RR) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "조은윤 교수",
+            "content": "질병의 병리기전\n\n종양 면역 (120분)\n조은윤 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nRhabdovirus and Bunyavirus (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "외부강사 교수",
+            "content": "신경과학\n\nCentral visual system (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2879,31 +3407,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습) 질의응답/ 과제8 풀이 SAS실습: OR/RR/Trend test (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "조은윤 교수",
+            "content": "질병의 병리기전\n\n종양 면역 (120분)\n조은윤 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "신경과학",
             "prof": "외부강사 교수",
+            "content": "신경과학\n\nCentral visual system (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -2911,31 +3445,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습) 질의응답/ 과제8 풀이 SAS실습: OR/RR/Trend test (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -2949,31 +3489,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.11\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.12\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.13\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.14\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.15\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -2981,31 +3527,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "김태진 교수",
+            "content": "인체의 방어 기전\n\n종자중심반응 (60분)\n김태진 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이연종 교수",
+            "content": "약리의 이해\n\n고지혈증 치료제 (60분)\n이연종 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박성진 교수",
+            "content": "신경과학\n\nSomatic sensory (120분)\n박성진 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "신주호 교수",
+            "content": "약리의 이해\n\n화학요법 소개 (60분)\n신주호 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3013,31 +3565,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "김태진 교수",
+            "content": "인체의 방어 기전\n\n항체 면역 효과기전 (60분)\n김태진 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이연종 교수",
+            "content": "약리의 이해\n\n당뇨병 치료제 (60분)\n이연종 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박성진 교수",
+            "content": "신경과학\n\nSomatic sensory (120분)\n박성진 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "신주호 교수",
+            "content": "약리의 이해\n\n엽산대사 억제제 및 퀴놀론제 (60분)\n신주호 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3045,31 +3603,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "김태진 교수",
+            "content": "인체의 방어 기전\n\n보체 (60분)\n김태진 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3077,31 +3641,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3109,31 +3679,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n교란변수와 층화분석/ 교호변수 (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "김균환 교수",
+            "content": "감염체의 이해\n\nParamyxovirus (60분)\n김균환 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "외부강사 교수",
+            "content": "질병의 병리기전\n\n염증과 면역질환 (180분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "김균환 교수",
+            "content": "감염체의 이해\n\nTogavirus and Flavivirus (60분)\n김균환 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3141,31 +3717,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n짝을 이룬 자료에서의 분율 비교: McNemar test, kappa statistics (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "김균환 교수",
+            "content": "감염체의 이해\n\nOrthomyxovirus (60분)\n김균환 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "외부강사 교수",
+            "content": "질병의 병리기전\n\n염증과 면역질환 (180분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "김균환 교수",
+            "content": "감염체의 이해\n\nReovirus (60분)\n김균환 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박명규 교수",
+            "content": "신경과학\n\nSpinal control of movement (120분)\n박명규 교수",
             "type": "class"
           }
         ],
@@ -3173,31 +3755,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습) 질의응답/ 과제9 풀이 SAS실습: 층화분석/ McNemar, kappa (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "외부강사 교수",
+            "content": "약리의 이해\n\n증례토의 (신경계질환) (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "외부강사 교수",
+            "content": "질병의 병리기전\n\n염증과 면역질환 (180분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nRetrovirus (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박명규 교수",
+            "content": "신경과학\n\nSpinal control of movement (120분)\n박명규 교수",
             "type": "class"
           }
         ],
@@ -3205,31 +3793,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습) 질의응답/ 과제9 풀이 SAS실습: 층화분석/ McNemar, kappa (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "외부강사 교수",
+            "content": "약리의 이해\n\n증례토의 (신경계질환) (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "외부강사 교수",
+            "content": "질병의 병리기전\n\n(실습) 염증과 면역질환 (60분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -3243,31 +3837,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.18\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.19\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.20\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.21\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.22\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -3275,31 +3875,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "류희주 교수",
+            "content": "인체의 방어 기전\n\n지역면역 특성 (60분)\n류희주 교수",
             "type": "class"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "김태진 교수",
+            "content": "인체의 방어 기전\n\nT세포 면역관용 (60분)\n김태진 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박명규 교수",
+            "content": "신경과학\n\nBrain control of movement (180분)\n박명규 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "신주호 교수",
+            "content": "약리의 이해\n\n세균세포벽 합성 억제제 (60분)\n신주호 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3307,31 +3913,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "류희주 교수",
+            "content": "인체의 방어 기전\n\n위장관 지역면역 (60분)\n류희주 교수",
             "type": "class"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "김태진 교수",
+            "content": "인체의 방어 기전\n\nB세포 면역관용 (60분)\n김태진 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박명규 교수",
+            "content": "신경과학\n\nBrain control of movement (180분)\n박명규 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "신주호 교수",
+            "content": "약리의 이해\n\n단백질 합성 억제제 (60분)\n신주호 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3339,31 +3951,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "류희주 교수",
+            "content": "인체의 방어 기전\n\n피부 폐 뇌 지역면역 (60분)\n류희주 교수",
             "type": "class"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "김태진 교수",
+            "content": "인체의 방어 기전\n\n자가면역질환의 기전 (60분)\n김태진 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박명규 교수",
+            "content": "신경과학\n\nBrain control of movement (180분)\n박명규 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3371,31 +3989,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "외부강사 교수",
+            "content": "인체의 방어 기전\n\n과목형성평가2 (60분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3403,31 +4027,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n검정력과 표본수 (단일표본, 두 표본의 평균치 비교) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "김균환 교수",
+            "content": "감염체의 이해\n\nHepatitisvirus (1) (60분)\n김균환 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "도성임 교수",
+            "content": "질병의 병리기전\n\n종양의 병리(1.1) (60분)\n도성임 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이연종 교수",
+            "content": "약리의 이해\n\n혈액응고 관련 약물 (60분)\n이연종 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3435,31 +4065,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n검정력과 표본수 (단일표본, 두 표본의 분율 비교) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "김균환 교수",
+            "content": "감염체의 이해\n\nHepatitisvirus (2) (60분)\n김균환 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "도성임 교수",
+            "content": "질병의 병리기전\n\n종양의 병리(1.2) (60분)\n도성임 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이연종 교수",
+            "content": "약리의 이해\n\n부신피질호르몬계 (60분)\n이연종 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박성진 교수",
+            "content": "신경과학\n\nMotivation (120분)\n박성진 교수",
             "type": "class"
           }
         ],
@@ -3467,31 +4103,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습)질의응답/ 과제10 풀이 PS: Power and Sample Size 실습 (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\nTumor virus (60분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "도성임 교수",
+            "content": "질병의 병리기전\n\n종양의 병리(2.1) (60분)\n도성임 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "신경과학",
             "prof": "박성진 교수",
+            "content": "신경과학\n\nMotivation (120분)\n박성진 교수",
             "type": "class"
           }
         ],
@@ -3499,31 +4141,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습)질의응답/ 과제10 풀이 PS: Power and Sample Size 실습 (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -3537,31 +4185,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.25\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.26\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.27\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.28\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "5.29\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -3569,31 +4223,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "임세진 교수",
+            "content": "인체의 방어 기전\n\n종양면역1 (60분)\n임세진 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박명규 교수",
+            "content": "신경과학\n\nBrain mechanisms of Emotion (120분)\n박명규 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "신주호 교수",
+            "content": "약리의 이해\n\n항결핵제 (60분)\n신주호 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3601,31 +4261,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "임세진 교수",
+            "content": "인체의 방어 기전\n\n종양면역2 (60분)\n임세진 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박명규 교수",
+            "content": "신경과학\n\nBrain mechanisms of Emotion (120분)\n박명규 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "신주호 교수",
+            "content": "약리의 이해\n\n항바이러스제 (60분)\n신주호 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3633,31 +4299,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "임세진 교수",
+            "content": "인체의 방어 기전\n\n종양면역치료 (60분)\n임세진 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3665,31 +4337,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3697,31 +4375,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "약리의 이해",
             "prof": "신주호 교수",
+            "content": "약리의 이해\n\n퇴행성뇌질환 치료제 (60분)\n신주호 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "최윤라 교수",
+            "content": "질병의 병리기전\n\n암발생의 분자생물학적 기전 (180분)\n최윤라 교수",
             "type": "class"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n상관분석 (피어슨, 스피어만, 부분 상관계수) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3729,31 +4413,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "약리의 이해",
             "prof": "신주호 교수",
+            "content": "약리의 이해\n\n알코올의 약리작용 (60분)\n신주호 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "최윤라 교수",
+            "content": "질병의 병리기전\n\n암발생의 분자생물학적 기전 (180분)\n최윤라 교수",
             "type": "class"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n단순회귀분석 (회귀모형, 회귀계수, 예측치) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "강동묵 교수",
+            "content": "신경과학\n\nBrain rhythm and sleep (120분)\n강동묵 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3761,31 +4451,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\n(실습)바이러스학 실습 (1) (120분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "최윤라 교수",
+            "content": "질병의 병리기전\n\n암발생의 분자생물학적 기전 (180분)\n최윤라 교수",
             "type": "class"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습)질의응답/ 과제11 풀이 SAS실습: Correltation/Regression) (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "강동묵 교수",
+            "content": "신경과학\n\nBrain rhythm and sleep (120분)\n강동묵 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3793,31 +4489,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\n(실습)바이러스학 실습 (1) (120분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\n(실습)바이러스학 실습 (2) (120분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습)질의응답/ 과제11 풀이 SAS실습: Correltation/Regression) (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -3831,31 +4533,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.1\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.2\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.3\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.4\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.5\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -3863,31 +4571,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이성균 교수",
+            "content": "감염체의 이해\n\n기생충학 총론 및 원충 총론 (60분)\n이성균 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "원태형 교수",
+            "content": "약리의 이해\n\n항암제 I (60분)\n원태형 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3895,31 +4609,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\n(시험)2차 시험 - 바이러스학 (120분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이성균 교수",
+            "content": "감염체의 이해\n\n원충, 편모충, 포자충 (60분)\n이성균 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "원태형 교수",
+            "content": "약리의 이해\n\n항암제 II (60분)\n원태형 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3927,31 +4647,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "감염체의 이해",
             "prof": "정지욱 교수",
+            "content": "감염체의 이해\n\n(시험)2차 시험 - 바이러스학 (120분)\n정지욱 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이성균 교수",
+            "content": "감염체의 이해\n\n말라리아 (60분)\n이성균 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "원태형 교수",
+            "content": "약리의 이해\n\n항암제 III (60분)\n원태형 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3959,31 +4685,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -3991,31 +4723,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n다중회귀분석 (부분회귀계수, 표준회귀계수) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "신주호 교수",
+            "content": "약리의 이해\n\n항진균제 (60분)\n신주호 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이성균 교수",
+            "content": "감염체의 이해\n\n연충학 총론, 선충류 소개 및 장내 기생 선충류 (60분)\n이성균 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4023,31 +4761,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n다중회귀분석 (모형적합도) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "이연종 교수",
+            "content": "약리의 이해\n\n소화기계 약물 (60분)\n이연종 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이성균 교수",
+            "content": "감염체의 이해\n\n장내, 조직 기생 선충 및 기타 접촉 감염성 선충 (60분)\n이성균 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박성진 교수",
+            "content": "신경과학\n\nWiring the brain (120분)\n박성진 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4055,31 +4799,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습)질의응답/ 과제12 풀이 / SAS실습: partial coefficients, standardized coefficients, (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "강동묵 교수",
+            "content": "신경과학\n\nLanguage (120분)\n강동묵 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "신경과학",
             "prof": "박성진 교수",
+            "content": "신경과학\n\nWiring the brain (120분)\n박성진 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4087,31 +4837,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습)질의응답/ 과제12 풀이 / SAS실습: partial coefficients, standardized coefficients, (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "강동묵 교수",
+            "content": "신경과학\n\nLanguage (120분)\n강동묵 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -4125,31 +4881,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.8\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.9\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.10\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.11\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.12\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -4157,31 +4919,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "이기영 교수",
+            "content": "인체의 방어 기전\n\n암 정밀의학 1 (60분)\n이기영 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이성균 교수",
+            "content": "감염체의 이해\n\n흡충류 소개 및 주혈흡충, 간흡충, 폐흡충 (60분)\n이성균 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박명규 교수",
+            "content": "신경과학\n\nMemory systems (180분)\n박명규 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4189,31 +4957,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "이기영 교수",
+            "content": "인체의 방어 기전\n\n암 정밀의학 2 (60분)\n이기영 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이성균 교수",
+            "content": "감염체의 이해\n\n조충류 소개 및 의엽조충류, 원엽조충류 (60분)\n이성균 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박명규 교수",
+            "content": "신경과학\n\nMemory systems (180분)\n박명규 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4221,31 +4995,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "이기영 교수",
+            "content": "인체의 방어 기전\n\n정밀의학 활용 암치료 (60분)\n이기영 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이성균 교수",
+            "content": "감염체의 이해\n\n의용 곤충 소개 (60분)\n이성균 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박명규 교수",
+            "content": "신경과학\n\nMemory systems (180분)\n박명규 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이준행 교수",
+            "content": "감염체의 이해\n\n임상장내기생충 (60분)\n이준행 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4253,31 +5033,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4285,31 +5071,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n다중회귀분석 (지표변수, 교호변수) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "최정윤 교수",
+            "content": "약리의 이해\n\n독성학 (60분)\n최정윤 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "추진아 교수",
+            "content": "질병의 병리기전\n\n종양의 병리 (120분)\n추진아 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이성균 교수",
+            "content": "감염체의 이해\n\n(실습)기생충학 실습 (240분)\n이성균 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4317,31 +5109,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n다중회귀분석 (다중공선성, 모형구축방법) (60분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "최정윤 교수",
+            "content": "약리의 이해\n\n약물유전체학 (60분)\n최정윤 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "추진아 교수",
+            "content": "질병의 병리기전\n\n종양의 병리 (120분)\n추진아 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이성균 교수",
+            "content": "감염체의 이해\n\n(실습)기생충학 실습 (240분)\n이성균 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박명규 교수",
+            "content": "신경과학\n\nMolecular mechanisms of memory (120분)\n박명규 교수",
             "type": "class"
           }
         ],
@@ -4349,31 +5147,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습)질의응답/ 과제12 풀이 SAS실습: Indicator V, interaction, model building (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "김태진 교수",
+            "content": "질병의 병리기전\n\n자가면역성 질환의 병리 (60분)\n김태진 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "추진아 교수",
+            "content": "질병의 병리기전\n\n(실습)종양의 병리 (120분)\n추진아 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이성균 교수",
+            "content": "감염체의 이해\n\n(실습)기생충학 실습 (240분)\n이성균 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "박명규 교수",
+            "content": "신경과학\n\nMolecular mechanisms of memory (120분)\n박명규 교수",
             "type": "class"
           }
         ],
@@ -4381,31 +5185,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(실습)질의응답/ 과제12 풀이 SAS실습: Indicator V, interaction, model building (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "김태진 교수",
+            "content": "질병의 병리기전\n\n면역결핍질환 (60분)\n김태진 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "추진아 교수",
+            "content": "질병의 병리기전\n\n(실습)종양의 병리 (120분)\n추진아 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이성균 교수",
+            "content": "감염체의 이해\n\n(실습)기생충학 실습 (240분)\n이성균 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -4419,31 +5229,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.15\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.16\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.17\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.18\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.19\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -4451,31 +5267,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4483,31 +5305,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "외부강사 교수",
+            "content": "인체의 방어 기전\n\n(시험)기말시험 (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이성균 교수",
+            "content": "감염체의 이해\n\n(시험)3차 시험 기생충학 (120분)\n이성균 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "외부강사 교수",
+            "content": "약리의 이해\n\n(시험)기말시험 (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "외부강사 교수",
+            "content": "신경과학\n\n(시험)기말시험 (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "외부강사 교수",
+            "content": "질병의 병리기전\n\n(시험)기말시험 (120분)\n외부강사 교수",
             "type": "class"
           }
         ],
@@ -4515,31 +5343,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "인체의 방어 기전",
             "prof": "외부강사 교수",
+            "content": "인체의 방어 기전\n\n(시험)기말시험 (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "감염체의 이해",
             "prof": "이성균 교수",
+            "content": "감염체의 이해\n\n(시험)3차 시험 기생충학 (120분)\n이성균 교수",
             "type": "class"
           },
           {
             "subject": "약리의 이해",
             "prof": "외부강사 교수",
+            "content": "약리의 이해\n\n(시험)기말시험 (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "신경과학",
             "prof": "외부강사 교수",
+            "content": "신경과학\n\n(시험)기말시험 (120분)\n외부강사 교수",
             "type": "class"
           },
           {
             "subject": "질병의 병리기전",
             "prof": "외부강사 교수",
+            "content": "질병의 병리기전\n\n(시험)기말시험 (120분)\n외부강사 교수",
             "type": "class"
           }
         ],
@@ -4547,31 +5381,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4579,31 +5419,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4611,31 +5457,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(시험)기말시험 (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4643,31 +5495,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "의학통계",
             "prof": "신명희 교수",
+            "content": "의학통계\n\n(시험)기말시험 (120분)\n신명희 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4675,31 +5533,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
@@ -4713,31 +5577,37 @@
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.22\n(월)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.23\n(화)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.24\n(수)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.25\n(목)",
             "prof": "",
+            "content": "",
             "type": "header"
           },
           {
             "subject": "6.26\n(금)",
             "prof": "",
+            "content": "",
             "type": "header"
           }
         ],
@@ -4745,31 +5615,37 @@
           {
             "subject": "09:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4777,31 +5653,37 @@
           {
             "subject": "10:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "기초시기역량평가",
             "prof": "김현진 교수",
+            "content": "기초시기역량평가\n\n(시험)기초시기 역량평가 2차 시험 (120분)\n김현진 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4809,31 +5691,37 @@
           {
             "subject": "11:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "기초시기역량평가",
             "prof": "김현진 교수",
+            "content": "기초시기역량평가\n\n(시험)기초시기 역량평가 2차 시험 (120분)\n김현진 교수",
             "type": "class"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4841,31 +5729,37 @@
           {
             "subject": "12:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4873,31 +5767,37 @@
           {
             "subject": "13:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4905,31 +5805,37 @@
           {
             "subject": "14:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4937,31 +5843,37 @@
           {
             "subject": "15:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ],
@@ -4969,31 +5881,37 @@
           {
             "subject": "16:00",
             "prof": "",
+            "content": "",
             "type": "time"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           },
           {
             "subject": "",
             "prof": "",
+            "content": "",
             "type": "empty"
           }
         ]
