@@ -80,7 +80,7 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
         
         var grid = [];
         for (var i = 0; i < rows.length; i++) {
-          grid.push(new Array(6).fill({subject: '', prof: '', type: 'empty'}));
+          grid.push(new Array(6).fill({subject: '', prof: '', content: '', type: 'empty'}));
         }
         
         for (var r = 0; r < rows.length; r++) {
@@ -92,7 +92,7 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
             while (c < 6 && grid[r][c].type !== 'empty') { c++; }
             if (c >= 6) break;
             
-            var subject = '', prof = '', type = 'empty';
+            var subject = '', prof = '', content = '', type = 'empty';
             if (cell.tagName.toLowerCase() === 'th') {
               subject = cell.innerText.trim();
               type = 'header';
@@ -104,6 +104,7 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
                 subject = cell.querySelector('a').innerText.trim().split('\n')[0].replace(/\s*\(.*\)/g, '').trim();
               }
               type = 'class';
+              content = cell.innerText.trim(); // 셀의 모든 텍스트(주제, 교수, 챕터 내용 등 전체)를 줄바꿈 포함하여 저장
             } else {
               subject = cell.innerText.trim();
               type = subject !== '' ? 'time' : 'empty';
@@ -112,7 +113,7 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
             var rowspan = parseInt(cell.getAttribute('rowspan')) || 1;
             for (var rr = 0; rr < rowspan; rr++) {
               if (r + rr < rows.length && c < 6) {
-                grid[r + rr][c] = { subject: subject, prof: prof, type: type };
+                grid[r + rr][c] = { subject: subject, prof: prof, content: content, type: type };
               }
             }
           }
