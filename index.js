@@ -80,7 +80,11 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
         
         var grid = [];
         for (var i = 0; i < rows.length; i++) {
-          grid.push(new Array(6).fill({subject: '', prof: '', content: '', type: 'empty'}));
+          var rowArr = [];
+          for (var j = 0; j < 6; j++) {
+            rowArr.push({subject: '', prof: '', content: '', type: 'unfilled'});
+          }
+          grid.push(rowArr);
         }
         
         for (var r = 0; r < rows.length; r++) {
@@ -89,7 +93,7 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
           var c = 0;
           for (var i = 0; i < cells.length; i++) {
             var cell = cells[i];
-            while (c < 6 && grid[r][c].type !== 'empty') { c++; }
+            while (c < 6 && grid[r][c].type !== 'unfilled') { c++; }
             if (c >= 6) break;
             
             var subject = '', prof = '', content = '', type = 'empty';
@@ -111,10 +115,25 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
             }
             
             var rowspan = parseInt(cell.getAttribute('rowspan')) || 1;
+            var colspan = parseInt(cell.getAttribute('colspan')) || 1;
             for (var rr = 0; rr < rowspan; rr++) {
-              if (r + rr < rows.length && c < 6) {
-                grid[r + rr][c] = { subject: subject, prof: prof, content: content, type: type };
+              for (var cc = 0; cc < colspan; cc++) {
+                if (r + rr < rows.length && c + cc < 6) {
+                  grid[r + rr][c + cc] = { subject: subject, prof: prof, content: content, type: type };
+                }
               }
+            }
+          }
+        }
+
+        // 채워지지 않은 칸들을 empty로 변환
+        for (var r = 0; r < grid.length; r++) {
+          for (var c = 0; c < 6; c++) {
+            if (grid[r][c].type === 'unfilled') {
+              grid[r][c].type = 'empty';
+              grid[r][c].subject = '';
+              grid[r][c].prof = '';
+              grid[r][c].content = '';
             }
           }
         }
