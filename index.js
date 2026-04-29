@@ -10,8 +10,8 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
   const GRADE = process.env.GRADE || 'M3'; 
 
   const today = new Date();
-  const dateString = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
-  const targetUrl = `https://lrc.skkumed.ac.kr/schdule_time.asp?grade=${GRADE}&rdate=${dateString}`;
+  const todayString = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+  const initialUrl = `https://lrc.skkumed.ac.kr/schdule_time.asp?grade=${GRADE}&rdate=${todayString}`;
 
   const browser = await puppeteer.launch({
     headless: "new",
@@ -33,7 +33,7 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
   try {
     console.log(`1단계: 시간표 링크 접속 시도...`);
     // Scriptable 방식: 일단 접속하고 1초 무조건 쉼
-    await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 60000 }).catch(() => {});
+    await page.goto(initialUrl, { waitUntil: 'domcontentloaded', timeout: 60000 }).catch(() => {});
     await sleep(1500);
 
     // 로그인 창이 떴는지 확인
@@ -57,79 +57,102 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
 
       // 4단계: 핵심! 로그인 후 시간표 페이지로 "수동 재접속"
       console.log('4단계: 시간표 페이지로 수동 재접속 시도...');
-      await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
+      await page.goto(initialUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
       await sleep(2000);
     }
 
-    console.log('5단계: 데이터 추출 시작...');
-    // Scriptable의 파싱 로직과 100% 동일하게 구현
-    const scheduleData = await page.evaluate(() => {
-      var rows = document.querySelectorAll('table.table tr');
-      if (!rows || rows.length === 0) return { error: "테이블을 찾을 수 없음" };
+    console.log('5단계: 17주간 데이터 추출 시작...');
+    let allWeeksData = [];
+
+    for (let i = -8; i <= 8; i++) {
+      const targetDate = new Date(today);
+      targetDate.setDate(today.getDate() + (i * 7));
+      const dateString = `${targetDate.getFullYear()}-${String(targetDate.getMonth() + 1).padStart(2, '0')}-${String(targetDate.getDate()).padStart(2, '0')}`;
+      const targetUrl = `https://lrc.skkumed.ac.kr/schdule_time.asp?grade=${GRADE}&rdate=${dateString}`;
       
-      var grid = [];
-      for (var i = 0; i < rows.length; i++) {
-        grid.push(new Array(6).fill({subject: '', prof: '', type: 'empty'}));
-      }
-      
-      for (var r = 0; r < rows.length; r++) {
-        var tr = rows[r];
-        var cells = tr.querySelectorAll('th, td');
-        var c = 0;
-        for (var i = 0; i < cells.length; i++) {
-          var cell = cells[i];
-          while (c < 6 && grid[r][c].type !== 'empty') { c++; }
-          if (c >= 6) break;
-          
-          var subject = '', prof = '', type = 'empty';
-          if (cell.tagName.toLowerCase() === 'th') {
-            subject = cell.innerText.trim();
-            type = 'header';
-          } else if (cell.querySelector('span') || cell.querySelector('a')) {
-            var spans = cell.querySelectorAll('span');
-            if (spans.length >= 1) subject = spans[0].innerText.trim();
-            if (spans.length >= 2) prof = spans[1].innerText.trim();
-            if (!subject && cell.querySelector('a')) {
-              subject = cell.querySelector('a').innerText.trim().split('\n')[0].replace(/\s*\(.*\)/g, '').trim();
+      console.log(`[주차 ${i}] ${dateString} 접속 중...`);
+      await page.goto(targetUrl, { waitUntil: 'domcontentloaded', timeout: 60000 });
+      await sleep(2000);
+
+      const scheduleData = await page.evaluate(() => {
+        var rows = document.querySelectorAll('table.table tr');
+        if (!rows || rows.length === 0) return { error: "테이블을 찾을 수 없음" };
+        
+        var grid = [];
+        for (var i = 0; i < rows.length; i++) {
+          grid.push(new Array(6).fill({subject: '', prof: '', type: 'empty'}));
+        }
+        
+        for (var r = 0; r < rows.length; r++) {
+          var tr = rows[r];
+          var cells = tr.querySelectorAll('th, td');
+          var c = 0;
+          for (var i = 0; i < cells.length; i++) {
+            var cell = cells[i];
+            while (c < 6 && grid[r][c].type !== 'empty') { c++; }
+            if (c >= 6) break;
+            
+            var subject = '', prof = '', type = 'empty';
+            if (cell.tagName.toLowerCase() === 'th') {
+              subject = cell.innerText.trim();
+              type = 'header';
+            } else if (cell.querySelector('span') || cell.querySelector('a')) {
+              var spans = cell.querySelectorAll('span');
+              if (spans.length >= 1) subject = spans[0].innerText.trim();
+              if (spans.length >= 2) prof = spans[1].innerText.trim();
+              if (!subject && cell.querySelector('a')) {
+                subject = cell.querySelector('a').innerText.trim().split('\n')[0].replace(/\s*\(.*\)/g, '').trim();
+              }
+              type = 'class';
+            } else {
+              subject = cell.innerText.trim();
+              type = subject !== '' ? 'time' : 'empty';
             }
-            type = 'class';
-          } else {
-            subject = cell.innerText.trim();
-            type = subject !== '' ? 'time' : 'empty';
-          }
-          
-          var rowspan = parseInt(cell.getAttribute('rowspan')) || 1;
-          for (var rr = 0; rr < rowspan; rr++) {
-            if (r + rr < rows.length && c < 6) {
-              grid[r + rr][c] = { subject: subject, prof: prof, type: type };
+            
+            var rowspan = parseInt(cell.getAttribute('rowspan')) || 1;
+            for (var rr = 0; rr < rowspan; rr++) {
+              if (r + rr < rows.length && c < 6) {
+                grid[r + rr][c] = { subject: subject, prof: prof, type: type };
+              }
             }
           }
         }
-      }
-      // 9시부터 17시까지만 자르기 로직 포함
-      var startIndex = 0;
-      var cutIndex = grid.length;
-      for (var i = 0; i < grid.length; i++) {
-        if (grid[i][0].subject.includes("09:00")) startIndex = i;
-        if (grid[i][0].subject.includes("17:00")) cutIndex = i;
-      }
-      var finalGrid = [grid[0]].concat(grid.slice(startIndex, cutIndex));
-      return { data: finalGrid };
-    });
+        // 9시부터 17시까지만 자르기 로직 포함
+        var startIndex = 0;
+        var cutIndex = grid.length;
+        for (var i = 0; i < grid.length; i++) {
+          if (grid[i][0].subject.includes("09:00")) startIndex = i;
+          if (grid[i][0].subject.includes("17:00")) cutIndex = i;
+        }
+        var finalGrid = [grid[0]].concat(grid.slice(startIndex, cutIndex));
+        return { data: finalGrid };
+      });
 
-    if (scheduleData.error) {
-      // 실패 시 상황 파악을 위해 스크린샷 저장
-      await page.screenshot({ path: 'error_screenshot.png' });
-      throw new Error(scheduleData.error);
+      if (scheduleData.error) {
+        console.warn(`[주차 ${i}] 에러 발생: ${scheduleData.error}`);
+        // 에러가 나도 스크립트 전체를 중단하지 않고 다음 주차로 넘어갑니다.
+        continue;
+      }
+
+      allWeeksData.push({
+        weekOffset: i,
+        date: dateString,
+        data: scheduleData.data
+      });
+    }
+
+    if (allWeeksData.length === 0) {
+       await page.screenshot({ path: 'error_screenshot.png' });
+       throw new Error('모든 주차의 데이터를 불러오는데 실패했습니다.');
     }
 
     // 결과 저장
     fs.writeFileSync('schedule.json', JSON.stringify({
       lastUpdated: new Date().toISOString(),
-      data: scheduleData.data
+      weeks: allWeeksData
     }, null, 2));
     
-    console.log('🎉 schedule.json 생성 성공!');
+    console.log(`🎉 schedule.json 생성 성공! (총 ${allWeeksData.length}주치 데이터)`);
 
   } catch (error) {
     console.error('❌ 최종 에러:', error.message);
