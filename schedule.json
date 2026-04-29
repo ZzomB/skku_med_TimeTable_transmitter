@@ -1,293 +1,5003 @@
 {
-  "lastUpdated": "2026-04-28T16:21:00.889Z",
-  "data": [
-    [
-      {
-        "subject": "",
-        "prof": "",
-        "type": "header"
-      },
-      {
-        "subject": "4.27\n(월)",
-        "prof": "",
-        "type": "header"
-      },
-      {
-        "subject": "4.28\n(화)",
-        "prof": "",
-        "type": "header"
-      },
-      {
-        "subject": "4.29\n(수)",
-        "prof": "",
-        "type": "header"
-      },
-      {
-        "subject": "4.30\n(목)",
-        "prof": "",
-        "type": "header"
-      },
-      {
-        "subject": "5.1\n(금)",
-        "prof": "",
-        "type": "header"
-      }
-    ],
-    [
-      {
-        "subject": "09:00",
-        "prof": "",
-        "type": "time"
-      },
-      {
-        "subject": "인체의 방어 기전",
-        "prof": "류희주 교수",
-        "type": "class"
-      },
-      {
-        "subject": "감염체의 이해",
-        "prof": "정지욱 교수",
-        "type": "class"
-      },
-      {
-        "subject": "감염체의 이해",
-        "prof": "정지욱 교수",
-        "type": "class"
-      },
-      {
-        "subject": "약리의 이해",
-        "prof": "최정윤 교수",
-        "type": "class"
-      },
-      {
-        "subject": "",
-        "prof": "",
-        "type": "empty"
-      }
-    ],
-    [
-      {
-        "subject": "10:00",
-        "prof": "",
-        "type": "time"
-      },
-      {
-        "subject": "인체의 방어 기전",
-        "prof": "류희주 교수",
-        "type": "class"
-      },
-      {
-        "subject": "감염체의 이해",
-        "prof": "정지욱 교수",
-        "type": "class"
-      },
-      {
-        "subject": "감염체의 이해",
-        "prof": "정지욱 교수",
-        "type": "class"
-      },
-      {
-        "subject": "약리의 이해",
-        "prof": "최정윤 교수",
-        "type": "class"
-      },
-      {
-        "subject": "",
-        "prof": "",
-        "type": "empty"
-      }
-    ],
-    [
-      {
-        "subject": "11:00",
-        "prof": "",
-        "type": "time"
-      },
-      {
-        "subject": "인체의 방어 기전",
-        "prof": "류희주 교수",
-        "type": "class"
-      },
-      {
-        "subject": "감염체의 이해",
-        "prof": "정지욱 교수",
-        "type": "class"
-      },
-      {
-        "subject": "감염체의 이해",
-        "prof": "정지욱 교수",
-        "type": "class"
-      },
-      {
-        "subject": "약리의 이해",
-        "prof": "최정윤 교수",
-        "type": "class"
-      },
-      {
-        "subject": "",
-        "prof": "",
-        "type": "empty"
-      }
-    ],
-    [
-      {
-        "subject": "12:00",
-        "prof": "",
-        "type": "time"
-      },
-      {
-        "subject": "",
-        "prof": "",
-        "type": "empty"
-      },
-      {
-        "subject": "",
-        "prof": "",
-        "type": "empty"
-      },
-      {
-        "subject": "",
-        "prof": "",
-        "type": "empty"
-      },
-      {
-        "subject": "",
-        "prof": "",
-        "type": "empty"
-      },
-      {
-        "subject": "",
-        "prof": "",
-        "type": "empty"
-      }
-    ],
-    [
-      {
-        "subject": "13:00",
-        "prof": "",
-        "type": "time"
-      },
-      {
-        "subject": "의학통계",
-        "prof": "신명희 교수",
-        "type": "class"
-      },
-      {
-        "subject": "약리의 이해",
-        "prof": "신주호 교수",
-        "type": "class"
-      },
-      {
-        "subject": "질병의 병리기전",
-        "prof": "김석형 교수",
-        "type": "class"
-      },
-      {
-        "subject": "감염체의 이해",
-        "prof": "정지욱 교수",
-        "type": "class"
-      },
-      {
-        "subject": "",
-        "prof": "",
-        "type": "empty"
-      }
-    ],
-    [
-      {
-        "subject": "14:00",
-        "prof": "",
-        "type": "time"
-      },
-      {
-        "subject": "의학통계",
-        "prof": "신명희 교수",
-        "type": "class"
-      },
-      {
-        "subject": "약리의 이해",
-        "prof": "원태형 교수",
-        "type": "class"
-      },
-      {
-        "subject": "질병의 병리기전",
-        "prof": "김석형 교수",
-        "type": "class"
-      },
-      {
-        "subject": "감염체의 이해",
-        "prof": "정지욱 교수",
-        "type": "class"
-      },
-      {
-        "subject": "",
-        "prof": "",
-        "type": "empty"
-      }
-    ],
-    [
-      {
-        "subject": "15:00",
-        "prof": "",
-        "type": "time"
-      },
-      {
-        "subject": "의학통계",
-        "prof": "신명희 교수",
-        "type": "class"
-      },
-      {
-        "subject": "신경과학",
-        "prof": "김현진 교수",
-        "type": "class"
-      },
-      {
-        "subject": "질병의 병리기전",
-        "prof": "이재석 교수",
-        "type": "class"
-      },
-      {
-        "subject": "신경과학",
-        "prof": "김현진 교수",
-        "type": "class"
-      },
-      {
-        "subject": "",
-        "prof": "",
-        "type": "empty"
-      }
-    ],
-    [
-      {
-        "subject": "16:00",
-        "prof": "",
-        "type": "time"
-      },
-      {
-        "subject": "의학통계",
-        "prof": "신명희 교수",
-        "type": "class"
-      },
-      {
-        "subject": "신경과학",
-        "prof": "김현진 교수",
-        "type": "class"
-      },
-      {
-        "subject": "질병의 병리기전",
-        "prof": "이재석 교수",
-        "type": "class"
-      },
-      {
-        "subject": "신경과학",
-        "prof": "김현진 교수",
-        "type": "class"
-      },
-      {
-        "subject": "",
-        "prof": "",
-        "type": "empty"
-      }
-    ]
+  "lastUpdated": "2026-04-29T11:12:50.566Z",
+  "weeks": [
+    {
+      "weekOffset": -8,
+      "date": "2026-03-04",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.2\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.3\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.4\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.5\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.6\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "한명준 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "기초시기역량평가",
+            "prof": "김현진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "한명준 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "기초시기역량평가",
+            "prof": "김현진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "한명준 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "이기영 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "장기택 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "최정윤 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "이기영 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "장기택 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "최정윤 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "이기영 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "장기택 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "한명준 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "한명준 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": -7,
+      "date": "2026-03-11",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.9\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.10\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.11\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.12\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.13\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "이기영 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "신동우 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "최정윤 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "이기영 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "신동우 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "이기영 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "신동우 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "최정윤 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "김동훈 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "최정윤 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "김동훈 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "권기영 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "고관수 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "고관수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": -6,
+      "date": "2026-03-18",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.16\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.17\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.18\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.19\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.20\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "고관수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "김태진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이윤송 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "고관수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "김태진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이윤송 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "고관수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "김태진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이윤송 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "김현수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "고관수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이윤송 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "김현수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "신동우 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이윤송 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "김현수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": -5,
+      "date": "2026-03-25",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.23\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.24\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.25\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.26\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.27\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "임세진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "신동우 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이연종 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "임세진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "신동우 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이윤송 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "임세진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "신동우 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이윤송 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이윤송 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "안수민 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "신동우 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이윤송 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "안수민 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "신동우 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "안수민 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "안수민 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": -4,
+      "date": "2026-04-01",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.30\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "3.31\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.1\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.2\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.3\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "이기영 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "한명준 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "원태형 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "이기영 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "한명준 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "원태형 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "이기영 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "한명준 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "원태형 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "채승완 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "한명준 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "원태형 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "채승완 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "한명준 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "채승완 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "채승완 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": -3,
+      "date": "2026-04-08",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.6\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.7\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.8\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.9\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.10\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "임세진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "고관수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이연종 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "임세진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "고관수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이연종 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "임세진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "고관수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이연종 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "박재현 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이연종 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "박재현 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "김정선 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "고관수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "김정선 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "고관수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": -2,
+      "date": "2026-04-15",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.13\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.14\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.15\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.16\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.17\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "류희주 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "고관수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "류희주 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "고관수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "류희주 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "고관수 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이연종 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "원태형 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "원태형 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": -1,
+      "date": "2026-04-22",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.20\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.21\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.22\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.23\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.24\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "신동우 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "신동우 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "신경계구조",
+            "prof": "오창석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": 0,
+      "date": "2026-04-29",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.27\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.28\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.29\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "4.30\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.1\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "류희주 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "최정윤 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "류희주 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "최정윤 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "류희주 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "최정윤 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "신주호 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "김석형 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "원태형 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "김석형 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "김현진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "이재석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "김현진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "김현진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "이재석 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "김현진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": 1,
+      "date": "2026-05-06",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.4\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.5\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.6\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.7\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.8\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "김태진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "김태진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "원태형 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "김태진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "원태형 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "이현욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "조은윤 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "조은윤 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": 2,
+      "date": "2026-05-13",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.11\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.12\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.13\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.14\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.15\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "김태진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이연종 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박성진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "신주호 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "김태진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이연종 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박성진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "신주호 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "김태진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "김균환 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "김균환 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "김균환 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "김균환 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박명규 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박명규 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": 3,
+      "date": "2026-05-20",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.18\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.19\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.20\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.21\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.22\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "류희주 교수",
+            "type": "class"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "김태진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박명규 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "신주호 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "류희주 교수",
+            "type": "class"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "김태진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박명규 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "신주호 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "류희주 교수",
+            "type": "class"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "김태진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박명규 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "김균환 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "도성임 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이연종 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "김균환 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "도성임 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이연종 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박성진 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "도성임 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박성진 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": 4,
+      "date": "2026-05-27",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.25\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.26\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.27\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.28\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "5.29\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "임세진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박명규 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "신주호 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "임세진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박명규 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "신주호 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "임세진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "신주호 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "최윤라 교수",
+            "type": "class"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "신주호 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "최윤라 교수",
+            "type": "class"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "강동묵 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "최윤라 교수",
+            "type": "class"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "강동묵 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": 5,
+      "date": "2026-06-03",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.1\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.2\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.3\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.4\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.5\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이성균 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "원태형 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이성균 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "원태형 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "정지욱 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이성균 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "원태형 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "신주호 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이성균 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "이연종 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이성균 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박성진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "강동묵 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박성진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "강동묵 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": 6,
+      "date": "2026-06-10",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.8\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.9\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.10\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.11\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.12\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "이기영 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이성균 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박명규 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "이기영 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이성균 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박명규 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "이기영 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이성균 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박명규 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이준행 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "최정윤 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "추진아 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이성균 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "최정윤 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "추진아 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이성균 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박명규 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "김태진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "추진아 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이성균 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "박명규 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "김태진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "추진아 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이성균 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": 7,
+      "date": "2026-06-17",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.15\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.16\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.17\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.18\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.19\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이성균 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "인체의 방어 기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "감염체의 이해",
+            "prof": "이성균 교수",
+            "type": "class"
+          },
+          {
+            "subject": "약리의 이해",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "신경과학",
+            "prof": "외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "질병의 병리기전",
+            "prof": "외부강사 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "의학통계",
+            "prof": "신명희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": 8,
+      "date": "2026-06-24",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.22\n(월)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.23\n(화)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.24\n(수)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.25\n(목)",
+            "prof": "",
+            "type": "header"
+          },
+          {
+            "subject": "6.26\n(금)",
+            "prof": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "기초시기역량평가",
+            "prof": "김현진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "기초시기역량평가",
+            "prof": "김현진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    }
   ]
 }
