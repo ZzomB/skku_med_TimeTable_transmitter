@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-06T00:31:29.598Z",
+  "lastUpdated": "2026-05-06T01:39:03.624Z",
   "weeks": [
     {
       "weekOffset": -8,
@@ -3049,10 +3049,10 @@
             "type": "class"
           },
           {
-            "subject": "신경과학",
-            "prof": "외부강사 교수",
-            "content": "신경과학\n\nCentral visual system (120분)\n외부강사 교수",
-            "type": "class"
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
           }
         ],
         [
@@ -3087,10 +3087,10 @@
             "type": "empty"
           },
           {
-            "subject": "신경과학",
-            "prof": "외부강사 교수",
-            "content": "신경과학\n\nCentral visual system (120분)\n외부강사 교수",
-            "type": "class"
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
           }
         ],
         [
@@ -3265,16 +3265,16 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "신경과학",
+            "prof": "남주현 교수",
+            "content": "신경과학\n\nCentral visual system (60분)\n남주현 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "신경과학",
+            "prof": "남주현 교수",
+            "content": "신경과학\n\nCentral visual system (60분)\n남주현 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -3745,10 +3745,10 @@
             "type": "class"
           },
           {
-            "subject": "신경과학",
-            "prof": "박성진 교수",
-            "content": "신경과학\n\nMotivation (120분)\n박성진 교수",
-            "type": "class"
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
           }
         ],
         [
@@ -3777,16 +3777,16 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
             "subject": "신경과학",
             "prof": "박성진 교수",
             "content": "신경과학\n\nMotivation (120분)\n박성진 교수",
             "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
           }
         ],
         [
@@ -3815,10 +3815,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "신경과학",
+            "prof": "박성진 교수",
+            "content": "신경과학\n\nMotivation (120분)\n박성진 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4441,10 +4441,10 @@
             "type": "class"
           },
           {
-            "subject": "신경과학",
-            "prof": "박성진 교수",
-            "content": "신경과학\n\nWiring the brain (120분)\n박성진 교수",
-            "type": "class"
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
           }
         ],
         [
@@ -4473,16 +4473,16 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
             "subject": "신경과학",
             "prof": "박성진 교수",
             "content": "신경과학\n\nWiring the brain (120분)\n박성진 교수",
             "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
           }
         ],
         [
@@ -4511,10 +4511,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "신경과학",
+            "prof": "박성진 교수",
+            "content": "신경과학\n\nWiring the brain (120분)\n박성진 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4593,10 +4593,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "신경과학",
+            "prof": "박명규 교수",
+            "content": "신경과학\n\nMolecular mechanisms of memory (120분)\n박명규 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4631,10 +4631,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "신경과학",
+            "prof": "박명규 교수",
+            "content": "신경과학\n\nMolecular mechanisms of memory (120분)\n박명규 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4789,10 +4789,10 @@
             "type": "class"
           },
           {
-            "subject": "신경과학",
-            "prof": "박명규 교수",
-            "content": "신경과학\n\nMolecular mechanisms of memory (120분)\n박명규 교수",
-            "type": "class"
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
           }
         ],
         [
@@ -4827,10 +4827,10 @@
             "type": "class"
           },
           {
-            "subject": "신경과학",
-            "prof": "박명규 교수",
-            "content": "신경과학\n\nMolecular mechanisms of memory (120분)\n박명규 교수",
-            "type": "class"
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
           }
         ],
         [
