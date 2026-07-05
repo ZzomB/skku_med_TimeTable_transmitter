@@ -1,357 +1,9 @@
 {
-  "lastUpdated": "2026-07-04T21:59:22.808Z",
+  "lastUpdated": "2026-07-05T22:02:27.994Z",
   "weeks": [
     {
       "weekOffset": -8,
-      "date": "2026-05-09",
-      "data": [
-        [
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "5.4\n(월)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "5.5\n(화)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "5.6\n(수)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "5.7\n(목)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "5.8\n(금)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          }
-        ],
-        [
-          {
-            "subject": "09:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "인체의 방어 기전",
-            "prof": "김태진 교수",
-            "content": "인체의 방어 기전\n\nB세포 기능 (60분)\n김태진 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "신경과학",
-            "prof": "외부강사 교수",
-            "content": "신경과학\n\nEye (120분)\n외부강사 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "10:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "인체의 방어 기전",
-            "prof": "김태진 교수",
-            "content": "인체의 방어 기전\n\nB세포 활성화 (60분)\n김태진 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "신경과학",
-            "prof": "외부강사 교수",
-            "content": "신경과학\n\nEye (120분)\n외부강사 교수",
-            "type": "class"
-          },
-          {
-            "subject": "약리의 이해",
-            "prof": "원태형 교수",
-            "content": "약리의 이해\n\n아편계 진통제 (60분)\n원태형 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "11:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "인체의 방어 기전",
-            "prof": "김태진 교수",
-            "content": "인체의 방어 기전\n\nB세포의 항체 생산 (60분)\n김태진 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "약리의 이해",
-            "prof": "원태형 교수",
-            "content": "약리의 이해\n\n전신마취제 (60분)\n원태형 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "12:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "13:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "의학통계",
-            "prof": "신명희 교수",
-            "content": "의학통계\n\n역학연구에서의 관련도 지표와 신뢰구간 (OR) (60분)\n신명희 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "질병의 병리기전",
-            "prof": "이현욱 교수",
-            "content": "질병의 병리기전\n\n화학적/방사선/미생물발암 (60분)\n이현욱 교수",
-            "type": "class"
-          },
-          {
-            "subject": "감염체의 이해",
-            "prof": "정지욱 교수",
-            "content": "감염체의 이해\n\nCoronavirus (60분)\n정지욱 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "14:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "의학통계",
-            "prof": "신명희 교수",
-            "content": "의학통계\n\n역학연구에서의 관련도 지표와 신뢰구간 (RR) (60분)\n신명희 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "질병의 병리기전",
-            "prof": "조은윤 교수",
-            "content": "질병의 병리기전\n\n종양 면역 (120분)\n조은윤 교수",
-            "type": "class"
-          },
-          {
-            "subject": "감염체의 이해",
-            "prof": "정지욱 교수",
-            "content": "감염체의 이해\n\nRhabdovirus and Bunyavirus (60분)\n정지욱 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "15:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "의학통계",
-            "prof": "신명희 교수",
-            "content": "의학통계\n\n(실습) 질의응답/ 과제8 풀이 SAS실습: OR/RR/Trend test (120분)\n신명희 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "질병의 병리기전",
-            "prof": "조은윤 교수",
-            "content": "질병의 병리기전\n\n종양 면역 (120분)\n조은윤 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "16:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "의학통계",
-            "prof": "신명희 교수",
-            "content": "의학통계\n\n(실습) 질의응답/ 과제8 풀이 SAS실습: OR/RR/Trend test (120분)\n신명희 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ]
-      ]
-    },
-    {
-      "weekOffset": -7,
-      "date": "2026-05-16",
+      "date": "2026-05-10",
       "data": [
         [
           {
@@ -698,8 +350,8 @@
       ]
     },
     {
-      "weekOffset": -6,
-      "date": "2026-05-23",
+      "weekOffset": -7,
+      "date": "2026-05-17",
       "data": [
         [
           {
@@ -1046,8 +698,8 @@
       ]
     },
     {
-      "weekOffset": -5,
-      "date": "2026-05-30",
+      "weekOffset": -6,
+      "date": "2026-05-24",
       "data": [
         [
           {
@@ -1394,8 +1046,8 @@
       ]
     },
     {
-      "weekOffset": -4,
-      "date": "2026-06-06",
+      "weekOffset": -5,
+      "date": "2026-05-31",
       "data": [
         [
           {
@@ -1742,8 +1394,8 @@
       ]
     },
     {
-      "weekOffset": -3,
-      "date": "2026-06-13",
+      "weekOffset": -4,
+      "date": "2026-06-07",
       "data": [
         [
           {
@@ -2090,8 +1742,8 @@
       ]
     },
     {
-      "weekOffset": -2,
-      "date": "2026-06-20",
+      "weekOffset": -3,
+      "date": "2026-06-14",
       "data": [
         [
           {
@@ -2438,8 +2090,8 @@
       ]
     },
     {
-      "weekOffset": -1,
-      "date": "2026-06-27",
+      "weekOffset": -2,
+      "date": "2026-06-21",
       "data": [
         [
           {
@@ -2786,8 +2438,8 @@
       ]
     },
     {
-      "weekOffset": 0,
-      "date": "2026-07-04",
+      "weekOffset": -1,
+      "date": "2026-06-28",
       "data": [
         [
           {
@@ -3134,8 +2786,8 @@
       ]
     },
     {
-      "weekOffset": 1,
-      "date": "2026-07-11",
+      "weekOffset": 0,
+      "date": "2026-07-05",
       "data": [
         [
           {
@@ -3482,8 +3134,8 @@
       ]
     },
     {
-      "weekOffset": 2,
-      "date": "2026-07-18",
+      "weekOffset": 1,
+      "date": "2026-07-12",
       "data": [
         [
           {
@@ -3830,8 +3482,8 @@
       ]
     },
     {
-      "weekOffset": 3,
-      "date": "2026-07-25",
+      "weekOffset": 2,
+      "date": "2026-07-19",
       "data": [
         [
           {
@@ -4178,8 +3830,8 @@
       ]
     },
     {
-      "weekOffset": 4,
-      "date": "2026-08-01",
+      "weekOffset": 3,
+      "date": "2026-07-26",
       "data": [
         [
           {
@@ -4526,8 +4178,8 @@
       ]
     },
     {
-      "weekOffset": 5,
-      "date": "2026-08-08",
+      "weekOffset": 4,
+      "date": "2026-08-02",
       "data": [
         [
           {
@@ -4874,8 +4526,8 @@
       ]
     },
     {
-      "weekOffset": 6,
-      "date": "2026-08-15",
+      "weekOffset": 5,
+      "date": "2026-08-09",
       "data": [
         [
           {
@@ -5222,8 +4874,8 @@
       ]
     },
     {
-      "weekOffset": 7,
-      "date": "2026-08-22",
+      "weekOffset": 6,
+      "date": "2026-08-16",
       "data": [
         [
           {
@@ -5570,8 +5222,8 @@
       ]
     },
     {
-      "weekOffset": 8,
-      "date": "2026-08-29",
+      "weekOffset": 7,
+      "date": "2026-08-23",
       "data": [
         [
           {
@@ -5606,6 +5258,354 @@
           },
           {
             "subject": "8.28\n(금)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": 8,
+      "date": "2026-08-30",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "8.31\n(월)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "9.1\n(화)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "9.2\n(수)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "9.3\n(목)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "9.4\n(금)",
             "prof": "",
             "content": "",
             "type": "header"
