@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-14T21:58:16.470Z",
+  "lastUpdated": "2026-07-15T22:02:22.060Z",
   "weeks": [
     {
       "weekOffset": -8,
-      "date": "2026-05-19",
+      "date": "2026-05-20",
       "data": [
         [
           {
@@ -351,7 +351,7 @@
     },
     {
       "weekOffset": -7,
-      "date": "2026-05-26",
+      "date": "2026-05-27",
       "data": [
         [
           {
@@ -699,7 +699,7 @@
     },
     {
       "weekOffset": -6,
-      "date": "2026-06-02",
+      "date": "2026-06-03",
       "data": [
         [
           {
@@ -1047,7 +1047,7 @@
     },
     {
       "weekOffset": -5,
-      "date": "2026-06-09",
+      "date": "2026-06-10",
       "data": [
         [
           {
@@ -1395,7 +1395,7 @@
     },
     {
       "weekOffset": -4,
-      "date": "2026-06-16",
+      "date": "2026-06-17",
       "data": [
         [
           {
@@ -1743,7 +1743,7 @@
     },
     {
       "weekOffset": -3,
-      "date": "2026-06-23",
+      "date": "2026-06-24",
       "data": [
         [
           {
@@ -2091,7 +2091,7 @@
     },
     {
       "weekOffset": -2,
-      "date": "2026-06-30",
+      "date": "2026-07-01",
       "data": [
         [
           {
@@ -2439,7 +2439,7 @@
     },
     {
       "weekOffset": -1,
-      "date": "2026-07-07",
+      "date": "2026-07-08",
       "data": [
         [
           {
@@ -2787,7 +2787,7 @@
     },
     {
       "weekOffset": 0,
-      "date": "2026-07-14",
+      "date": "2026-07-15",
       "data": [
         [
           {
@@ -3135,7 +3135,7 @@
     },
     {
       "weekOffset": 1,
-      "date": "2026-07-21",
+      "date": "2026-07-22",
       "data": [
         [
           {
@@ -3483,7 +3483,7 @@
     },
     {
       "weekOffset": 2,
-      "date": "2026-07-28",
+      "date": "2026-07-29",
       "data": [
         [
           {
@@ -3831,7 +3831,7 @@
     },
     {
       "weekOffset": 3,
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "data": [
         [
           {
@@ -4179,7 +4179,7 @@
     },
     {
       "weekOffset": 4,
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "data": [
         [
           {
@@ -4227,34 +4227,34 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\n자살예방: Gate Keeper 양성교육_권순정 선생님 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "이상훈 교수",
+            "content": "임상기초의학\n\nPBL의 개념 (60분)\n이상훈 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\nLI 제작법 (M5 김건영) (60분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\nPBL Tutorial 2 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "이상훈 교수",
+            "content": "임상기초의학\n\n콜로키아 (60분)\n이상훈 교수",
+            "type": "class"
           }
         ],
         [
@@ -4265,16 +4265,16 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\n자살예방: Gate Keeper 양성교육_권순정 선생님 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "이상훈 교수",
+            "content": "임상기초의학\n\nPBL Tutorial의 실제 (60분)\n이상훈 교수",
+            "type": "class"
           },
           {
             "subject": "임상기초의학",
@@ -4283,10 +4283,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\nPBL Tutorial 2 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4303,10 +4303,10 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\n자살예방: Gate Keeper 양성교육_권순정 선생님 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4321,16 +4321,16 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\nPBL Tutorial 2 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "전준석 교수",
+            "content": "임상기초의학\n\nCase Mapping (60분)\n전준석 교수",
+            "type": "class"
           }
         ],
         [
@@ -4379,10 +4379,10 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\nTCI 검사_의학교육실(13:30~) (60분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4391,22 +4391,22 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\n자율학습(90분) (90분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "이상훈 교수",
+            "content": "임상기초의학\n\nPBL 과정에서의 평가 (60분)\n이상훈 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\nMEQ시험★13:30~★ (30분)\n외부강사 교수",
+            "type": "class"
           }
         ],
         [
@@ -4417,34 +4417,34 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\nTCI 검사_의학교육실(13:30~) (60분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\nQuiz(30분) (60분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\n자율학습(90분) (90분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\nPBL Tutorial 3 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "윤진영 교수",
+            "content": "임상기초의학\n\nMEQ강의 (60분)\n윤진영 교수",
+            "type": "class"
           }
         ],
         [
@@ -4461,28 +4461,28 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\nPBL Tutorial1 ★14:30~★ (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "전홍진 교수",
+            "content": "임상기초의학\n\n프레젠테이션 (60분)\n전홍진 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\nPBL Tutorial 3 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "윤진영 교수",
+            "content": "임상기초의학\n\n스키마 작성하기 (60분)\n윤진영 교수",
+            "type": "class"
           }
         ],
         [
@@ -4499,10 +4499,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\nPBL Tutorial1 ★14:30~★ (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4511,10 +4511,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\nPBL Tutorial 3 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4527,7 +4527,7 @@
     },
     {
       "weekOffset": 5,
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "data": [
         [
           {
@@ -4581,10 +4581,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "허우성 교수",
+            "content": "임상기초의학\n\n산염기 평형 장애의 이해(~10:30) (90분)\n허우성 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4593,16 +4593,16 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "이경수 교수",
+            "content": "임상기초의학\n\n흉부영상진단 총론: 정상흉부 영상 의학, 흉부영상의학의 검사법, 흉부병변의 유형분석 (120분)\n이경수 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "김희진 교수",
+            "content": "임상기초의학\n\n지혈 및 혈전 검사의 이해 (60분)\n김희진 교수",
+            "type": "class"
           }
         ],
         [
@@ -4619,28 +4619,28 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\n인체유전 Non-mendelian inheritance_김명진 교수님(10:30~) (90분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "조성기 교수",
+            "content": "임상기초의학\n\n인터벤션영상의학개론 (60분)\n조성기 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "이경수 교수",
+            "content": "임상기초의학\n\n흉부영상진단 총론: 정상흉부 영상 의학, 흉부영상의학의 검사법, 흉부병변의 유형분석 (120분)\n이경수 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "김희진 교수",
+            "content": "임상기초의학\n\n인체유전 Introduction to Clinical Genetics (60분)\n김희진 교수",
+            "type": "class"
           }
         ],
         [
@@ -4657,10 +4657,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\n인체유전 Non-mendelian inheritance_김명진 교수님(10:30~) (90분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4739,22 +4739,22 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "최준영 교수",
+            "content": "임상기초의학\n\n핵의학검사원리의이해1 (60분)\n최준영 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "장자현 교수",
+            "content": "임상기초의학\n\n인체유전 Molecular technologies & genetic testing (60분)\n장자현 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "장혜련 교수",
+            "content": "임상기초의학\n\n전해질 대사 장애 (60분)\n장혜련 교수",
+            "type": "class"
           }
         ],
         [
@@ -4777,22 +4777,22 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "최준영 교수",
+            "content": "임상기초의학\n\n핵의학검사원리의이해2 (60분)\n최준영 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "장자현 교수",
+            "content": "임상기초의학\n\n신경계질환의 진단검사적 방법 (60분)\n장자현 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "장혜련 교수",
+            "content": "임상기초의학\n\n수분과 염분 균형 (60분)\n장혜련 교수",
+            "type": "class"
           }
         ],
         [
@@ -4815,16 +4815,16 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "김태열 교수",
+            "content": "임상기초의학\n\nMicrobial genetic tests (60분)\n김태열 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "이수연 교수",
+            "content": "임상기초의학\n\n인체유전 Clinical pharmacogenetic (60분)\n이수연 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4853,10 +4853,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "김태열 교수",
+            "content": "임상기초의학\n\n임상미생물학 총론 (60분)\n김태열 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4875,7 +4875,7 @@
     },
     {
       "weekOffset": 6,
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "data": [
         [
           {
@@ -4923,28 +4923,28 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "정철원 교수",
+            "content": "임상기초의학\n\n적혈구의 생리, 철대사 Approach to anemia (120분)\n정철원 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "조덕 교수",
+            "content": "임상기초의학\n\n수혈의학 (120분)\n조덕 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "김희진 교수",
+            "content": "임상기초의학\n\n진단혈액검사의 소개 (60분)\n김희진 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "손범석 교수",
+            "content": "임상기초의학\n\n신경계영상소견 및 MR영상 원리 (120분)\n손범석 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4961,28 +4961,28 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "정철원 교수",
+            "content": "임상기초의학\n\n적혈구의 생리, 철대사 Approach to anemia (120분)\n정철원 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "조덕 교수",
+            "content": "임상기초의학\n\n수혈의학 (120분)\n조덕 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "김희진 교수",
+            "content": "임상기초의학\n\n인체유전 Clinical cytogenetics (120분)\n김희진 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "손범석 교수",
+            "content": "임상기초의학\n\n신경계영상소견 및 MR영상 원리 (120분)\n손범석 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5011,10 +5011,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "김희진 교수",
+            "content": "임상기초의학\n\n인체유전 Clinical cytogenetics (120분)\n김희진 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5075,10 +5075,10 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "신재승 교수",
+            "content": "임상기초의학\n\n초음파검사 및 CT의 원리와 임상적용 (120분)\n신재승 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5093,10 +5093,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "이정은 교수",
+            "content": "임상기초의학\n\n신기능 검사/소변검사 (60분)\n이정은 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5113,10 +5113,10 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "신재승 교수",
+            "content": "임상기초의학\n\n초음파검사 및 CT의 원리와 임상적용 (120분)\n신재승 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5131,16 +5131,16 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "유홍석 교수",
+            "content": "임상기초의학\n\n폐기능검사 (60분)\n유홍석 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\n임상기초의학 종합시험 (120분)\n외부강사 교수",
+            "type": "class"
           }
         ],
         [
@@ -5175,10 +5175,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "임상기초의학",
+            "prof": "외부강사 교수",
+            "content": "임상기초의학\n\n임상기초의학 종합시험 (120분)\n외부강사 교수",
+            "type": "class"
           }
         ],
         [
@@ -5223,7 +5223,7 @@
     },
     {
       "weekOffset": 7,
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "data": [
         [
           {
@@ -5571,7 +5571,7 @@
     },
     {
       "weekOffset": 8,
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "data": [
         [
           {
