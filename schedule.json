@@ -1,357 +1,9 @@
 {
-  "lastUpdated": "2026-07-18T21:53:01.543Z",
+  "lastUpdated": "2026-07-19T21:53:31.518Z",
   "weeks": [
     {
       "weekOffset": -8,
-      "date": "2026-05-23",
-      "data": [
-        [
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "5.18\n(월)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "5.19\n(화)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "5.20\n(수)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "5.21\n(목)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "5.22\n(금)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          }
-        ],
-        [
-          {
-            "subject": "09:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "인체의 방어 기전",
-            "prof": "류희주 교수",
-            "content": "인체의 방어 기전\n\n지역면역 특성 (60분)\n류희주 교수",
-            "type": "class"
-          },
-          {
-            "subject": "인체의 방어 기전",
-            "prof": "김태진 교수",
-            "content": "인체의 방어 기전\n\nT세포 면역관용 (60분)\n김태진 교수",
-            "type": "class"
-          },
-          {
-            "subject": "신경과학",
-            "prof": "박명규 교수",
-            "content": "신경과학\n\nBrain control of movement (180분)\n박명규 교수",
-            "type": "class"
-          },
-          {
-            "subject": "약리의 이해",
-            "prof": "신주호 교수",
-            "content": "약리의 이해\n\n세균세포벽 합성 억제제 (60분)\n신주호 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "10:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "인체의 방어 기전",
-            "prof": "류희주 교수",
-            "content": "인체의 방어 기전\n\n위장관 지역면역 (60분)\n류희주 교수",
-            "type": "class"
-          },
-          {
-            "subject": "인체의 방어 기전",
-            "prof": "김태진 교수",
-            "content": "인체의 방어 기전\n\nB세포 면역관용 (60분)\n김태진 교수",
-            "type": "class"
-          },
-          {
-            "subject": "신경과학",
-            "prof": "박명규 교수",
-            "content": "신경과학\n\nBrain control of movement (180분)\n박명규 교수",
-            "type": "class"
-          },
-          {
-            "subject": "약리의 이해",
-            "prof": "신주호 교수",
-            "content": "약리의 이해\n\n단백질 합성 억제제 (60분)\n신주호 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "11:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "인체의 방어 기전",
-            "prof": "류희주 교수",
-            "content": "인체의 방어 기전\n\n피부 폐 뇌 지역면역 (60분)\n류희주 교수",
-            "type": "class"
-          },
-          {
-            "subject": "인체의 방어 기전",
-            "prof": "김태진 교수",
-            "content": "인체의 방어 기전\n\n자가면역질환의 기전 (60분)\n김태진 교수",
-            "type": "class"
-          },
-          {
-            "subject": "신경과학",
-            "prof": "박명규 교수",
-            "content": "신경과학\n\nBrain control of movement (180분)\n박명규 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "12:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "인체의 방어 기전",
-            "prof": "외부강사 교수",
-            "content": "인체의 방어 기전\n\n과목형성평가2 (60분)\n외부강사 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "13:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "의학통계",
-            "prof": "신명희 교수",
-            "content": "의학통계\n\n검정력과 표본수 (단일표본, 두 표본의 평균치 비교) (60분)\n신명희 교수",
-            "type": "class"
-          },
-          {
-            "subject": "감염체의 이해",
-            "prof": "김균환 교수",
-            "content": "감염체의 이해\n\nHepatitisvirus (1) (60분)\n김균환 교수",
-            "type": "class"
-          },
-          {
-            "subject": "질병의 병리기전",
-            "prof": "도성임 교수",
-            "content": "질병의 병리기전\n\n종양의 병리(1.1) (60분)\n도성임 교수",
-            "type": "class"
-          },
-          {
-            "subject": "약리의 이해",
-            "prof": "이연종 교수",
-            "content": "약리의 이해\n\n혈액응고 관련 약물 (60분)\n이연종 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "14:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "의학통계",
-            "prof": "신명희 교수",
-            "content": "의학통계\n\n검정력과 표본수 (단일표본, 두 표본의 분율 비교) (60분)\n신명희 교수",
-            "type": "class"
-          },
-          {
-            "subject": "감염체의 이해",
-            "prof": "김균환 교수",
-            "content": "감염체의 이해\n\nHepatitisvirus (2) (60분)\n김균환 교수",
-            "type": "class"
-          },
-          {
-            "subject": "질병의 병리기전",
-            "prof": "도성임 교수",
-            "content": "질병의 병리기전\n\n종양의 병리(1.2) (60분)\n도성임 교수",
-            "type": "class"
-          },
-          {
-            "subject": "약리의 이해",
-            "prof": "이연종 교수",
-            "content": "약리의 이해\n\n부신피질호르몬계 (60분)\n이연종 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "15:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "의학통계",
-            "prof": "신명희 교수",
-            "content": "의학통계\n\n(실습)질의응답/ 과제10 풀이 PS: Power and Sample Size 실습 (120분)\n신명희 교수",
-            "type": "class"
-          },
-          {
-            "subject": "감염체의 이해",
-            "prof": "정지욱 교수",
-            "content": "감염체의 이해\n\nTumor virus (60분)\n정지욱 교수",
-            "type": "class"
-          },
-          {
-            "subject": "질병의 병리기전",
-            "prof": "도성임 교수",
-            "content": "질병의 병리기전\n\n종양의 병리(2.1) (60분)\n도성임 교수",
-            "type": "class"
-          },
-          {
-            "subject": "신경과학",
-            "prof": "박성진 교수",
-            "content": "신경과학\n\nMotivation (120분)\n박성진 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "16:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "의학통계",
-            "prof": "신명희 교수",
-            "content": "의학통계\n\n(실습)질의응답/ 과제10 풀이 PS: Power and Sample Size 실습 (120분)\n신명희 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "신경과학",
-            "prof": "박성진 교수",
-            "content": "신경과학\n\nMotivation (120분)\n박성진 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ]
-      ]
-    },
-    {
-      "weekOffset": -7,
-      "date": "2026-05-30",
+      "date": "2026-05-24",
       "data": [
         [
           {
@@ -698,8 +350,8 @@
       ]
     },
     {
-      "weekOffset": -6,
-      "date": "2026-06-06",
+      "weekOffset": -7,
+      "date": "2026-05-31",
       "data": [
         [
           {
@@ -1046,8 +698,8 @@
       ]
     },
     {
-      "weekOffset": -5,
-      "date": "2026-06-13",
+      "weekOffset": -6,
+      "date": "2026-06-07",
       "data": [
         [
           {
@@ -1394,8 +1046,8 @@
       ]
     },
     {
-      "weekOffset": -4,
-      "date": "2026-06-20",
+      "weekOffset": -5,
+      "date": "2026-06-14",
       "data": [
         [
           {
@@ -1742,8 +1394,8 @@
       ]
     },
     {
-      "weekOffset": -3,
-      "date": "2026-06-27",
+      "weekOffset": -4,
+      "date": "2026-06-21",
       "data": [
         [
           {
@@ -2090,8 +1742,8 @@
       ]
     },
     {
-      "weekOffset": -2,
-      "date": "2026-07-04",
+      "weekOffset": -3,
+      "date": "2026-06-28",
       "data": [
         [
           {
@@ -2438,8 +2090,8 @@
       ]
     },
     {
-      "weekOffset": -1,
-      "date": "2026-07-11",
+      "weekOffset": -2,
+      "date": "2026-07-05",
       "data": [
         [
           {
@@ -2786,8 +2438,8 @@
       ]
     },
     {
-      "weekOffset": 0,
-      "date": "2026-07-18",
+      "weekOffset": -1,
+      "date": "2026-07-12",
       "data": [
         [
           {
@@ -3134,8 +2786,8 @@
       ]
     },
     {
-      "weekOffset": 1,
-      "date": "2026-07-25",
+      "weekOffset": 0,
+      "date": "2026-07-19",
       "data": [
         [
           {
@@ -3482,8 +3134,8 @@
       ]
     },
     {
-      "weekOffset": 2,
-      "date": "2026-08-01",
+      "weekOffset": 1,
+      "date": "2026-07-26",
       "data": [
         [
           {
@@ -3830,8 +3482,8 @@
       ]
     },
     {
-      "weekOffset": 3,
-      "date": "2026-08-08",
+      "weekOffset": 2,
+      "date": "2026-08-02",
       "data": [
         [
           {
@@ -4178,8 +3830,8 @@
       ]
     },
     {
-      "weekOffset": 4,
-      "date": "2026-08-15",
+      "weekOffset": 3,
+      "date": "2026-08-09",
       "data": [
         [
           {
@@ -4526,8 +4178,8 @@
       ]
     },
     {
-      "weekOffset": 5,
-      "date": "2026-08-22",
+      "weekOffset": 4,
+      "date": "2026-08-16",
       "data": [
         [
           {
@@ -4874,8 +4526,8 @@
       ]
     },
     {
-      "weekOffset": 6,
-      "date": "2026-08-29",
+      "weekOffset": 5,
+      "date": "2026-08-23",
       "data": [
         [
           {
@@ -5222,8 +4874,8 @@
       ]
     },
     {
-      "weekOffset": 7,
-      "date": "2026-09-05",
+      "weekOffset": 6,
+      "date": "2026-08-30",
       "data": [
         [
           {
@@ -5570,8 +5222,8 @@
       ]
     },
     {
-      "weekOffset": 8,
-      "date": "2026-09-12",
+      "weekOffset": 7,
+      "date": "2026-09-06",
       "data": [
         [
           {
@@ -5894,6 +5546,354 @@
             "subject": "환자와의사1",
             "prof": "최윤호 교수",
             "content": "환자와의사1\n\n표준화 환자를 이용한 병력청취와 신체검사 (180분)\n최윤호 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": 8,
+      "date": "2026-09-13",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "9.14\n(월)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "9.15\n(화)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "9.16\n(수)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "9.17\n(목)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "9.18\n(금)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "환자와의사1",
+            "prof": "장혜련 교수",
+            "content": "환자와의사1\n\n병력청취: 소변량이 줄었어요, 소변을 많이 봐요, 소변을 자주 봐요, 소변이 빨개요, 소변볼 때 아파요 (180분)\n장혜련 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "환자와의사1",
+            "prof": "장혜련 교수",
+            "content": "환자와의사1\n\n병력청취: 소변량이 줄었어요, 소변을 많이 봐요, 소변을 자주 봐요, 소변이 빨개요, 소변볼 때 아파요 (180분)\n장혜련 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "환자와의사1",
+            "prof": "장혜련 교수",
+            "content": "환자와의사1\n\n병력청취: 소변량이 줄었어요, 소변을 많이 봐요, 소변을 자주 봐요, 소변이 빨개요, 소변볼 때 아파요 (180분)\n장혜련 교수",
             "type": "class"
           },
           {
