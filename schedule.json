@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-07-20T22:00:26.467Z",
+  "lastUpdated": "2026-07-21T22:05:03.692Z",
   "weeks": [
     {
       "weekOffset": -8,
-      "date": "2026-05-25",
+      "date": "2026-05-26",
       "data": [
         [
           {
@@ -351,7 +351,7 @@
     },
     {
       "weekOffset": -7,
-      "date": "2026-06-01",
+      "date": "2026-06-02",
       "data": [
         [
           {
@@ -699,7 +699,7 @@
     },
     {
       "weekOffset": -6,
-      "date": "2026-06-08",
+      "date": "2026-06-09",
       "data": [
         [
           {
@@ -1047,7 +1047,7 @@
     },
     {
       "weekOffset": -5,
-      "date": "2026-06-15",
+      "date": "2026-06-16",
       "data": [
         [
           {
@@ -1395,7 +1395,7 @@
     },
     {
       "weekOffset": -4,
-      "date": "2026-06-22",
+      "date": "2026-06-23",
       "data": [
         [
           {
@@ -1743,7 +1743,7 @@
     },
     {
       "weekOffset": -3,
-      "date": "2026-06-29",
+      "date": "2026-06-30",
       "data": [
         [
           {
@@ -2091,7 +2091,7 @@
     },
     {
       "weekOffset": -2,
-      "date": "2026-07-06",
+      "date": "2026-07-07",
       "data": [
         [
           {
@@ -2439,7 +2439,7 @@
     },
     {
       "weekOffset": -1,
-      "date": "2026-07-13",
+      "date": "2026-07-14",
       "data": [
         [
           {
@@ -2787,7 +2787,7 @@
     },
     {
       "weekOffset": 0,
-      "date": "2026-07-20",
+      "date": "2026-07-21",
       "data": [
         [
           {
@@ -3135,7 +3135,7 @@
     },
     {
       "weekOffset": 1,
-      "date": "2026-07-27",
+      "date": "2026-07-28",
       "data": [
         [
           {
@@ -3483,7 +3483,7 @@
     },
     {
       "weekOffset": 2,
-      "date": "2026-08-03",
+      "date": "2026-08-04",
       "data": [
         [
           {
@@ -3831,7 +3831,7 @@
     },
     {
       "weekOffset": 3,
-      "date": "2026-08-10",
+      "date": "2026-08-11",
       "data": [
         [
           {
@@ -4077,7 +4077,7 @@
           {
             "subject": "임상기초의학",
             "prof": "외부강사 교수",
-            "content": "임상기초의학\n\nQuiz(30분) (60분)\n외부강사 교수",
+            "content": "임상기초의학\n\nQuiz★~14:30★ (30분)\n외부강사 교수",
             "type": "class"
           },
           {
@@ -4179,7 +4179,7 @@
     },
     {
       "weekOffset": 4,
-      "date": "2026-08-17",
+      "date": "2026-08-18",
       "data": [
         [
           {
@@ -4527,7 +4527,7 @@
     },
     {
       "weekOffset": 5,
-      "date": "2026-08-24",
+      "date": "2026-08-25",
       "data": [
         [
           {
@@ -4875,7 +4875,7 @@
     },
     {
       "weekOffset": 6,
-      "date": "2026-08-31",
+      "date": "2026-09-01",
       "data": [
         [
           {
@@ -5223,7 +5223,7 @@
     },
     {
       "weekOffset": 7,
-      "date": "2026-09-07",
+      "date": "2026-09-08",
       "data": [
         [
           {
@@ -5273,7 +5273,7 @@
           {
             "subject": "CORE COURSE1",
             "prof": "외부강사 교수",
-            "content": "CORE COURSE1\n\nQuiz(~9:30) (30분)\n외부강사 교수",
+            "content": "CORE COURSE1\n\nQuiz(1,2)(~9:30) (30분)\n외부강사 교수",
             "type": "class"
           },
           {
@@ -5435,16 +5435,16 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial 2 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nCase Mapping (60분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5473,16 +5473,16 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial 2 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "이정은 교수",
+            "content": "CORE COURSE1\n\n콜로키아 (60분)\n이정은 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5511,10 +5511,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial 2 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5571,7 +5571,7 @@
     },
     {
       "weekOffset": 8,
-      "date": "2026-09-14",
+      "date": "2026-09-15",
       "data": [
         [
           {
@@ -5619,10 +5619,10 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial1 PBL Case 2 고혈압 (9:30~12:30) (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5637,10 +5637,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial3 PBL Case 2 고혈압 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5657,10 +5657,10 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial1 PBL Case 2 고혈압 (9:30~12:30) (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5675,10 +5675,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial3 PBL Case 2 고혈압 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5695,10 +5695,10 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial1 PBL Case 2 고혈압 (9:30~12:30) (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5713,16 +5713,16 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial3 PBL Case 2 고혈압 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "장성아 교수",
+            "content": "CORE COURSE1\n\n콜로키아 (60분)\n장성아 교수",
+            "type": "class"
           }
         ],
         [
@@ -5733,10 +5733,10 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial1 PBL Case 2 고혈압 (9:30~12:30) (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5783,16 +5783,16 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial 2 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nCase Mapping (60분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5821,10 +5821,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial 2 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -5859,10 +5859,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial 2 (180분)\n외부강사 교수",
+            "type": "class"
           },
           {
             "subject": "",
