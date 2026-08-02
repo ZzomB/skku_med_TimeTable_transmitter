@@ -1,357 +1,9 @@
 {
-  "lastUpdated": "2026-08-01T21:56:59.136Z",
+  "lastUpdated": "2026-08-02T21:56:56.797Z",
   "weeks": [
     {
       "weekOffset": -8,
-      "date": "2026-06-06",
-      "data": [
-        [
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "6.1\n(월)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "6.2\n(화)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "6.3\n(수)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "6.4\n(목)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "6.5\n(금)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          }
-        ],
-        [
-          {
-            "subject": "09:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "감염체의 이해",
-            "prof": "이성균 교수",
-            "content": "감염체의 이해\n\n기생충학 총론 및 원충 총론 (60분)\n이성균 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "약리의 이해",
-            "prof": "원태형 교수",
-            "content": "약리의 이해\n\n항암제 I (60분)\n원태형 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "10:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "감염체의 이해",
-            "prof": "정지욱 교수",
-            "content": "감염체의 이해\n\n(시험)2차 시험 - 바이러스학 (120분)\n정지욱 교수",
-            "type": "class"
-          },
-          {
-            "subject": "감염체의 이해",
-            "prof": "이성균 교수",
-            "content": "감염체의 이해\n\n원충, 편모충, 포자충 (60분)\n이성균 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "약리의 이해",
-            "prof": "원태형 교수",
-            "content": "약리의 이해\n\n항암제 II (60분)\n원태형 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "11:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "감염체의 이해",
-            "prof": "정지욱 교수",
-            "content": "감염체의 이해\n\n(시험)2차 시험 - 바이러스학 (120분)\n정지욱 교수",
-            "type": "class"
-          },
-          {
-            "subject": "감염체의 이해",
-            "prof": "이성균 교수",
-            "content": "감염체의 이해\n\n말라리아 (60분)\n이성균 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "약리의 이해",
-            "prof": "원태형 교수",
-            "content": "약리의 이해\n\n항암제 III (60분)\n원태형 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "12:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "13:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "의학통계",
-            "prof": "신명희 교수",
-            "content": "의학통계\n\n다중회귀분석 (부분회귀계수, 표준회귀계수) (60분)\n신명희 교수",
-            "type": "class"
-          },
-          {
-            "subject": "약리의 이해",
-            "prof": "신주호 교수",
-            "content": "약리의 이해\n\n항진균제 (60분)\n신주호 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "감염체의 이해",
-            "prof": "이성균 교수",
-            "content": "감염체의 이해\n\n연충학 총론, 선충류 소개 및 장내 기생 선충류 (60분)\n이성균 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "14:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "의학통계",
-            "prof": "신명희 교수",
-            "content": "의학통계\n\n다중회귀분석 (모형적합도) (60분)\n신명희 교수",
-            "type": "class"
-          },
-          {
-            "subject": "약리의 이해",
-            "prof": "이연종 교수",
-            "content": "약리의 이해\n\n소화기계 약물 (60분)\n이연종 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "감염체의 이해",
-            "prof": "이성균 교수",
-            "content": "감염체의 이해\n\n장내, 조직 기생 선충 및 기타 접촉 감염성 선충 (60분)\n이성균 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "15:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "의학통계",
-            "prof": "신명희 교수",
-            "content": "의학통계\n\n(실습)질의응답/ 과제12 풀이 / SAS실습: partial coefficients, standardized coefficients, (120분)\n신명희 교수",
-            "type": "class"
-          },
-          {
-            "subject": "신경과학",
-            "prof": "강동묵 교수",
-            "content": "신경과학\n\nLanguage (120분)\n강동묵 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "신경과학",
-            "prof": "박성진 교수",
-            "content": "신경과학\n\nWiring the brain (120분)\n박성진 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "16:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "의학통계",
-            "prof": "신명희 교수",
-            "content": "의학통계\n\n(실습)질의응답/ 과제12 풀이 / SAS실습: partial coefficients, standardized coefficients, (120분)\n신명희 교수",
-            "type": "class"
-          },
-          {
-            "subject": "신경과학",
-            "prof": "강동묵 교수",
-            "content": "신경과학\n\nLanguage (120분)\n강동묵 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "신경과학",
-            "prof": "박성진 교수",
-            "content": "신경과학\n\nWiring the brain (120분)\n박성진 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ]
-      ]
-    },
-    {
-      "weekOffset": -7,
-      "date": "2026-06-13",
+      "date": "2026-06-07",
       "data": [
         [
           {
@@ -698,8 +350,8 @@
       ]
     },
     {
-      "weekOffset": -6,
-      "date": "2026-06-20",
+      "weekOffset": -7,
+      "date": "2026-06-14",
       "data": [
         [
           {
@@ -1046,8 +698,8 @@
       ]
     },
     {
-      "weekOffset": -5,
-      "date": "2026-06-27",
+      "weekOffset": -6,
+      "date": "2026-06-21",
       "data": [
         [
           {
@@ -1394,8 +1046,8 @@
       ]
     },
     {
-      "weekOffset": -4,
-      "date": "2026-07-04",
+      "weekOffset": -5,
+      "date": "2026-06-28",
       "data": [
         [
           {
@@ -1742,8 +1394,8 @@
       ]
     },
     {
-      "weekOffset": -3,
-      "date": "2026-07-11",
+      "weekOffset": -4,
+      "date": "2026-07-05",
       "data": [
         [
           {
@@ -2090,8 +1742,8 @@
       ]
     },
     {
-      "weekOffset": -2,
-      "date": "2026-07-18",
+      "weekOffset": -3,
+      "date": "2026-07-12",
       "data": [
         [
           {
@@ -2438,8 +2090,8 @@
       ]
     },
     {
-      "weekOffset": -1,
-      "date": "2026-07-25",
+      "weekOffset": -2,
+      "date": "2026-07-19",
       "data": [
         [
           {
@@ -2786,8 +2438,8 @@
       ]
     },
     {
-      "weekOffset": 0,
-      "date": "2026-08-01",
+      "weekOffset": -1,
+      "date": "2026-07-26",
       "data": [
         [
           {
@@ -3134,8 +2786,8 @@
       ]
     },
     {
-      "weekOffset": 1,
-      "date": "2026-08-08",
+      "weekOffset": 0,
+      "date": "2026-08-02",
       "data": [
         [
           {
@@ -3482,8 +3134,8 @@
       ]
     },
     {
-      "weekOffset": 2,
-      "date": "2026-08-15",
+      "weekOffset": 1,
+      "date": "2026-08-09",
       "data": [
         [
           {
@@ -3830,8 +3482,8 @@
       ]
     },
     {
-      "weekOffset": 3,
-      "date": "2026-08-22",
+      "weekOffset": 2,
+      "date": "2026-08-16",
       "data": [
         [
           {
@@ -4178,8 +3830,8 @@
       ]
     },
     {
-      "weekOffset": 4,
-      "date": "2026-08-29",
+      "weekOffset": 3,
+      "date": "2026-08-23",
       "data": [
         [
           {
@@ -4526,8 +4178,8 @@
       ]
     },
     {
-      "weekOffset": 5,
-      "date": "2026-09-05",
+      "weekOffset": 4,
+      "date": "2026-08-30",
       "data": [
         [
           {
@@ -4874,8 +4526,8 @@
       ]
     },
     {
-      "weekOffset": 6,
-      "date": "2026-09-12",
+      "weekOffset": 5,
+      "date": "2026-09-06",
       "data": [
         [
           {
@@ -5222,8 +4874,8 @@
       ]
     },
     {
-      "weekOffset": 7,
-      "date": "2026-09-19",
+      "weekOffset": 6,
+      "date": "2026-09-13",
       "data": [
         [
           {
@@ -5570,8 +5222,8 @@
       ]
     },
     {
-      "weekOffset": 8,
-      "date": "2026-09-26",
+      "weekOffset": 7,
+      "date": "2026-09-20",
       "data": [
         [
           {
@@ -5895,6 +5547,354 @@
             "prof": "",
             "content": "",
             "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": 8,
+      "date": "2026-09-27",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "9.28\n(월)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "9.29\n(화)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "9.30\n(수)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "10.1\n(목)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "10.2\n(금)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nQuiz(3,4)(~9:30) (30분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial3 PBL Case3 배뇨통 (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial1 PBL Case 3 배뇨통 (9:30~12:30) (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial3 PBL Case3 배뇨통 (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial1 PBL Case 3 배뇨통 (9:30~12:30) (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial3 PBL Case3 배뇨통 (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "송완 교수",
+            "content": "CORE COURSE1\n\n콜로키아 (60분)\n송완 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial1 PBL Case 3 배뇨통 (9:30~12:30) (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial2 (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nCase Mapping (60분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "환자와의사1",
+            "prof": "장혜련 교수",
+            "content": "환자와의사1\n\n병력청취: 소변량이 줄었어요, 소변을 많이 봐요, 소변을 자주 봐요, 소변이 빨개요, 소변볼 때 아파요 Feedback (180분)\n장혜련 교수",
+            "type": "class"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial2 (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "환자와의사1",
+            "prof": "장혜련 교수",
+            "content": "환자와의사1\n\n병력청취: 소변량이 줄었어요, 소변을 많이 봐요, 소변을 자주 봐요, 소변이 빨개요, 소변볼 때 아파요 Feedback (180분)\n장혜련 교수",
+            "type": "class"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial2 (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "환자와의사1",
+            "prof": "장혜련 교수",
+            "content": "환자와의사1\n\n병력청취: 소변량이 줄었어요, 소변을 많이 봐요, 소변을 자주 봐요, 소변이 빨개요, 소변볼 때 아파요 Feedback (180분)\n장혜련 교수",
+            "type": "class"
           },
           {
             "subject": "",
