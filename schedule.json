@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-07T21:39:06.030Z",
+  "lastUpdated": "2026-08-08T21:30:21.410Z",
   "weeks": [
     {
       "weekOffset": -8,
-      "date": "2026-06-12",
+      "date": "2026-06-13",
       "data": [
         [
           {
@@ -351,7 +351,7 @@
     },
     {
       "weekOffset": -7,
-      "date": "2026-06-19",
+      "date": "2026-06-20",
       "data": [
         [
           {
@@ -699,7 +699,7 @@
     },
     {
       "weekOffset": -6,
-      "date": "2026-06-26",
+      "date": "2026-06-27",
       "data": [
         [
           {
@@ -1047,7 +1047,7 @@
     },
     {
       "weekOffset": -5,
-      "date": "2026-07-03",
+      "date": "2026-07-04",
       "data": [
         [
           {
@@ -1395,7 +1395,7 @@
     },
     {
       "weekOffset": -4,
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "data": [
         [
           {
@@ -1743,7 +1743,7 @@
     },
     {
       "weekOffset": -3,
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "data": [
         [
           {
@@ -2091,7 +2091,7 @@
     },
     {
       "weekOffset": -2,
-      "date": "2026-07-24",
+      "date": "2026-07-25",
       "data": [
         [
           {
@@ -2439,7 +2439,7 @@
     },
     {
       "weekOffset": -1,
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "data": [
         [
           {
@@ -2787,7 +2787,7 @@
     },
     {
       "weekOffset": 0,
-      "date": "2026-08-07",
+      "date": "2026-08-08",
       "data": [
         [
           {
@@ -3135,7 +3135,7 @@
     },
     {
       "weekOffset": 1,
-      "date": "2026-08-14",
+      "date": "2026-08-15",
       "data": [
         [
           {
@@ -3483,7 +3483,7 @@
     },
     {
       "weekOffset": 2,
-      "date": "2026-08-21",
+      "date": "2026-08-22",
       "data": [
         [
           {
@@ -3831,7 +3831,7 @@
     },
     {
       "weekOffset": 3,
-      "date": "2026-08-28",
+      "date": "2026-08-29",
       "data": [
         [
           {
@@ -4179,7 +4179,7 @@
     },
     {
       "weekOffset": 4,
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "data": [
         [
           {
@@ -4435,10 +4435,10 @@
             "type": "empty"
           },
           {
-            "subject": "CORE COURSE1",
-            "prof": "이정은 교수",
-            "content": "CORE COURSE1\n\n사구체 질환 발병기전 (60분)\n이정은 교수",
-            "type": "class"
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
           },
           {
             "subject": "CORE COURSE1",
@@ -4473,10 +4473,10 @@
             "type": "empty"
           },
           {
-            "subject": "CORE COURSE1",
-            "prof": "이정은 교수",
-            "content": "CORE COURSE1\n\n일차성 사구체 질환 (60분)\n이정은 교수",
-            "type": "class"
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
           },
           {
             "subject": "",
@@ -4527,7 +4527,7 @@
     },
     {
       "weekOffset": 5,
-      "date": "2026-09-11",
+      "date": "2026-09-12",
       "data": [
         [
           {
@@ -4821,10 +4821,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "이정은 교수",
+            "content": "CORE COURSE1\n\n사구체 질환 발병기전 (60분)\n이정은 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4859,10 +4859,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "이정은 교수",
+            "content": "CORE COURSE1\n\n일차성 사구체 질환 (60분)\n이정은 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4875,7 +4875,7 @@
     },
     {
       "weekOffset": 6,
-      "date": "2026-09-18",
+      "date": "2026-09-19",
       "data": [
         [
           {
@@ -5223,7 +5223,7 @@
     },
     {
       "weekOffset": 7,
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "data": [
         [
           {
@@ -5571,7 +5571,7 @@
     },
     {
       "weekOffset": 8,
-      "date": "2026-10-02",
+      "date": "2026-10-03",
       "data": [
         [
           {
