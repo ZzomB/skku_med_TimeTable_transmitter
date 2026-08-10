@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-09T21:32:38.882Z",
+  "lastUpdated": "2026-08-10T21:41:31.135Z",
   "weeks": [
     {
       "weekOffset": -8,
-      "date": "2026-06-14",
+      "date": "2026-06-15",
       "data": [
         [
           {
@@ -351,7 +351,7 @@
     },
     {
       "weekOffset": -7,
-      "date": "2026-06-21",
+      "date": "2026-06-22",
       "data": [
         [
           {
@@ -699,7 +699,7 @@
     },
     {
       "weekOffset": -6,
-      "date": "2026-06-28",
+      "date": "2026-06-29",
       "data": [
         [
           {
@@ -1047,7 +1047,7 @@
     },
     {
       "weekOffset": -5,
-      "date": "2026-07-05",
+      "date": "2026-07-06",
       "data": [
         [
           {
@@ -1395,7 +1395,7 @@
     },
     {
       "weekOffset": -4,
-      "date": "2026-07-12",
+      "date": "2026-07-13",
       "data": [
         [
           {
@@ -1743,7 +1743,7 @@
     },
     {
       "weekOffset": -3,
-      "date": "2026-07-19",
+      "date": "2026-07-20",
       "data": [
         [
           {
@@ -2091,7 +2091,7 @@
     },
     {
       "weekOffset": -2,
-      "date": "2026-07-26",
+      "date": "2026-07-27",
       "data": [
         [
           {
@@ -2439,7 +2439,7 @@
     },
     {
       "weekOffset": -1,
-      "date": "2026-08-02",
+      "date": "2026-08-03",
       "data": [
         [
           {
@@ -2787,7 +2787,7 @@
     },
     {
       "weekOffset": 0,
-      "date": "2026-08-09",
+      "date": "2026-08-10",
       "data": [
         [
           {
@@ -2989,7 +2989,7 @@
           {
             "subject": "임상기초의학",
             "prof": "외부강사 교수",
-            "content": "임상기초의학\n\nTCI 검사_의학교육실(13:30~) (60분)\n외부강사 교수",
+            "content": "임상기초의학\n\nTCI 검사_의학교육실 (60분)\n외부강사 교수",
             "type": "class"
           },
           {
@@ -3025,10 +3025,10 @@
             "type": "time"
           },
           {
-            "subject": "임상기초의학",
-            "prof": "외부강사 교수",
-            "content": "임상기초의학\n\nTCI 검사_의학교육실(13:30~) (60분)\n외부강사 교수",
-            "type": "class"
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
           },
           {
             "subject": "임상기초의학",
@@ -3135,7 +3135,7 @@
     },
     {
       "weekOffset": 1,
-      "date": "2026-08-16",
+      "date": "2026-08-17",
       "data": [
         [
           {
@@ -3483,7 +3483,7 @@
     },
     {
       "weekOffset": 2,
-      "date": "2026-08-23",
+      "date": "2026-08-24",
       "data": [
         [
           {
@@ -3831,7 +3831,7 @@
     },
     {
       "weekOffset": 3,
-      "date": "2026-08-30",
+      "date": "2026-08-31",
       "data": [
         [
           {
@@ -4179,7 +4179,7 @@
     },
     {
       "weekOffset": 4,
-      "date": "2026-09-06",
+      "date": "2026-09-07",
       "data": [
         [
           {
@@ -4234,8 +4234,8 @@
           },
           {
             "subject": "CORE COURSE1",
-            "prof": "이현종 교수",
-            "content": "CORE COURSE1\n\n신질환에서 핵의학적 검사의 이용 (60분)\n이현종 교수",
+            "prof": "박병관 교수",
+            "content": "CORE COURSE1\n\n실습: 신질환의 방사선학적 진단 (60분)\n박병관 교수",
             "type": "class"
           },
           {
@@ -4271,10 +4271,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "박병관 교수",
+            "content": "CORE COURSE1\n\n남성 및 여성생식기 영상의학 (120분)\n박병관 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4289,10 +4289,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "권기영 교수",
+            "content": "CORE COURSE1\n\n실습: 신장 질환의 병리실습 (60분)\n권기영 교수",
+            "type": "class"
           }
         ],
         [
@@ -4309,16 +4309,16 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "박병관 교수",
+            "content": "CORE COURSE1\n\n남성 및 여성생식기 영상의학 (120분)\n박병관 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "한덕현 교수",
+            "content": "CORE COURSE1\n\n요석과 폐쇄 요로병증 (60분)\n한덕현 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
@@ -4327,10 +4327,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "권현철 교수",
+            "content": "CORE COURSE1\n\n관상동맥질환 개론 (60분)\n권현철 교수",
+            "type": "class"
           }
         ],
         [
@@ -4385,10 +4385,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "이현종 교수",
+            "content": "CORE COURSE1\n\n신질환에서 핵의학적 검사의 이용 (60분)\n이현종 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
@@ -4403,10 +4403,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "한주용 교수",
+            "content": "CORE COURSE1\n\n심근경색 (60분)\n한주용 교수",
+            "type": "class"
           }
         ],
         [
@@ -4441,10 +4441,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "온영근 교수",
+            "content": "CORE COURSE1\n\n심전도판독 (180분)\n온영근 교수",
+            "type": "class"
           }
         ],
         [
@@ -4479,10 +4479,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "온영근 교수",
+            "content": "CORE COURSE1\n\n심전도판독 (180분)\n온영근 교수",
+            "type": "class"
           }
         ],
         [
@@ -4505,10 +4505,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "이규백 교수",
+            "content": "CORE COURSE1\n\n낭성신질환 (60분)\n이규백 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
@@ -4517,17 +4517,17 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "온영근 교수",
+            "content": "CORE COURSE1\n\n심전도판독 (180분)\n온영근 교수",
+            "type": "class"
           }
         ]
       ]
     },
     {
       "weekOffset": 5,
-      "date": "2026-09-13",
+      "date": "2026-09-14",
       "data": [
         [
           {
@@ -4727,10 +4727,10 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "성현환 교수",
+            "content": "CORE COURSE1\n\n비뇨생식기 손상 (60분)\n성현환 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -4751,10 +4751,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "권기영 교수",
+            "content": "CORE COURSE1\n\n남성생식기의 병리 (60분)\n권기영 교수",
+            "type": "class"
           }
         ],
         [
@@ -4783,16 +4783,16 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "성지동 교수",
+            "content": "CORE COURSE1\n\n본태성고혈압의 치료 (60분)\n성지동 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "권기영 교수",
+            "content": "CORE COURSE1\n\n비뇨기계 병리 (60분)\n권기영 교수",
+            "type": "class"
           }
         ],
         [
@@ -4821,16 +4821,16 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "박혜윤 교수",
+            "content": "CORE COURSE1\n\n만성폐쇄성폐질환의 급성악화 (60분)\n박혜윤 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "이상철 교수",
+            "content": "CORE COURSE1\n\n심질환의 심초음파 검사 (120분)\n이상철 교수",
+            "type": "class"
           }
         ],
         [
@@ -4853,29 +4853,29 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "임성용 교수",
+            "content": "CORE COURSE1\n\n만성폐쇄성폐질환의 치료 (60분)\n임성용 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "박혜윤 교수",
+            "content": "CORE COURSE1\n\n폐색전증의 병태생리 (60분)\n박혜윤 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "이상철 교수",
+            "content": "CORE COURSE1\n\n심질환의 심초음파 검사 (120분)\n이상철 교수",
+            "type": "class"
           }
         ]
       ]
     },
     {
       "weekOffset": 6,
-      "date": "2026-09-20",
+      "date": "2026-09-21",
       "data": [
         [
           {
@@ -5223,7 +5223,7 @@
     },
     {
       "weekOffset": 7,
-      "date": "2026-09-27",
+      "date": "2026-09-28",
       "data": [
         [
           {
@@ -5283,10 +5283,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "강민용 교수",
+            "content": "CORE COURSE1\n\n비뇨기 종양 (60분)\n강민용 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
@@ -5295,10 +5295,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "최진오 교수",
+            "content": "CORE COURSE1\n\n심부전의 병태생리 (60분)\n최진오 교수",
+            "type": "class"
           }
         ],
         [
@@ -5321,10 +5321,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "박성지 교수",
+            "content": "CORE COURSE1\n\n판막질환 (120분)\n박성지 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
@@ -5333,10 +5333,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "최진오 교수",
+            "content": "CORE COURSE1\n\n심부전의 병태생리 (60분)\n최진오 교수",
+            "type": "class"
           }
         ],
         [
@@ -5359,10 +5359,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "박성지 교수",
+            "content": "CORE COURSE1\n\n판막질환 (120분)\n박성지 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
@@ -5447,10 +5447,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "정병호 교수",
+            "content": "CORE COURSE1\n\nMini case: 기침 (~14:30) (90분)\n정병호 교수",
+            "type": "class"
           }
         ],
         [
@@ -5479,16 +5479,16 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "이규성 교수",
+            "content": "CORE COURSE1\n\n배뇨장애/여성비뇨의학 (60분)\n이규성 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "정병호 교수",
+            "content": "CORE COURSE1\n\nMini case: 기침 (~14:30) (90분)\n정병호 교수",
+            "type": "class"
           }
         ],
         [
@@ -5571,7 +5571,7 @@
     },
     {
       "weekOffset": 8,
-      "date": "2026-10-04",
+      "date": "2026-10-05",
       "data": [
         [
           {
@@ -5897,10 +5897,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "김태정 교수",
+            "content": "CORE COURSE1\n\n영상의학 - 간질성폐질환, 폐혈관질환, ICU radiology (~17:30) (90분)\n김태정 교수",
+            "type": "class"
           },
           {
             "subject": "",
