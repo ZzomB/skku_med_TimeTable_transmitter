@@ -180,14 +180,12 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
                 }
               }
             }
-            // 9시부터 17시까지만 자르기 로직 포함
+            // 9시부터 마지막 시간대까지 추출
             var startIndex = 0;
-            var cutIndex = grid.length;
             for (var i = 0; i < grid.length; i++) {
               if (grid[i][0].subject.includes("09:00")) startIndex = i;
-              if (grid[i][0].subject.includes("17:00")) cutIndex = i;
             }
-            var finalGrid = [grid[0]].concat(grid.slice(startIndex, cutIndex));
+            var finalGrid = [grid[0]].concat(grid.slice(startIndex));
             return { data: finalGrid };
           });
 
