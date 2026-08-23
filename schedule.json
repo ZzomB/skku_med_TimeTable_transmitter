@@ -1,509 +1,9 @@
 {
-  "lastUpdated": "2026-08-22T21:22:00.059Z",
+  "lastUpdated": "2026-08-23T21:21:28.563Z",
   "weeks": [
     {
       "weekOffset": -8,
-      "date": "2026-06-27",
-      "data": [
-        [
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "6.22\n(월)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "6.23\n(화)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "6.24\n(수)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "6.25\n(목)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "6.26\n(금)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          }
-        ],
-        [
-          {
-            "subject": "09:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "10:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "기초시기역량평가",
-            "prof": "김현진 교수",
-            "content": "기초시기역량평가\n\n(시험)기초시기 역량평가 2차 시험 (120분)\n김현진 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "11:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "기초시기역량평가",
-            "prof": "김현진 교수",
-            "content": "기초시기역량평가\n\n(시험)기초시기 역량평가 2차 시험 (120분)\n김현진 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "12:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "13:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "14:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "15:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "16:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "17:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "18:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "19:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "20:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ]
-      ]
-    },
-    {
-      "weekOffset": -7,
-      "date": "2026-07-04",
+      "date": "2026-06-28",
       "data": [
         [
           {
@@ -1002,8 +502,8 @@
       ]
     },
     {
-      "weekOffset": -6,
-      "date": "2026-07-11",
+      "weekOffset": -7,
+      "date": "2026-07-05",
       "data": [
         [
           {
@@ -1502,8 +1002,8 @@
       ]
     },
     {
-      "weekOffset": -5,
-      "date": "2026-07-18",
+      "weekOffset": -6,
+      "date": "2026-07-12",
       "data": [
         [
           {
@@ -2002,8 +1502,8 @@
       ]
     },
     {
-      "weekOffset": -4,
-      "date": "2026-07-25",
+      "weekOffset": -5,
+      "date": "2026-07-19",
       "data": [
         [
           {
@@ -2502,8 +2002,8 @@
       ]
     },
     {
-      "weekOffset": -3,
-      "date": "2026-08-01",
+      "weekOffset": -4,
+      "date": "2026-07-26",
       "data": [
         [
           {
@@ -3002,8 +2502,8 @@
       ]
     },
     {
-      "weekOffset": -2,
-      "date": "2026-08-08",
+      "weekOffset": -3,
+      "date": "2026-08-02",
       "data": [
         [
           {
@@ -3502,8 +3002,8 @@
       ]
     },
     {
-      "weekOffset": -1,
-      "date": "2026-08-15",
+      "weekOffset": -2,
+      "date": "2026-08-09",
       "data": [
         [
           {
@@ -4002,8 +3502,8 @@
       ]
     },
     {
-      "weekOffset": 0,
-      "date": "2026-08-22",
+      "weekOffset": -1,
+      "date": "2026-08-16",
       "data": [
         [
           {
@@ -4502,8 +4002,8 @@
       ]
     },
     {
-      "weekOffset": 1,
-      "date": "2026-08-29",
+      "weekOffset": 0,
+      "date": "2026-08-23",
       "data": [
         [
           {
@@ -5002,8 +4502,8 @@
       ]
     },
     {
-      "weekOffset": 2,
-      "date": "2026-09-05",
+      "weekOffset": 1,
+      "date": "2026-08-30",
       "data": [
         [
           {
@@ -5502,8 +5002,8 @@
       ]
     },
     {
-      "weekOffset": 3,
-      "date": "2026-09-12",
+      "weekOffset": 2,
+      "date": "2026-09-06",
       "data": [
         [
           {
@@ -6002,8 +5502,8 @@
       ]
     },
     {
-      "weekOffset": 4,
-      "date": "2026-09-19",
+      "weekOffset": 3,
+      "date": "2026-09-13",
       "data": [
         [
           {
@@ -6502,8 +6002,8 @@
       ]
     },
     {
-      "weekOffset": 5,
-      "date": "2026-09-26",
+      "weekOffset": 4,
+      "date": "2026-09-20",
       "data": [
         [
           {
@@ -7002,8 +6502,8 @@
       ]
     },
     {
-      "weekOffset": 6,
-      "date": "2026-10-03",
+      "weekOffset": 5,
+      "date": "2026-09-27",
       "data": [
         [
           {
@@ -7502,8 +7002,8 @@
       ]
     },
     {
-      "weekOffset": 7,
-      "date": "2026-10-10",
+      "weekOffset": 6,
+      "date": "2026-10-04",
       "data": [
         [
           {
@@ -8002,8 +7502,8 @@
       ]
     },
     {
-      "weekOffset": 8,
-      "date": "2026-10-17",
+      "weekOffset": 7,
+      "date": "2026-10-11",
       "data": [
         [
           {
@@ -8383,6 +7883,506 @@
             "prof": "외부강사 교수",
             "content": "CORE COURSE1\n\nCC1 종합시험 (시간 미정) (540분)\n외부강사 교수",
             "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "18:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "19:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "20:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": 8,
+      "date": "2026-10-18",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "10.19\n(월)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "10.20\n(화)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "10.21\n(수)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "10.22\n(목)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "10.23\n(금)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nQuiz(5,6)(~9:30) (30분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "이현종 교수",
+            "content": "CORE COURSE1\n\n심질환에 이용되는 핵의학 영상검사 (60분)\n이현종 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial3 PBL Case 5 가슴통증 (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial1 PBL Case 5 가슴통증 (9:30~12:30) (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial3 PBL Case 5 가슴통증 (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "최기홍 교수",
+            "content": "CORE COURSE1\n\n허혈성 심질환의 약물치료 (60분)\n최기홍 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial1 PBL Case 5 가슴통증 (9:30~12:30) (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial3 PBL Case 5 가슴통증 (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "최기홍 교수",
+            "content": "CORE COURSE1\n\n콜로키아 (60분)\n최기홍 교수",
+            "type": "class"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial1 PBL Case 5 가슴통증 (9:30~12:30) (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "이정희 교수",
+            "content": "CORE COURSE1\n\n늑막질환(기흉,농흉,혈흉)의 치료 (60분)\n이정희 교수",
+            "type": "class"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "최승혁 교수",
+            "content": "CORE COURSE1\n\nAorta and peripheral arterial disease (60분)\n최승혁 교수",
+            "type": "class"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial2 (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nCase Mapping (60분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "김병진 교수",
+            "content": "CORE COURSE1\n\n허혈성 심질환의 위험도 예측 및 예방 (60분)\n김병진 교수",
+            "type": "class"
+          },
+          {
+            "subject": "환자와의사1",
+            "prof": "박택규 교수",
+            "content": "환자와의사1\n\n순환기질환 환자의 신체 진찰: 심장 및 말초혈관 진찰 병력청취: 가슴이 아파요, 가슴이 두근거려요, 혈압이 높아요 (180분)\n박택규 교수",
+            "type": "class"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial2 (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "송영빈 교수",
+            "content": "CORE COURSE1\n\n이상지질혈증 (60분)\n송영빈 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "사회와의사:역학",
+            "prof": "문성지 교수",
+            "content": "사회와의사:역학\n\n역학 논문 비평 (180분)\n문성지 교수",
+            "type": "class"
+          },
+          {
+            "subject": "환자와의사1",
+            "prof": "박택규 교수",
+            "content": "환자와의사1\n\n순환기질환 환자의 신체 진찰: 심장 및 말초혈관 진찰 병력청취: 가슴이 아파요, 가슴이 두근거려요, 혈압이 높아요 (180분)\n박택규 교수",
+            "type": "class"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "외부강사 교수",
+            "content": "CORE COURSE1\n\nTutorial2 (180분)\n외부강사 교수",
+            "type": "class"
+          },
+          {
+            "subject": "CORE COURSE1",
+            "prof": "김은경 교수",
+            "content": "CORE COURSE1\n\n심낭질환 (60분)\n김은경 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "사회와의사:역학",
+            "prof": "문성지 교수",
+            "content": "사회와의사:역학\n\n역학 논문 비평 (180분)\n문성지 교수",
+            "type": "class"
+          },
+          {
+            "subject": "환자와의사1",
+            "prof": "박택규 교수",
+            "content": "환자와의사1\n\n순환기질환 환자의 신체 진찰: 심장 및 말초혈관 진찰 병력청취: 가슴이 아파요, 가슴이 두근거려요, 혈압이 높아요 (180분)\n박택규 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "17:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "사회와의사:역학",
+            "prof": "문성지 교수",
+            "content": "사회와의사:역학\n\n역학 논문 비평 (180분)\n문성지 교수",
+            "type": "class"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
           }
         ],
         [
