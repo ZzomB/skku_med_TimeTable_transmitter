@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-08-30T23:15:08.221Z",
+  "lastUpdated": "2026-09-01T00:25:24.873Z",
   "weeks": [
     {
       "weekOffset": -8,
-      "date": "2026-07-05",
+      "date": "2026-07-07",
       "data": [
         [
           {
@@ -503,7 +503,7 @@
     },
     {
       "weekOffset": -7,
-      "date": "2026-07-12",
+      "date": "2026-07-14",
       "data": [
         [
           {
@@ -1003,7 +1003,7 @@
     },
     {
       "weekOffset": -6,
-      "date": "2026-07-19",
+      "date": "2026-07-21",
       "data": [
         [
           {
@@ -1503,7 +1503,7 @@
     },
     {
       "weekOffset": -5,
-      "date": "2026-07-26",
+      "date": "2026-07-28",
       "data": [
         [
           {
@@ -2003,7 +2003,7 @@
     },
     {
       "weekOffset": -4,
-      "date": "2026-08-02",
+      "date": "2026-08-04",
       "data": [
         [
           {
@@ -2503,7 +2503,7 @@
     },
     {
       "weekOffset": -3,
-      "date": "2026-08-09",
+      "date": "2026-08-11",
       "data": [
         [
           {
@@ -3003,7 +3003,7 @@
     },
     {
       "weekOffset": -2,
-      "date": "2026-08-16",
+      "date": "2026-08-18",
       "data": [
         [
           {
@@ -3503,7 +3503,7 @@
     },
     {
       "weekOffset": -1,
-      "date": "2026-08-23",
+      "date": "2026-08-25",
       "data": [
         [
           {
@@ -4003,7 +4003,7 @@
     },
     {
       "weekOffset": 0,
-      "date": "2026-08-30",
+      "date": "2026-09-01",
       "data": [
         [
           {
@@ -4503,7 +4503,7 @@
     },
     {
       "weekOffset": 1,
-      "date": "2026-09-06",
+      "date": "2026-09-08",
       "data": [
         [
           {
@@ -5003,7 +5003,7 @@
     },
     {
       "weekOffset": 2,
-      "date": "2026-09-13",
+      "date": "2026-09-15",
       "data": [
         [
           {
@@ -5503,7 +5503,7 @@
     },
     {
       "weekOffset": 3,
-      "date": "2026-09-20",
+      "date": "2026-09-22",
       "data": [
         [
           {
@@ -6003,7 +6003,7 @@
     },
     {
       "weekOffset": 4,
-      "date": "2026-09-27",
+      "date": "2026-09-29",
       "data": [
         [
           {
@@ -6503,7 +6503,7 @@
     },
     {
       "weekOffset": 5,
-      "date": "2026-10-04",
+      "date": "2026-10-06",
       "data": [
         [
           {
@@ -7003,7 +7003,7 @@
     },
     {
       "weekOffset": 6,
-      "date": "2026-10-11",
+      "date": "2026-10-13",
       "data": [
         [
           {
@@ -7095,10 +7095,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "의료윤리1",
+            "prof": "김형진 교수",
+            "content": "의료윤리1\n\n수업소개 (120분)\n김형진 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
@@ -7133,10 +7133,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "의료윤리1",
+            "prof": "김형진 교수",
+            "content": "의료윤리1\n\n수업소개 (120분)\n김형진 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
@@ -7503,7 +7503,7 @@
     },
     {
       "weekOffset": 7,
-      "date": "2026-10-18",
+      "date": "2026-10-20",
       "data": [
         [
           {
@@ -7595,10 +7595,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "의료윤리1",
+            "prof": "김형진 교수",
+            "content": "의료윤리1\n\n윤리 이론의 기본 (120분)\n김형진 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -7633,10 +7633,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "의료윤리1",
+            "prof": "김형진 교수",
+            "content": "의료윤리1\n\n윤리 이론의 기본 (120분)\n김형진 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -8003,7 +8003,7 @@
     },
     {
       "weekOffset": 8,
-      "date": "2026-10-25",
+      "date": "2026-10-27",
       "data": [
         [
           {
@@ -8095,10 +8095,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "의료윤리1",
+            "prof": "김형진 교수",
+            "content": "의료윤리1\n\n의료윤리의 원칙과 의사의 책무 (120분)\n김형진 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
@@ -8133,10 +8133,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "의료윤리1",
+            "prof": "김형진 교수",
+            "content": "의료윤리1\n\n의료윤리의 원칙과 의사의 책무 (120분)\n김형진 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
