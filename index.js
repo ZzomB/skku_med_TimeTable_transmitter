@@ -98,10 +98,10 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
       }
     }
 
-    console.log('5단계: 17주간 데이터 추출 시작...');
+    console.log('5단계: 25주간 (-8주 ~ +16주) 데이터 추출 시작...');
     let allWeeksData = [];
 
-    for (let i = -8; i <= 8; i++) {
+    for (let i = -8; i <= 16; i++) {
       const targetDate = new Date(today);
       targetDate.setDate(today.getDate() + (i * 7));
       const dateString = `${targetDate.getFullYear()}-${String(targetDate.getMonth() + 1).padStart(2, '0')}-${String(targetDate.getDate()).padStart(2, '0')}`;
