@@ -1,9 +1,9 @@
 {
-  "lastUpdated": "2026-09-29T00:51:46.333Z",
+  "lastUpdated": "2026-09-30T00:05:38.429Z",
   "weeks": [
     {
       "weekOffset": -8,
-      "date": "2026-08-04",
+      "date": "2026-08-05",
       "data": [
         [
           {
@@ -503,7 +503,7 @@
     },
     {
       "weekOffset": -7,
-      "date": "2026-08-11",
+      "date": "2026-08-12",
       "data": [
         [
           {
@@ -1003,7 +1003,7 @@
     },
     {
       "weekOffset": -6,
-      "date": "2026-08-18",
+      "date": "2026-08-19",
       "data": [
         [
           {
@@ -1503,7 +1503,7 @@
     },
     {
       "weekOffset": -5,
-      "date": "2026-08-25",
+      "date": "2026-08-26",
       "data": [
         [
           {
@@ -2003,7 +2003,7 @@
     },
     {
       "weekOffset": -4,
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "data": [
         [
           {
@@ -2503,7 +2503,7 @@
     },
     {
       "weekOffset": -3,
-      "date": "2026-09-08",
+      "date": "2026-09-09",
       "data": [
         [
           {
@@ -3003,7 +3003,7 @@
     },
     {
       "weekOffset": -2,
-      "date": "2026-09-15",
+      "date": "2026-09-16",
       "data": [
         [
           {
@@ -3503,7 +3503,7 @@
     },
     {
       "weekOffset": -1,
-      "date": "2026-09-22",
+      "date": "2026-09-23",
       "data": [
         [
           {
@@ -4003,7 +4003,7 @@
     },
     {
       "weekOffset": 0,
-      "date": "2026-09-29",
+      "date": "2026-09-30",
       "data": [
         [
           {
@@ -4503,7 +4503,7 @@
     },
     {
       "weekOffset": 1,
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "data": [
         [
           {
@@ -5003,7 +5003,7 @@
     },
     {
       "weekOffset": 2,
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "data": [
         [
           {
@@ -5103,7 +5103,7 @@
           {
             "subject": "CORE COURSE1",
             "prof": "외부강사 교수",
-            "content": "CORE COURSE1\n\nMEQ (1~4) (120분)\n외부강사 교수",
+            "content": "CORE COURSE1\n\nMEQ (CC1 1~4) (120분)\n외부강사 교수",
             "type": "class"
           },
           {
@@ -5141,7 +5141,7 @@
           {
             "subject": "CORE COURSE1",
             "prof": "외부강사 교수",
-            "content": "CORE COURSE1\n\nMEQ (1~4) (120분)\n외부강사 교수",
+            "content": "CORE COURSE1\n\nMEQ (CC1 1~4) (120분)\n외부강사 교수",
             "type": "class"
           },
           {
@@ -5503,7 +5503,7 @@
     },
     {
       "weekOffset": 3,
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "data": [
         [
           {
@@ -6003,7 +6003,7 @@
     },
     {
       "weekOffset": 4,
-      "date": "2026-10-27",
+      "date": "2026-10-28",
       "data": [
         [
           {
@@ -6209,10 +6209,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "김주연 교수",
+            "content": "CORE COURSE1\n\n실신의 진단과 치료 (60분)\n김주연 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
@@ -6503,7 +6503,7 @@
     },
     {
       "weekOffset": 5,
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "data": [
         [
           {
@@ -6829,10 +6829,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "이경호 교수",
+            "content": "CORE COURSE1\n\n혈뇨 환자의 평가와 감별 진단 (~17:30) (90분)\n이경호 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
@@ -6867,10 +6867,10 @@
             "type": "empty"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "이경호 교수",
+            "content": "CORE COURSE1\n\n혈뇨 환자의 평가와 감별 진단 (~17:30) (90분)\n이경호 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -7003,7 +7003,7 @@
     },
     {
       "weekOffset": 6,
-      "date": "2026-11-10",
+      "date": "2026-11-11",
       "data": [
         [
           {
@@ -7329,10 +7329,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "홍다위 교수",
+            "content": "CORE COURSE1\n\n심근증 (60분)\n홍다위 교수",
+            "type": "class"
           },
           {
             "subject": "",
@@ -7503,7 +7503,7 @@
     },
     {
       "weekOffset": 7,
-      "date": "2026-11-17",
+      "date": "2026-11-18",
       "data": [
         [
           {
@@ -7709,10 +7709,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "김주원 교수",
+            "content": "CORE COURSE1\n\n심폐소생술 (CPR) (60분)\n김주원 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
@@ -7759,15 +7759,15 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "정세민 교수",
+            "content": "CORE COURSE1\n\n기도 및 주기관지 질활의 영상소견 (60분)\n정세민 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
-            "prof": "서지영 교수",
-            "content": "CORE COURSE1\n\n콜로키아 (60분)\n서지영 교수",
+            "prof": "정치량 교수",
+            "content": "CORE COURSE1\n\nARDS (60분)\n정치량 교수",
             "type": "class"
           }
         ],
@@ -7797,16 +7797,16 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "정세민 교수",
+            "content": "CORE COURSE1\n\n폐감염의 영상의학 (60분)\n정세민 교수",
+            "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "서지영 교수",
+            "content": "CORE COURSE1\n\n콜로키아 (60분)\n서지영 교수",
+            "type": "class"
           }
         ],
         [
@@ -8003,7 +8003,7 @@
     },
     {
       "weekOffset": 8,
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "data": [
         [
           {
@@ -8203,10 +8203,10 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "이경호 교수",
+            "content": "CORE COURSE1\n\n급성 신손상 (60분)\n이경호 교수",
+            "type": "class"
           },
           {
             "subject": "CORE COURSE1",
@@ -8241,10 +8241,10 @@
             "type": "time"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "이경호 교수",
+            "content": "CORE COURSE1\n\n신부전의 치료 (60분)\n이경호 교수",
+            "type": "class"
           },
           {
             "subject": "환자와의사1",
@@ -8503,7 +8503,7 @@
     },
     {
       "weekOffset": 9,
-      "date": "2026-12-01",
+      "date": "2026-12-02",
       "data": [
         [
           {
@@ -9003,7 +9003,7 @@
     },
     {
       "weekOffset": 10,
-      "date": "2026-12-08",
+      "date": "2026-12-09",
       "data": [
         [
           {
@@ -9503,7 +9503,7 @@
     },
     {
       "weekOffset": 11,
-      "date": "2026-12-15",
+      "date": "2026-12-16",
       "data": [
         [
           {
@@ -10003,7 +10003,7 @@
     },
     {
       "weekOffset": 12,
-      "date": "2026-12-22",
+      "date": "2026-12-23",
       "data": [
         [
           {
@@ -10503,7 +10503,7 @@
     },
     {
       "weekOffset": 13,
-      "date": "2026-12-29",
+      "date": "2026-12-30",
       "data": [
         [
           {
@@ -11003,7 +11003,7 @@
     },
     {
       "weekOffset": 14,
-      "date": "2027-01-05",
+      "date": "2027-01-06",
       "data": [
         [
           {
@@ -11503,7 +11503,7 @@
     },
     {
       "weekOffset": 15,
-      "date": "2027-01-12",
+      "date": "2027-01-13",
       "data": [
         [
           {
@@ -12003,7 +12003,7 @@
     },
     {
       "weekOffset": 16,
-      "date": "2027-01-19",
+      "date": "2027-01-20",
       "data": [
         [
           {
