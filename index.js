@@ -180,11 +180,23 @@ const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
                 }
               }
             }
-            // 9시부터 마지막 시간대까지 추출
-            var startIndex = 0;
+            // 8시부터 마지막 시간대까지 추출 (8시가 없으면 9시부터 탐색)
+            var startIndex = -1;
             for (var i = 0; i < grid.length; i++) {
-              if (grid[i][0].subject.includes("09:00")) startIndex = i;
+              if (grid[i][0].subject.includes("08:00")) {
+                startIndex = i;
+                break;
+              }
             }
+            if (startIndex === -1) {
+              for (var i = 0; i < grid.length; i++) {
+                if (grid[i][0].subject.includes("09:00")) {
+                  startIndex = i;
+                  break;
+                }
+              }
+            }
+            if (startIndex === -1) startIndex = 1;
             var finalGrid = [grid[0]].concat(grid.slice(startIndex));
             return { data: finalGrid };
           });
