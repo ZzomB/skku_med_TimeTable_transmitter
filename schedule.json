@@ -1,547 +1,9 @@
 {
-  "lastUpdated": "2026-10-17T22:55:08.208Z",
+  "lastUpdated": "2026-10-18T22:49:01.581Z",
   "weeks": [
     {
       "weekOffset": -8,
-      "date": "2026-08-22",
-      "data": [
-        [
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "8.17\n(월)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "8.18\n(화)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "8.19\n(수)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "8.20\n(목)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          },
-          {
-            "subject": "8.21\n(금)",
-            "prof": "",
-            "content": "",
-            "type": "header"
-          }
-        ],
-        [
-          {
-            "subject": "08:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "09:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "허우성 교수",
-            "content": "임상기초의학\n\n산염기 평형 장애의 이해(~10:30) (90분)\n허우성 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "이경수 교수",
-            "content": "임상기초의학\n\n흉부영상진단 총론: 정상흉부 영상 의학, 흉부영상의학의 검사법, 흉부병변의 유형분석 (120분)\n이경수 교수",
-            "type": "class"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "외부강사 교수",
-            "content": "임상기초의학\n\n지혈 및 혈전 검사의 이해_안아리교수님 (60분)\n외부강사 교수",
-            "type": "class"
-          }
-        ],
-        [
-          {
-            "subject": "10:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "외부강사 교수",
-            "content": "임상기초의학\n\n인체유전 Non-mendelian inheritance_김명진 교수님(10:30~) (90분)\n외부강사 교수",
-            "type": "class"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "조성기 교수",
-            "content": "임상기초의학\n\n인터벤션영상의학개론 (60분)\n조성기 교수",
-            "type": "class"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "이경수 교수",
-            "content": "임상기초의학\n\n흉부영상진단 총론: 정상흉부 영상 의학, 흉부영상의학의 검사법, 흉부병변의 유형분석 (120분)\n이경수 교수",
-            "type": "class"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "장자현 교수",
-            "content": "임상기초의학\n\n인체유전 Introduction to Clinical Genetics (60분)\n장자현 교수",
-            "type": "class"
-          }
-        ],
-        [
-          {
-            "subject": "11:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "외부강사 교수",
-            "content": "임상기초의학\n\n인체유전 Non-mendelian inheritance_김명진 교수님(10:30~) (90분)\n외부강사 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "장혜련 교수",
-            "content": "임상기초의학\n\n전해질 대사 장애 (60분)\n장혜련 교수",
-            "type": "class"
-          }
-        ],
-        [
-          {
-            "subject": "12:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "장혜련 교수",
-            "content": "임상기초의학\n\n수분과 염분 균형 (60분)\n장혜련 교수",
-            "type": "class"
-          }
-        ],
-        [
-          {
-            "subject": "13:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "최준영 교수",
-            "content": "임상기초의학\n\n핵의학검사원리의이해1 (60분)\n최준영 교수",
-            "type": "class"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "장자현 교수",
-            "content": "임상기초의학\n\n인체유전 Molecular technologies & genetic testing (60분)\n장자현 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "14:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "최준영 교수",
-            "content": "임상기초의학\n\n핵의학검사원리의이해2 (60분)\n최준영 교수",
-            "type": "class"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "장자현 교수",
-            "content": "임상기초의학\n\n신경계질환의 진단검사적 방법 (60분)\n장자현 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "15:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "김태열 교수",
-            "content": "임상기초의학\n\nMicrobial genetic tests (60분)\n김태열 교수",
-            "type": "class"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "이수연 교수",
-            "content": "임상기초의학\n\n인체유전 Clinical pharmacogenetic (60분)\n이수연 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "16:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "임상기초의학",
-            "prof": "김태열 교수",
-            "content": "임상기초의학\n\n임상미생물학 총론 (60분)\n김태열 교수",
-            "type": "class"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "17:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "18:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "19:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ],
-        [
-          {
-            "subject": "20:00",
-            "prof": "",
-            "content": "",
-            "type": "time"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          },
-          {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
-          }
-        ]
-      ]
-    },
-    {
-      "weekOffset": -7,
-      "date": "2026-08-29",
+      "date": "2026-08-23",
       "data": [
         [
           {
@@ -1078,8 +540,8 @@
       ]
     },
     {
-      "weekOffset": -6,
-      "date": "2026-09-05",
+      "weekOffset": -7,
+      "date": "2026-08-30",
       "data": [
         [
           {
@@ -1616,8 +1078,8 @@
       ]
     },
     {
-      "weekOffset": -5,
-      "date": "2026-09-12",
+      "weekOffset": -6,
+      "date": "2026-09-06",
       "data": [
         [
           {
@@ -2154,8 +1616,8 @@
       ]
     },
     {
-      "weekOffset": -4,
-      "date": "2026-09-19",
+      "weekOffset": -5,
+      "date": "2026-09-13",
       "data": [
         [
           {
@@ -2692,8 +2154,8 @@
       ]
     },
     {
-      "weekOffset": -3,
-      "date": "2026-09-26",
+      "weekOffset": -4,
+      "date": "2026-09-20",
       "data": [
         [
           {
@@ -3230,8 +2692,8 @@
       ]
     },
     {
-      "weekOffset": -2,
-      "date": "2026-10-03",
+      "weekOffset": -3,
+      "date": "2026-09-27",
       "data": [
         [
           {
@@ -3768,8 +3230,8 @@
       ]
     },
     {
-      "weekOffset": -1,
-      "date": "2026-10-10",
+      "weekOffset": -2,
+      "date": "2026-10-04",
       "data": [
         [
           {
@@ -4306,8 +3768,8 @@
       ]
     },
     {
-      "weekOffset": 0,
-      "date": "2026-10-17",
+      "weekOffset": -1,
+      "date": "2026-10-11",
       "data": [
         [
           {
@@ -4844,8 +4306,8 @@
       ]
     },
     {
-      "weekOffset": 1,
-      "date": "2026-10-24",
+      "weekOffset": 0,
+      "date": "2026-10-18",
       "data": [
         [
           {
@@ -5382,8 +4844,8 @@
       ]
     },
     {
-      "weekOffset": 2,
-      "date": "2026-10-31",
+      "weekOffset": 1,
+      "date": "2026-10-25",
       "data": [
         [
           {
@@ -5920,8 +5382,8 @@
       ]
     },
     {
-      "weekOffset": 3,
-      "date": "2026-11-07",
+      "weekOffset": 2,
+      "date": "2026-11-01",
       "data": [
         [
           {
@@ -6458,8 +5920,8 @@
       ]
     },
     {
-      "weekOffset": 4,
-      "date": "2026-11-14",
+      "weekOffset": 3,
+      "date": "2026-11-08",
       "data": [
         [
           {
@@ -6996,8 +6458,8 @@
       ]
     },
     {
-      "weekOffset": 5,
-      "date": "2026-11-21",
+      "weekOffset": 4,
+      "date": "2026-11-15",
       "data": [
         [
           {
@@ -7534,8 +6996,8 @@
       ]
     },
     {
-      "weekOffset": 6,
-      "date": "2026-11-28",
+      "weekOffset": 5,
+      "date": "2026-11-22",
       "data": [
         [
           {
@@ -8072,8 +7534,8 @@
       ]
     },
     {
-      "weekOffset": 7,
-      "date": "2026-12-05",
+      "weekOffset": 6,
+      "date": "2026-11-29",
       "data": [
         [
           {
@@ -8610,8 +8072,8 @@
       ]
     },
     {
-      "weekOffset": 8,
-      "date": "2026-12-12",
+      "weekOffset": 7,
+      "date": "2026-12-06",
       "data": [
         [
           {
@@ -9148,8 +8610,8 @@
       ]
     },
     {
-      "weekOffset": 9,
-      "date": "2026-12-19",
+      "weekOffset": 8,
+      "date": "2026-12-13",
       "data": [
         [
           {
@@ -9686,8 +9148,8 @@
       ]
     },
     {
-      "weekOffset": 10,
-      "date": "2026-12-26",
+      "weekOffset": 9,
+      "date": "2026-12-20",
       "data": [
         [
           {
@@ -10224,8 +9686,8 @@
       ]
     },
     {
-      "weekOffset": 11,
-      "date": "2027-01-02",
+      "weekOffset": 10,
+      "date": "2026-12-27",
       "data": [
         [
           {
@@ -10762,8 +10224,8 @@
       ]
     },
     {
-      "weekOffset": 12,
-      "date": "2027-01-09",
+      "weekOffset": 11,
+      "date": "2027-01-03",
       "data": [
         [
           {
@@ -11300,8 +10762,8 @@
       ]
     },
     {
-      "weekOffset": 13,
-      "date": "2027-01-16",
+      "weekOffset": 12,
+      "date": "2027-01-10",
       "data": [
         [
           {
@@ -11838,8 +11300,8 @@
       ]
     },
     {
-      "weekOffset": 14,
-      "date": "2027-01-23",
+      "weekOffset": 13,
+      "date": "2027-01-17",
       "data": [
         [
           {
@@ -12376,8 +11838,8 @@
       ]
     },
     {
-      "weekOffset": 15,
-      "date": "2027-01-30",
+      "weekOffset": 14,
+      "date": "2027-01-24",
       "data": [
         [
           {
@@ -12914,8 +12376,8 @@
       ]
     },
     {
-      "weekOffset": 16,
-      "date": "2027-02-06",
+      "weekOffset": 15,
+      "date": "2027-01-31",
       "data": [
         [
           {
@@ -12950,6 +12412,544 @@
           },
           {
             "subject": "2.5\n(금)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          }
+        ],
+        [
+          {
+            "subject": "08:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "09:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "10:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "11:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "12:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "13:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "14:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "15:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "16:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "17:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "18:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "19:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ],
+        [
+          {
+            "subject": "20:00",
+            "prof": "",
+            "content": "",
+            "type": "time"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          },
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
+          }
+        ]
+      ]
+    },
+    {
+      "weekOffset": 16,
+      "date": "2027-02-07",
+      "data": [
+        [
+          {
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "2.8\n(월)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "2.9\n(화)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "2.10\n(수)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "2.11\n(목)",
+            "prof": "",
+            "content": "",
+            "type": "header"
+          },
+          {
+            "subject": "2.12\n(금)",
             "prof": "",
             "content": "",
             "type": "header"
