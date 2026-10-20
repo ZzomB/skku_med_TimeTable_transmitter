@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T00:07:14.853Z",
+  "lastUpdated": "2026-10-20T23:40:16.616Z",
   "weeks": [
     {
       "weekOffset": -8,
@@ -5493,10 +5493,10 @@
             "type": "class"
           },
           {
-            "subject": "",
-            "prof": "",
-            "content": "",
-            "type": "empty"
+            "subject": "CORE COURSE1",
+            "prof": "이주명 교수",
+            "content": "CORE COURSE1\n\n관동맥질환의 심혈관조영술 (60분)\n이주명 교수",
+            "type": "class"
           }
         ],
         [
@@ -5683,10 +5683,10 @@
             "type": "class"
           },
           {
-            "subject": "CORE COURSE1",
-            "prof": "이주명 교수",
-            "content": "CORE COURSE1\n\n관동맥질환의 심혈관조영술 (60분)\n이주명 교수",
-            "type": "class"
+            "subject": "",
+            "prof": "",
+            "content": "",
+            "type": "empty"
           }
         ],
         [
